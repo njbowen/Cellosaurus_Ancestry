@@ -1,0 +1,1389 @@
+Cell Line Name,Disease Site,Sex,Age,Derived From Site,"European, South",Native American,African,"East Asian, North","European, North","East Asian, South",South Asian
+1321N1,Astrocytoma,Male,47Y,Brain,0.81,0.0,1.06,1.62,96.5,0.0,0.0
+143B,Osteosarcoma,Female,13Y,"Bone, right femur",58.98,0.0,0.0,0.0,0.0,4.02,37.0
+201T,Lung adenocarcinoma,Male,68Y,Lung,5.55,0.0,88.81,2.58,3.06,0.0,0.0
+22Rv1,Prostate carcinoma,Male,Adult,Prostate,30.62,0.23,0.89,0.52,67.46,0.0,0.27
+23132/87,Gastric adenocarcinoma,Male,72Y,Stomach,39.98,0.35,3.42,1.75,54.5,0.0,0.0
+42-MG-BA,Glioblastoma,Male,63Y,"Brain, temporal lobe",31.9,0.0,0.01,4.88,63.22,0.0,0.0
+451Lu,Cutaneous melanoma,Male,22Y,"Arm, skin",29.61,1.32,0.0,0.06,67.32,0.98,0.7
+5637,Bladder carcinoma,Male,68Y,Urinary bladder,11.89,0.45,30.56,11.48,4.97,40.31,0.35
+59M,High grade ovarian serous adenocarcinoma,Female,65Y,Ascites,33.91,0.0,3.2,4.18,58.71,0.0,0.0
+639V,Ureter urothelial carcinoma,Male,69Y,Ureter,24.62,0.0,0.0,0.0,74.77,0.6,0.0
+647V,Bladder carcinoma,Male,59Y,Urinary bladder,32.52,0.0,1.52,1.95,64.01,0.0,0.0
+697,Childhood B acute lymphoblastic leukemia,Male,12Y,Bone marrow,33.02,0.55,0.56,0.0,65.87,0.0,0.0
+769-P,Renal cell carcinoma,Female,63Y,Kidney,27.0,0.0,1.32,3.45,68.23,0.0,0.0
+786-O,Renal cell carcinoma,Male,58Y,Kidney,29.12,0.0,0.77,4.36,65.75,0.0,0.0
+8-MG-BA,Glioblastoma,Female,54Y,"Brain, frontal lobe",33.19,0.1,0.0,2.53,61.9,0.0,2.29
+8305C,Thyroid gland anaplastic carcinoma,Female,67Y,Thyroid gland,0.09,1.04,0.0,74.78,0.0,24.09,0.0
+8505C,Thyroid gland anaplastic carcinoma,Female,78Y,Thyroid gland,2.8,0.0,0.58,84.79,0.0,11.83,0.0
+A-1207,Glioblastoma,Sex unspecified,Age unspecified,Unknown,32.81,0.0,0.38,3.29,63.52,0.0,0.0
+A-172,Glioblastoma,Male,53Y,Brain,27.77,0.0,0.0,2.05,68.98,0.0,1.21
+A-204,Embryonal rhabdomyosarcoma,Female,1Y,Muscle,27.82,0.2,0.0,0.35,70.8,0.0,0.83
+A-253,Submandibular gland squamous cell carcinoma,Male,54Y,"Salivary gland, submandibular gland",35.39,0.0,0.97,1.81,61.82,0.0,0.0
+A-375,Amelanotic melanoma,Female,54Y,"Leg, skin",29.75,0.49,0.84,1.69,67.22,0.0,0.0
+A-388,Skin squamous cell carcinoma,Male,86Y,Lymph node,41.03,0.32,4.06,3.84,50.76,0.0,0.0
+A-427,Lung adenocarcinoma,Male,52Y,Lung,24.43,0.4,0.0,1.31,71.98,0.28,1.59
+A-431,Skin squamous cell carcinoma,Female,85Y,"Skin, epidermis",65.16,0.0,3.82,7.84,17.15,0.0,6.03
+A-498,Renal cell carcinoma,Male,52Y,Kidney,34.06,0.0,0.37,2.1,63.47,0.0,0.0
+A-549,Lung adenocarcinoma,Male,58Y,Lung,33.16,0.0,0.0,0.72,66.12,0.0,0.0
+A-673,Ewing sarcoma,Female,15Y,Muscle,28.57,0.0,0.54,1.77,69.11,0.0,0.0
+A-704,Renal cell carcinoma,Male,78Y,Kidney,20.13,0.0,71.07,6.26,2.53,0.0,0.0
+A101D,Melanoma,Male,56Y,Lymph node,27.21,0.0,0.0,0.99,71.28,0.0,0.52
+A2058,Amelanotic melanoma,Male,43Y,Lymph node,26.84,0.45,0.0,0.51,71.7,0.0,0.49
+A2780,Ovarian endometrioid adenocarcinoma,Female,Age unspecified,Ovary,4.17,0.0,93.08,2.76,0.0,0.0,0.0
+A3/Kawakami,Diffuse large B-cell lymphoma,Female,68Y,Ascites,0.0,0.0,0.0,79.02,0.43,20.54,0.0
+A4/Fukuda,Adult B acute lymphoblastic leukemia,Female,52Y,Ascites,0.0,0.0,0.0,75.76,0.0,24.23,0.0
+ABC-1,Lung adenocarcinoma,Male,47Y,Pleural effusion,1.09,0.92,0.72,78.6,0.0,18.68,0.0
+ACC-MESO-1,Pleural epithelioid mesothelioma,Female,61Y,"Lung, pleura",0.85,0.64,1.98,84.83,0.0,11.7,0.0
+ACHN,Papillary renal cell carcinoma,Male,22Y,Pleural effusion,25.34,0.0,0.0,0.83,70.53,1.52,1.78
+ACN,Melanoma,Sex unspecified,Age unspecified,Unknown,27.16,0.69,0.3,0.0,70.67,0.16,1.02
+AGS,Gastric adenocarcinoma,Female,54Y,Stomach,31.12,32.25,3.44,5.38,27.58,0.0,0.23
+ALL-PO,Childhood B acute lymphoblastic leukemia,Female,4M,Bone marrow,41.49,0.07,0.0,2.2,52.99,1.8,1.45
+ALL-SIL,Childhood T acute lymphoblastic leukemia,Male,17Y,Peripheral blood,51.09,0.0,1.38,1.27,39.53,1.49,5.24
+AM-38,Glioblastoma,Male,36Y,"Brain, left occipital lobe",2.85,0.0,1.14,90.78,0.0,5.24,0.0
+AML-193,Childhood acute myeloid leukemia,Female,13Y,Peripheral blood,16.74,0.0,65.28,3.56,14.42,0.0,0.0
+AMO1,Plasma cell myeloma,Female,64Y,Ascites,1.66,0.0,1.35,79.12,0.0,17.86,0.0
+AN3-CA,Acanthosis nigricans,Female,55Y,Lymph node,31.54,0.0,0.36,0.85,62.96,1.08,3.21
+ARH-77,Unknown,Female,33Y,Peripheral blood,61.25,0.38,2.24,0.0,25.32,2.18,8.63
+ASH-3,Thyroid gland anaplastic carcinoma,Female,68Y,Thyroid gland,0.0,0.08,0.0,79.16,0.0,20.41,0.34
+AsPC-1,Pancreatic ductal adenocarcinoma,Female,62Y,Ascites,37.57,0.0,0.97,3.23,58.23,0.0,0.0
+ATN-1,Adult T acute lymphoblastic leukemia,Male,47Y,Peripheral blood,1.95,0.05,0.0,78.58,0.0,17.98,1.43
+AU565,Breast adenocarcinoma,Female,43Y,Pleural effusion,34.08,0.0,0.17,1.67,64.07,0.0,0.01
+AZ-521,Duodenal adenocarcinoma,Male,53Y,"Small intestine, duodenum",9.12,0.0,78.39,1.7,10.56,0.0,0.23
+B-CPAP,Poorly differentiated thyroid gland carcinoma,Female,76Y,Thyroid gland,50.97,1.26,0.56,0.45,43.75,1.09,1.92
+BALL-1,Adult B acute lymphoblastic leukemia,Male,75Y,Peripheral blood,0.0,0.0,0.0,81.09,0.0,18.9,0.0
+BB30-HNC,Head and neck squamous cell carcinoma,Female,Age unspecified,Unknown,27.6,0.0,0.71,0.53,70.27,0.0,0.89
+BB49-HNC,Floor of mouth squamous cell carcinoma,Female,70Y,Unknown,38.06,0.55,0.66,0.98,57.6,0.0,2.14
+BB65-RCC,Renal cell carcinoma,Male,Age unspecified,Kidney,35.82,1.94,0.53,1.65,59.69,0.0,0.38
+BC-1,Primary effusion lymphoma,Male,46Y,Ascites,30.53,0.64,0.0,0.52,67.92,0.0,0.4
+BC-3,Primary effusion lymphoma,Male,85Y,Pleural effusion,53.67,1.02,7.13,6.58,25.3,0.0,6.31
+BC-3C,Bladder carcinoma,Female,82Y,Urinary bladder,52.49,0.28,1.78,4.58,37.13,0.0,3.73
+BCP-1,Primary effusion lymphoma,Male,94Y,Peripheral blood,62.51,0.07,1.81,2.0,24.92,0.6,8.1
+BDCM,Acute myeloid leukemia,Male,Age unspecified,Peripheral blood,26.97,0.0,0.02,0.0,70.49,0.0,2.51
+BE-13,Childhood T acute lymphoblastic leukemia,Female,4Y,Peripheral blood,69.88,1.38,3.02,0.0,13.65,1.18,10.89
+Becker,Astrocytoma,Male,57Y,Brain,65.17,0.96,0.35,1.31,21.76,0.09,10.35
+BEN,Lung non-small cell carcinoma,Male,71Y,Supraclavicular lymph node,33.78,0.0,2.03,4.23,59.95,0.0,0.0
+BFTC-905,Bladder carcinoma,Female,51Y,Urinary bladder,3.98,0.0,0.82,33.39,0.0,61.81,0.0
+BFTC-909,Renal pelvis urothelial carcinoma,Male,64Y,"Kidney, renal pelvis",1.02,0.0,0.0,27.83,0.0,71.15,0.0
+BGC-823,Human papillomavirus-related cervical adenocarcinoma,Female,30Y6M,"Uterus, cervix",13.96,0.77,65.99,2.9,16.38,0.0,0.0
+BHT-101,Thyroid gland anaplastic carcinoma,Female,63Y,Lymph node,37.97,0.75,0.56,2.42,57.43,0.0,0.87
+BHY,Alveolar ridge squamous cell carcinoma,Male,52Y,"Oral cavity, alveolar ridge",1.09,1.12,0.0,81.47,0.0,16.1,0.22
+BICR 10,Buccal mucosa squamous cell carcinoma,Female,Age unspecified,"Oral cavity, buccal mucosa",27.87,0.0,0.05,0.01,71.25,0.0,0.82
+BICR 16,Tongue squamous cell carcinoma,Male,Age unspecified,"Oral cavity, tongue",35.88,0.0,0.43,3.56,60.13,0.0,0.0
+BICR 18,Laryngeal squamous cell carcinoma,Male,Age unspecified,Lymph node,38.08,0.0,6.55,7.21,48.15,0.0,0.0
+BICR 22,Tongue squamous cell carcinoma,Male,88Y,Lymph node,43.71,0.0,9.32,10.18,36.79,0.0,0.0
+BICR 31,Tongue squamous cell carcinoma,Male,Age unspecified,"Oral cavity, tongue",34.81,0.0,1.67,1.96,61.56,0.0,0.0
+BICR 56,Tongue squamous cell carcinoma,Female,Age unspecified,"Oral cavity, tongue",28.56,1.04,0.75,1.39,67.74,0.0,0.51
+BICR 6,Hypopharyngeal squamous cell carcinoma,Male,Age unspecified,"Pharynx, hypopharynx",36.88,0.0,4.56,5.39,53.16,0.0,0.0
+BICR 78,Alveolar ridge squamous cell carcinoma,Male,Age unspecified,"Oral cavity, alveolar ridge",28.89,1.14,3.26,2.29,63.51,0.0,0.91
+BJ1-hTERT,Unknown,Male,<1M,"Foreskin, skin",24.72,0.6,0.29,1.01,73.33,0.0,0.05
+BL-41,Burkitt lymphoma,Male,8Y,Unknown,40.71,0.06,0.05,0.0,57.31,0.52,1.34
+BL-70,Burkitt lymphoma,Male,16Y,Unknown,42.5,1.03,2.11,0.85,52.49,0.0,1.04
+BONNA-12,Hairy cell leukemia,Male,46Y,Spleen,26.91,0.0,0.35,1.04,71.7,0.0,0.0
+BPH-1,Benign prostatic hyperplasia,Male,68Y,Prostate,29.17,0.0,0.0,1.5,66.48,0.02,2.82
+BT-20,Invasive breast carcinoma of no special type,Female,74Y,Breast,41.56,0.0,5.3,9.54,43.6,0.0,0.0
+BT-474,Invasive breast carcinoma of no special type,Female,60Y,Breast,26.74,0.0,0.6,2.47,70.19,0.0,0.0
+BT-483,Invasive breast carcinoma of no special type,Female,23Y,Breast,41.87,0.0,3.96,5.8,48.37,0.0,0.0
+BT-549,Invasive breast carcinoma of no special type,Female,72Y,Breast,62.87,0.0,0.21,3.6,26.05,0.0,7.26
+BV-173,"Chronic myelogenous leukemia, BCR-ABL1 positive",Male,45Y,Peripheral blood,41.77,0.0,1.38,2.14,52.2,0.0,2.51
+BxPC-3,Pancreatic ductal adenocarcinoma,Female,61Y,Pancreas,27.79,0.0,1.55,1.41,69.25,0.0,0.0
+C-33 A,Human papillomavirus-independent cervical squamous cell carcinoma,Female,66Y,"Uterus, cervix",31.19,0.33,0.41,0.48,66.58,0.19,0.82
+C-4-I,Human papillomavirus-related cervical squamous cell carcinoma,Female,41Y,"Uterus, cervix",25.76,0.73,0.0,0.0,72.49,0.0,1.02
+C2BBe1,Colon adenocarcinoma,Male,72Y,Colon,40.62,0.0,0.0,1.84,57.43,0.11,0.0
+C32 [Human melanoma],Amelanotic melanoma,Male,53Y,Skin,33.45,1.03,0.0,2.04,63.48,0.0,0.0
+C8166,Unknown,Male,<1D,Umbilical cord blood,33.5,0.05,0.3,1.72,64.43,0.0,0.0
+Ca Ski,Human papillomavirus-related cervical squamous cell carcinoma,Female,40Y,Small intestine,28.76,0.0,1.02,1.86,68.36,0.0,0.0
+CA46,Burkitt lymphoma,Male,Age unspecified,Ascites,13.32,0.85,33.18,7.55,9.41,35.68,0.0
+Ca9-22,Gingival squamous cell carcinoma,Male,43Y,"Oral cavity, gingiva",0.49,0.0,0.96,79.73,0.0,18.82,0.0
+Caco-2,Colon adenocarcinoma,Male,72Y,Colon,44.73,0.0,3.33,4.59,47.35,0.0,0.0
+CADO-ES1,Ewing sarcoma,Female,19Y,Pleural effusion,0.48,0.72,1.63,75.38,0.0,21.78,0.0
+Caki-1,Clear cell renal cell carcinoma,Male,49Y,Skin,58.26,0.91,1.09,2.59,28.81,0.47,7.88
+Caki-2,Papillary renal cell carcinoma,Male,69Y,Kidney,33.76,0.61,0.0,1.28,64.34,0.0,0.0
+CAL-120,Breast carcinoma,Female,43Y,Pleural effusion,42.29,0.0,1.62,3.74,51.79,0.0,0.57
+CAL-12T,Lung non-small cell carcinoma,Male,Age unspecified,Lung,40.37,0.91,0.12,2.34,56.03,0.23,0.0
+CAL-148,Breast carcinoma,Female,58Y,Pleural effusion,48.96,0.26,3.17,2.18,44.85,0.0,0.58
+CAL-27,Tongue adenosquamous carcinoma,Male,56Y,"Oral cavity, tongue",40.51,0.0,2.22,2.6,54.66,0.0,0.0
+CAL-29,Bladder carcinoma,Female,80Y,Urinary bladder,45.18,0.1,0.0,2.83,51.89,0.0,0.0
+CAL-33,Tongue squamous cell carcinoma,Male,69Y,"Oral cavity, tongue",49.56,0.0,0.92,2.32,46.86,0.33,0.0
+CAL-39,Vulvar squamous cell carcinoma,Female,76Y,Vulva,59.19,0.78,2.88,0.0,26.43,1.64,9.08
+CAL-51,Breast carcinoma,Female,45Y,Pleural effusion,40.31,0.75,0.0,0.86,55.8,0.0,2.28
+CAL-54,Renal cell carcinoma,Male,75Y,Pleural effusion,45.35,0.0,0.26,0.0,51.11,0.56,2.72
+CAL-62,Thyroid gland anaplastic carcinoma,Female,70Y,Thyroid gland,50.02,0.27,0.55,1.91,46.22,0.0,1.04
+CAL-72,Osteosarcoma,Male,10Y,"Bone, patella",5.91,0.09,67.94,1.27,0.0,0.0,24.79
+CAL-78,Dedifferentiated chondrosarcoma,Male,76Y,"Thigh, skeletal muscle",67.96,0.0,7.03,6.11,15.05,0.0,3.86
+CAL-85-1,Breast carcinoma,Female,35Y,Breast,7.0,0.0,0.83,4.79,0.0,0.0,87.38
+Calu-1,Lung squamous cell carcinoma,Male,47Y,Pleural effusion,57.8,0.74,0.0,0.11,31.4,0.0,9.94
+Calu-3,Lung adenocarcinoma,Male,25Y,Pleural effusion,29.51,0.0,0.63,2.09,67.76,0.0,0.0
+Calu-6,Lung adenocarcinoma,Female,61Y,Pleural effusion,32.08,0.95,0.17,0.74,66.06,0.0,0.0
+CAMA-1,Breast adenocarcinoma,Female,51Y,Pleural effusion,31.74,0.0,0.37,1.38,66.52,0.0,0.0
+Caov-3,High grade ovarian serous adenocarcinoma,Female,54Y,Ovary,68.85,0.12,2.29,2.22,11.3,0.0,15.22
+Caov-4,High grade ovarian serous adenocarcinoma,Female,45Y,"Fallopian tube, subserosa",27.94,0.0,0.23,4.8,67.03,0.0,0.0
+Capan-1,Pancreatic ductal adenocarcinoma,Male,40Y,Liver,66.44,0.56,1.95,4.79,19.06,0.11,7.09
+Capan-2,Pancreatic ductal adenocarcinoma,Male,56Y,Pancreas,35.95,0.63,0.28,0.28,62.52,0.0,0.34
+CaR-1,Rectal adenocarcinoma,Male,70Y,Left inguinal lymph node,0.0,0.0,0.0,77.73,0.0,21.34,0.92
+CAS-1,Glioblastoma,Male,63Y,Brain,49.46,0.58,0.0,0.0,46.51,0.08,3.36
+CCF-STTG1,Astrocytoma,Female,68Y,Brain,36.87,0.0,0.55,1.13,60.84,0.0,0.6
+CCK-81,Colon adenocarcinoma,Female,62Y,Lymph node,0.0,1.38,0.0,77.93,0.0,20.68,0.0
+CCRF-CEM,Childhood T acute lymphoblastic leukemia,Female,3Y11M,Peripheral blood,28.85,0.21,0.2,0.43,69.4,0.09,0.81
+CESS,Adult acute myeloid leukemia,Male,Adult,Peripheral blood,59.54,0.8,6.92,5.8,21.66,0.0,5.27
+CFPAC-1,Cystic fibrosis,Male,26Y,Liver,45.18,0.0,3.95,5.48,45.39,0.0,0.0
+CGTH-W-1,Thyroid gland squamous cell carcinoma,Male,59Y,Thyroid gland,32.03,2.04,0.0,0.24,64.53,0.0,1.16
+CH-157MN,Meningioma,Female,41Y,"Brain, meninges",38.99,0.0,0.5,2.54,57.82,0.0,0.15
+ChaGo-K-1,Bronchogenic carcinoma,Male,45Y,Hypodermis,34.97,0.0,1.18,3.52,59.93,0.0,0.39
+CHL-1,Melanoma,Female,36Y,Pleural effusion,31.21,0.0,0.0,0.39,68.4,0.0,0.0
+CHP-126,Neuroblastoma,Female,1Y2M,Retroperitoneal space,31.9,0.41,0.0,1.27,65.66,0.0,0.75
+CHP-134,Adrenal gland neuroblastoma,Male,1Y1M,Adrenal gland,28.62,0.0,0.04,0.15,70.26,0.0,0.93
+CHP-212,Neuroblastoma,Male,1Y8M,Brain,25.19,0.0,2.16,1.09,70.26,0.43,0.86
+CHSA0011,Chondrosarcoma,Male,Unknown,Unknown,29.42,0.01,1.37,3.14,66.06,0.0,0.0
+CHSA0108,Chondrosarcoma,Male,Unknown,Unknown,32.32,0.79,2.14,1.29,63.46,0.0,0.0
+CHSA8926,Chondrosarcoma,Male,Unknown,Unknown,26.02,0.93,0.0,0.0,68.86,0.11,4.08
+Ci-1,B-cell non-Hodgkin lymphoma,Female,38Y,Ascites,54.11,0.0,0.56,0.29,34.89,1.5,8.65
+CJM [Human melanoma],Melanoma,Unknown,Unknown,Unknown,0.4,0.61,0.43,76.74,0.0,21.81,0.0
+CL-11,Colon adenocarcinoma,Male,Age unspecified,Colon,34.59,0.0,0.97,2.17,62.27,0.0,0.0
+CL-14,Colon adenocarcinoma,Male,Age unspecified,"Colon, sigmoid",39.58,0.0,3.68,5.8,50.95,0.0,0.0
+CL-34,Colon adenocarcinoma,Female,Age unspecified,Colon,21.37,0.86,0.8,2.45,74.0,0.0,0.51
+CL-40,Colon adenocarcinoma,Female,Age unspecified,Colon,27.8,0.13,0.0,0.0,71.2,0.86,0.0
+CMK,Down syndrome,Male,10M,Peripheral blood,2.33,0.0,0.58,93.95,0.0,3.14,0.0
+CMK-11-5,Down syndrome,Male,10M,Peripheral blood,3.94,0.0,0.58,95.47,0.0,0.0,0.0
+CMK-86,Down syndrome,Male,10M,Peripheral blood,0.0,0.34,0.0,91.48,0.0,8.18,0.0
+CML-T1,"Chronic myelogenous leukemia, BCR-ABL1 positive",Female,36Y,Peripheral blood,0.92,0.0,0.0,71.95,0.0,26.83,0.3
+COLO 201,Colon adenocarcinoma,Male,70Y,Ascites,47.3,0.0,13.18,12.19,27.33,0.0,0.0
+COLO 205,Colon adenocarcinoma,Male,70Y,Ascites,36.53,0.0,0.0,2.08,61.39,0.0,0.0
+COLO 320,Colon adenocarcinoma,Female,55Y,"Colon, sigmoid",80.72,2.1,0.51,3.77,3.59,0.13,9.18
+COLO 320HSR,Colon adenocarcinoma,Female,55Y,"Colon, sigmoid",78.44,2.14,0.0,0.47,6.29,2.14,10.52
+COLO 668,Lung small cell carcinoma,Female,47Y,Brain,45.77,16.55,2.4,3.63,28.55,0.0,3.09
+COLO 678,Colon carcinoma,Male,69Y,Lymph node,35.83,0.29,2.56,3.34,57.97,0.0,0.0
+COLO 679,Cutaneous melanoma,Female,47Y,Soft tissue,32.79,0.0,0.0,0.47,65.46,0.33,0.94
+COLO 680N,Esophageal squamous cell carcinoma,Female,57Y,Esophagus,12.54,0.0,83.09,4.36,0.0,0.0,0.0
+COLO 684,Endometrial adenocarcinoma,Female,63Y,Endometrium,30.43,0.0,0.0,2.07,67.5,0.0,0.0
+COLO 704,High grade ovarian serous adenocarcinoma,Female,46Y,Ascites,30.15,0.08,0.0,1.33,68.17,0.27,0.0
+COLO 741,Melanoma,Female,69Y,Pelvic wall,31.59,0.14,0.0,1.84,63.98,0.0,2.44
+COLO 775,Plasma cell myeloma,Male,61Y,Peripheral blood,16.33,0.0,73.36,2.48,7.83,0.0,0.0
+COLO 783,Melanoma,Female,48Y,Right axillary lymph node,30.81,0.51,0.0,1.36,67.32,0.0,0.0
+COLO 792,Melanoma,Male,62Y,Brain,62.45,0.0,3.5,5.22,22.34,0.0,6.48
+COLO 800,Cutaneous melanoma,Male,14Y,Hypodermis,56.06,0.0,0.0,0.05,40.03,0.97,2.89
+COLO 818,Cutaneous melanoma,Male,14Y,Hypodermis,55.71,0.0,0.0,0.0,39.88,1.07,3.33
+COLO 824,Breast carcinoma,Female,52Y,Pleural effusion,7.67,0.04,85.4,1.28,5.62,0.0,0.0
+COLO 829,Cutaneous melanoma,Male,45Y,Skin,26.07,0.0,0.12,2.63,71.18,0.0,0.0
+COLO 849,Cutaneous melanoma,Male,43Y,Right axillary lymph node,24.82,0.07,0.0,2.02,73.1,0.0,0.0
+COR-L105,Lung adenocarcinoma,Male,Age unspecified,Pleural effusion,27.79,1.16,0.7,2.98,66.49,0.0,0.88
+COR-L23,Lung large cell carcinoma,Male,62Y,Pleural effusion,28.32,0.14,0.0,1.45,69.11,0.0,0.98
+COR-L24,Lung small cell carcinoma,Male,71Y,Lymph node,35.31,0.0,3.16,4.31,57.22,0.0,0.0
+COR-L279,Lung small cell carcinoma,Male,63Y,Lymph node,34.17,0.3,2.83,2.65,60.06,0.0,0.0
+COR-L303,Lung small cell carcinoma,Female,Age unspecified,Lung,28.16,0.33,1.07,2.4,68.04,0.0,0.0
+COR-L311,Lung small cell carcinoma,Male,63Y,Lung,34.37,0.0,1.93,2.41,61.29,0.0,0.0
+COR-L32,Lung squamous cell carcinoma,Sex unspecified,Age unspecified,Bone marrow,27.58,0.0,0.0,1.46,70.96,0.0,0.0
+COR-L321,Lung carcinoma,Female,58Y,Unknown,32.26,0.0,0.0,0.7,67.03,0.0,0.0
+COR-L47,Lung small cell carcinoma,Male,67Y,Bone marrow,34.99,0.43,1.67,2.28,59.47,0.0,1.16
+COR-L51,Lung small cell carcinoma,Male,71Y,Pleural effusion,37.79,0.0,3.99,3.95,54.28,0.0,0.0
+COR-L88,Lung small cell carcinoma,Male,55Y,Pleural effusion,36.74,0.0,2.68,2.39,58.19,0.0,0.0
+COR-L95,Lung small cell carcinoma,Male,64Y,Lung,31.09,0.0,0.63,1.84,66.43,0.0,0.0
+COV318,High grade ovarian serous adenocarcinoma,Female,Age unspecified,Ascites,27.85,0.0,0.0,1.46,70.13,0.0,0.55
+COV362,High grade ovarian serous adenocarcinoma,Female,Age unspecified,Pleural effusion,33.05,0.2,1.85,3.12,61.78,0.0,0.0
+COV434,"Ovarian small cell carcinoma, hypercalcemic type",Female,26Y,"Ovary, ovarian follicle, granulosa cell layer",36.51,0.68,1.5,0.76,60.55,0.0,0.0
+COV504,Ovarian carcinoma,Female,Age unspecified,Pleural effusion,27.23,0.33,0.0,1.96,68.77,0.0,1.71
+COV644,Ovarian mucinous adenocarcinoma,Female,Age unspecified,Ovary,57.17,0.0,1.23,3.96,16.37,0.0,21.27
+CP50-MEL-B,Melanoma,Male,Age unspecified,Unknown,35.11,0.34,0.0,0.0,59.29,2.1,3.16
+CP66-MEL,Melanoma,Male,Age unspecified,Unknown,29.58,0.27,0.0,0.56,67.46,0.0,2.13
+CP67-MEL,Melanoma,Sex unspecified,Age unspecified,Unknown,35.28,0.46,0.09,0.0,64.17,0.0,0.0
+CPC-N,Lung small cell carcinoma,Male,Age unspecified,Pleural effusion,42.0,0.0,0.41,0.58,55.27,0.17,1.56
+CRO-AP2,Primary effusion lymphoma,Male,49Y,Pleural effusion,48.9,0.15,0.25,0.73,44.53,0.29,5.13
+CRO-AP3,Primary effusion lymphoma,Male,42Y,Ascites,51.05,0.0,2.63,0.61,42.74,1.52,1.46
+CS-1 [Human chondrosarcoma],Chondrosarcoma,Male,62Y,"Bone, humerus",29.41,0.36,0.0,1.25,68.97,0.0,0.0
+CTB-1,Diffuse large B-cell lymphoma,Male,70Y,Pericardial effusion,0.0,0.23,0.0,25.3,0.0,74.47,0.0
+CTV-1,Adult T acute lymphoblastic leukemia,Male,Age unspecified,Peripheral blood,46.55,1.28,1.02,0.0,45.18,0.34,5.64
+CW-2,Colon adenocarcinoma,Female,55Y,Colon,0.0,0.0,0.0,75.46,0.0,24.54,0.0
+D-245MG,Glioblastoma,Male,70Y,Brain,28.76,1.42,1.72,0.26,65.72,0.81,1.32
+D-247MG,Gliosarcoma,Female,80Y,Brain,30.2,0.5,0.0,0.0,67.83,0.0,1.46
+D-263MG,Glioblastoma,Female,71Y,Brain,31.01,1.08,0.41,0.75,63.92,0.0,2.84
+D-336MG,Gliosarcoma,Male,68Y,Brain,28.79,0.37,0.62,0.73,68.29,0.0,1.2
+D-392MG,Glioblastoma,Unknown,Adult,Brain,31.73,0.0,1.22,2.63,64.41,0.0,0.0
+D-423MG,Glioblastoma,Male,Adult,Brain,28.1,0.32,0.0,1.3,68.67,1.42,0.18
+D-502MG,Glioblastoma,Unknown,Adult,Brain,29.07,0.0,0.57,0.87,69.07,0.42,0.0
+D-542MG,Glioblastoma,Female,Adult,Brain,3.16,2.46,0.45,53.35,1.0,39.58,0.0
+D-566MG,Glioblastoma,Male,Adult,Brain,30.44,0.49,0.2,0.0,67.4,1.47,0.0
+D283 Med,"Medulloblastoma, non-WNT/non-SHH, group 3",Male,6Y,Ascites,33.18,0.0,1.87,1.34,63.61,0.0,0.0
+D341 Med,"Medulloblastoma, non-WNT/non-SHH, group 3",Male,3Y5M,"Brain, cerebellum",30.09,0.0,0.0,1.21,68.21,0.0,0.49
+DAN-G,Pancreatic adenocarcinoma,Female,68Y,Pancreas,44.28,1.77,0.9,3.79,49.25,0.0,0.0
+Daoy,"Medulloblastoma, SHH-activated, TP53-mutant",Male,4Y,"Brain, posterior fossa",32.54,0.0,0.45,1.54,64.36,0.0,1.1
+Daudi,EBV-related Burkitt lymphoma,Male,16Y,Peripheral blood,4.74,0.12,91.6,2.24,0.0,0.0,1.3
+DB,Diffuse large B-cell lymphoma germinal center B-cell type,Male,45Y,Ascites,29.16,0.0,0.0,0.4,67.72,0.73,1.98
+DBTRG-05MG,Anaplastic astrocytoma,Female,59Y,Brain,63.44,0.0,0.0,0.59,16.56,0.0,19.4
+DEL,"Anaplastic large cell lymphoma, ALK-positive",Male,12Y,Pleural effusion,40.18,0.0,0.65,1.56,56.65,0.0,0.96
+Detroit 562,Pharyngeal squamous cell carcinoma,Female,Age unspecified,Pleural effusion,34.86,0.0,0.82,1.93,61.34,0.0,1.05
+DG-75,Burkitt lymphoma,Male,10Y,Pleural effusion,62.01,1.16,1.72,0.0,25.56,1.7,7.84
+DiFi,Colorectal carcinoma,Female,46Y,Ascites,40.55,0.44,2.91,1.85,54.25,0.0,0.0
+DJM-1,Skin squamous cell carcinoma,Female,87Y,Skin,0.0,0.0,0.0,79.62,0.0,19.44,0.93
+DK-MG,Glioblastoma,Female,67Y,"Brain, right parietal lobe",34.69,0.0,0.82,4.28,60.17,0.0,0.04
+DLD-1,Colon adenocarcinoma,Male,67Y,Colon,32.2,0.31,0.0,0.0,64.92,0.3,2.26
+DM-3,Pleural sarcomatoid mesothelioma,Male,62Y,"Lung, pleura",37.94,0.0,0.0,0.58,58.64,0.68,2.16
+DMS 114,Thoracic SMARCA4-deficient undifferentiated tumor,Male,68Y,Lung,41.14,0.11,0.44,2.38,55.93,0.0,0.0
+DMS 153,Lung small cell carcinoma,Male,44Y,Liver,43.66,0.56,0.64,3.7,51.44,0.0,0.0
+DMS 273,Lung small cell carcinoma,Female,50Y,Pleural effusion,29.94,0.88,0.51,1.83,66.84,0.0,0.0
+DMS 454,Lung small cell carcinoma,Male,Age unspecified,Lung,36.39,0.07,2.12,2.95,58.47,0.0,0.0
+DMS 53,Lung small cell carcinoma,Male,54Y,Lung,37.36,0.0,2.98,4.32,55.34,0.0,0.0
+DMS 79,Lung small cell carcinoma,Male,65Y,Pleural effusion,30.24,0.0,0.52,0.95,66.84,0.0,1.45
+DND-41,Childhood T acute lymphoblastic leukemia,Male,13Y,Peripheral blood,45.76,0.0,1.28,1.0,46.97,0.0,4.99
+DoHH2,Diffuse large B-cell lymphoma germinal center B-cell type,Male,60Y,Pleural effusion,27.92,1.29,0.28,0.0,69.22,0.0,1.29
+DOK,Oral epithelial dysplasia,Male,57Y,"Oral cavity, tongue",29.51,0.7,0.41,2.72,66.66,0.0,0.0
+DoTc2 4510,Cervical carcinoma,Female,Age unspecified,"Uterus, cervix",25.17,0.72,1.27,2.19,68.76,0.0,1.9
+DOV13,Ovarian adenocarcinoma,Female,Age unspecified,Ovary,7.75,0.11,86.88,5.26,0.0,0.0,0.0
+DSH1,Bladder carcinoma,Male,48Y,Urinary bladder,0.61,0.0,0.74,71.8,0.0,26.84,0.0
+DU145,Prostate carcinoma,Male,69Y,Brain,32.8,0.0,0.75,2.66,63.74,0.0,0.04
+DU4475,Breast carcinoma,Female,70Y,Skin,34.04,0.0,0.87,3.81,61.27,0.0,0.0
+DV-90,Lung adenocarcinoma,Male,50Y,Pleural effusion,52.26,0.0,0.68,2.16,41.86,0.0,3.04
+EB1,EBV-related Burkitt lymphoma,Female,9Y,"Bone, jaw, maxilla",3.27,0.0,94.08,1.53,0.0,0.0,1.12
+EB2,EBV-related Burkitt lymphoma,Female,7Y,Ovary,4.8,0.0,92.74,2.43,0.0,0.0,0.02
+EB3 [Human Burkitt lymphoma],EBV-related Burkitt lymphoma,Male,3Y,"Bone, jaw, maxilla",9.53,0.51,83.99,5.96,0.0,0.0,0.0
+EBC-1,Lung squamous cell carcinoma,Male,69Y,Skin,2.73,0.0,1.01,85.35,0.0,10.91,0.0
+EC-GI-10,Esophageal squamous cell carcinoma,Male,65Y,Lymph node,1.02,0.0,2.68,89.75,0.0,5.81,0.73
+ECC10,Gastric small cell carcinoma,Male,73Y,Stomach,0.51,0.44,1.3,81.45,0.0,16.3,0.0
+ECC12,Gastric small cell carcinoma,Male,63Y,Stomach,0.75,0.33,2.31,84.02,0.0,12.58,0.0
+EFE-184,Endometrial carcinoma,Female,69Y,Ascites,38.76,0.31,0.39,1.81,58.73,0.0,0.0
+EFM-19,Breast ductal carcinoma,Female,50Y,Pleural effusion,35.58,0.0,1.96,3.54,58.92,0.0,0.0
+EFM-192A,Breast carcinoma,Female,46Y,Pleural effusion,29.07,0.0,0.34,2.91,67.61,0.0,0.06
+EFO-21,Ovarian serous cystadenocarcinoma,Female,56Y,Ascites,31.61,0.0,1.88,4.99,61.52,0.0,0.0
+EFO-27,Ovarian mucinous adenocarcinoma,Female,36Y,Omentum,27.58,0.0,0.18,1.36,70.88,0.0,0.0
+EGI-1,Cholangiocarcinoma,Male,52Y,Bile duct,21.59,0.79,0.0,0.0,77.61,0.0,0.0
+EHEB,Unknown,Female,69Y,Peripheral blood,27.82,1.03,0.0,0.0,69.25,0.0,1.9
+EJM,Plasma cell myeloma,Female,58Y,Ascites,32.01,0.97,0.0,3.05,63.97,0.0,0.0
+EKVX,Lung adenocarcinoma,Male,Age unspecified,Unknown,28.8,0.92,0.21,1.76,67.1,0.01,1.21
+EM-2,"Childhood chronic myelogenous leukemia, BCR-ABL1 positive",Female,5Y,Bone marrow,28.35,0.0,0.62,2.74,68.28,0.0,0.0
+EMC-BAC-1,Lung adenocarcinoma,Male,Age unspecified,Unknown,6.52,0.0,74.47,2.69,3.5,12.82,0.0
+EMC-BAC-2,Lung adenocarcinoma,Sex unspecified,Age unspecified,Unknown,26.55,0.0,0.13,1.05,72.26,0.0,0.0
+EN,Endometrial carcinoma,Female,50Y,Endometrium,1.18,0.0,0.78,80.75,0.4,16.89,0.0
+EoL-1,"Chronic eosinophilic leukemia, not otherwise specified",Male,33Y,Peripheral blood,43.75,0.0,1.14,2.93,52.17,0.0,0.0
+EPLC-272H,Lung mucoepidermoid carcinoma,Male,57Y,Unknown,48.24,0.0,7.58,9.18,35.01,0.0,0.0
+ES-2,Ovarian clear cell adenocarcinoma,Female,47Y,Ovary,58.83,0.0,2.57,3.68,27.14,0.75,7.03
+ES1,Ewing sarcoma,Female,Unknown,Unknown,27.13,0.47,0.83,0.13,70.63,0.0,0.81
+ES3,Ewing sarcoma,Male,Unknown,Unknown,32.49,0.0,0.0,0.0,64.94,1.17,1.4
+ES4,Ewing sarcoma,Male,Unknown,Unknown,26.22,7.84,1.29,0.0,61.75,1.09,1.81
+ES5,Ewing sarcoma,Male,Unknown,Unknown,32.03,0.0,1.1,1.85,64.55,0.0,0.47
+ES6,Ewing sarcoma,Male,Unknown,Unknown,29.16,0.0,0.0,0.57,67.61,0.0,2.66
+ES7,Ewing sarcoma,Male,Unknown,Unknown,33.1,0.0,1.94,1.71,63.25,0.0,0.0
+ES8,Ewing sarcoma,Male,10Y,Unknown,61.04,0.07,1.48,0.25,26.16,1.89,9.11
+ESO-26,Gastroesophageal junction adenocarcinoma,Male,56Y,"Esophagus, distal",43.52,0.0,3.22,0.0,50.67,2.45,0.14
+ESO-51,Esophageal adenocarcinoma,Male,74Y,"Esophagus, distal",43.9,0.59,3.22,0.0,50.02,1.07,1.19
+ESS-1,Endometrioid stromal sarcoma,Female,76Y,Endometrium,31.95,0.0,0.37,1.73,65.49,0.0,0.47
+ETK-1,Intrahepatic cholangiocarcinoma,Female,61Y,Ascites,4.05,0.0,3.1,74.88,0.67,17.31,0.0
+Evsa-T,Breast carcinoma,Female,58Y,Ascites,67.19,1.1,0.86,2.9,19.45,0.0,8.5
+EW-1,Ewing sarcoma,Male,19Y,Pleural effusion,44.3,1.76,0.04,0.0,53.73,0.0,0.17
+EW-11,Ewing sarcoma,Female,11Y,Mediastinal lymph node,55.92,0.67,20.84,0.0,15.83,2.32,4.42
+EW-12,Ewing sarcoma,Female,Age unspecified,Unknown,53.94,0.0,21.92,2.41,15.31,0.17,6.25
+EW-13,Ewing sarcoma,Male,Age unspecified,Unknown,60.76,0.0,18.44,0.58,15.79,2.48,1.96
+EW-16,Ewing sarcoma,Male,Age unspecified,Unknown,41.99,1.1,0.19,0.0,55.49,0.45,0.79
+EW-18,Ewing sarcoma,Sex unspecified,Age unspecified,Unknown,30.15,0.97,0.0,0.41,68.25,0.0,0.22
+EW-22,Ewing sarcoma,Sex unspecified,Age unspecified,Unknown,37.61,0.0,0.31,0.0,60.63,0.0,1.44
+EW-24,Ewing sarcoma,Sex unspecified,Age unspecified,Unknown,38.28,0.0,0.0,0.0,60.48,1.24,0.0
+EW-3,Ewing sarcoma,Male,14Y,Pleural effusion,45.2,0.33,0.0,0.83,47.05,0.4,6.18
+EW-7,Ewing sarcoma,Female,20Y,Pleural effusion,38.66,0.0,0.24,0.0,57.71,0.0,3.39
+EW-8,Ewing sarcoma,Male,Age unspecified,Bone marrow,32.38,0.0,0.0,1.08,66.53,0.0,0.0
+EWS-502,Ewing sarcoma,Sex unspecified,Age unspecified,Unknown,51.14,0.0,5.9,4.68,38.28,0.0,0.0
+F-36P,Myelodysplastic syndrome,Male,68Y,Pleural effusion,1.5,0.0,1.61,78.68,0.0,18.21,0.0
+F5,Meningioma,Sex unspecified,Age unspecified,Unknown,33.25,0.0,2.76,3.58,60.4,0.0,0.0
+FaDu,Hypopharyngeal squamous cell carcinoma,Male,56Y,"Pharynx, hypopharynx",7.42,0.0,2.06,11.01,0.0,0.0,79.51
+Farage,Diffuse large B-cell lymphoma germinal center B-cell type,Female,70Y,Lymph node,60.11,0.0,2.2,0.0,23.94,1.9,11.86
+FLO-1,Barrett adenocarcinoma,Male,68Y,Esophagus,27.15,0.21,0.63,0.0,71.2,0.68,0.12
+FTC-133,Thyroid gland follicular carcinoma,Male,42Y,Thyroid gland,36.26,1.18,1.29,4.32,56.94,0.0,0.0
+FTC-238,Thyroid gland follicular carcinoma,Male,42Y,Lung,33.42,2.05,1.72,2.0,60.8,0.0,0.0
+FU-OV-1,High grade ovarian serous adenocarcinoma,Female,65Y,Ovary,2.06,0.66,0.0,78.56,0.0,18.72,0.0
+Fu97,Gastric adenocarcinoma,Female,66Y,Stomach,0.0,0.0,0.0,80.85,0.0,19.14,0.0
+G-292 clone A141B1,Osteosarcoma,Female,9Y,Bone,42.1,0.0,1.61,5.38,50.9,0.0,0.0
+G-361,Melanoma,Male,31Y,Skin,28.21,0.03,0.0,1.43,70.33,0.0,0.0
+G-401,Rhabdoid tumor of the kidney,Male,3M,Kidney,56.23,0.75,2.48,2.12,29.24,0.55,8.63
+G-402,Kidney neoplasm,Female,9M,Kidney,18.54,0.17,32.1,0.64,46.83,0.0,1.72
+G-mel,Cutaneous melanoma,Male,Unknown,Unknown,29.66,0.58,0.75,2.61,66.24,0.16,0.0
+GA-10,Adult Burkitt leukemia,Male,41Y,Peripheral blood,28.14,0.0,1.05,0.0,68.9,0.44,1.46
+GAK,Vulvar melanoma,Female,86Y,Inguinal lymph node,0.0,0.0,0.0,77.89,0.0,22.1,0.0
+GaMG,Glioblastoma,Female,42Y,Brain,27.05,0.0,0.0,1.47,71.47,0.0,0.0
+GB-1,Glioblastoma,Male,35Y,Brain,1.34,1.07,0.0,80.28,0.0,17.3,0.0
+GCIY,Gastric adenocarcinoma,Female,39Y,Ascites,0.0,0.43,0.08,86.12,0.0,13.37,0.0
+GCT,Undifferentiated pleomorphic sarcoma,Male,29Y,Pleural effusion,32.51,0.0,0.07,2.31,63.83,0.0,1.28
+GDM-1,Adult acute myeloid leukemia,Female,66Y,Peripheral blood,58.5,1.16,1.71,0.0,27.3,2.32,9.02
+GEO,Colon carcinoma,Sex unspecified,Age unspecified,Colon,14.94,2.66,61.65,1.33,19.42,0.0,0.0
+GI-1,Gliosarcoma,Male,61Y,"Brain, left fronto-parietal lobe",0.24,0.0,0.0,78.75,0.0,20.38,0.63
+GI-ME-N,Neuroblastoma,Female,3Y6M,Bone marrow,55.82,0.42,1.35,0.23,34.54,0.0,7.63
+GLC-82,Human papillomavirus-related cervical adenocarcinoma,Female,30Y6M,"Uterus, cervix",14.1,1.23,66.32,2.62,15.73,0.0,0.0
+GMS-10,Glioblastoma,Male,49Y,Brain,25.49,0.0,0.11,3.91,70.41,0.0,0.08
+GOS-3,Glioblastoma,Male,54Y,"Brain, temporal lobe",20.9,0.0,1.06,2.96,75.07,0.0,0.0
+GOTO,Adrenal gland neuroblastoma,Male,1Y1M,Adrenal gland,0.0,0.0,0.0,74.22,0.0,25.78,0.0
+GP2d,Colon adenocarcinoma,Female,71Y,Colon,24.97,0.0,0.0,0.09,74.93,0.0,0.0
+GP5d,Colon adenocarcinoma,Female,71Y,Colon,24.54,0.0,0.0,0.21,75.24,0.0,0.0
+GR-M,Pancreatic adenocarcinoma,Male,Age unspecified,Pancreas,0.0,0.0,0.0,83.55,0.0,15.04,1.41
+GR-ST,Childhood B acute lymphoblastic leukemia,Male,11Y,Peripheral blood,0.0,0.0,0.0,74.6,0.0,25.39,0.0
+Granta-519,Mantle cell lymphoma,Female,58Y,Peripheral blood,30.67,0.0,1.28,1.9,66.14,0.0,0.0
+GSS,Gastric carcinoma,Male,75Y,Liver,4.73,0.0,6.73,81.61,0.0,6.93,0.0
+GSU,Gastric carcinoma,Male,37Y,Ascites,0.0,0.03,0.31,77.2,0.34,22.13,0.0
+GT3TKB,Lung squamous cell carcinoma,Male,Age unspecified,Pleural effusion,0.0,0.0,0.0,89.7,0.87,9.37,0.05
+H-EMC-SS,Extraskeletal myxoid chondrosarcoma,Female,77Y,Muscle,1.42,0.67,0.61,77.11,0.01,20.07,0.1
+H4,Astrocytoma,Male,37Y,Brain,29.66,1.32,0.0,0.97,68.05,0.0,0.0
+H9,Sezary syndrome,Male,53Y,Peripheral blood,26.72,1.41,4.91,5.59,61.37,0.0,0.0
+HA7-RCC,Renal cell carcinoma,Male,Age unspecified,Unknown,22.26,0.85,0.05,0.0,74.38,0.47,1.99
+HAL-01,B acute lymphoblastic leukemia with TCF3-HLF rearrangement,Female,17Y,Peripheral blood,1.33,0.89,0.0,78.59,0.0,19.2,0.0
+HARA [Human squamous cell lung carcinoma],Lung squamous cell carcinoma,Male,57Y,Pleural effusion,0.21,0.0,0.26,78.38,0.0,20.35,0.8
+HC-1,Hairy cell leukemia,Male,56Y,Peripheral blood,28.43,0.0,0.0,0.03,70.39,0.0,1.15
+HCC-56,Gastric tubular adenocarcinoma,Male,76Y,Ascites,4.49,0.0,3.92,80.09,0.0,11.5,0.0
+HCC1143,Breast ductal carcinoma,Female,52Y,Breast,35.48,0.04,1.22,3.69,59.57,0.0,0.0
+HCC1171,Lung adenocarcinoma,Male,58Y,Lung,32.21,0.0,1.8,0.4,65.59,0.0,0.0
+HCC1187,Breast ductal carcinoma,Female,41Y,Breast,32.34,0.0,1.83,3.32,62.5,0.0,0.0
+HCC1195,Lung adenosquamous carcinoma,Male,47Y,Lung,18.66,0.0,70.13,4.8,6.41,0.0,0.0
+HCC1359,Lung giant cell carcinoma,Female,55Y,Lung,9.72,0.0,86.21,3.0,1.07,0.0,0.0
+HCC1395,Breast ductal carcinoma,Female,43Y,Breast,32.96,0.0,2.0,1.43,62.97,0.0,0.64
+HCC1419,Breast ductal carcinoma,Female,42Y,Breast,32.48,36.71,5.31,7.6,17.9,0.0,0.0
+HCC1428,Breast adenocarcinoma,Female,49Y,Pleural effusion,40.96,0.0,3.84,5.45,49.75,0.0,0.0
+HCC15,Lung squamous cell carcinoma,Male,47Y,Lung,15.71,0.0,76.99,7.3,0.0,0.0,0.0
+HCC1500,Breast ductal carcinoma,Female,32Y,Breast,16.94,1.42,75.35,6.28,0.0,0.0,0.0
+HCC1569,Breast ductal carcinoma,Female,70Y,Breast,12.74,0.0,80.08,2.86,4.32,0.0,0.0
+HCC1599,Breast ductal carcinoma,Female,44Y,Breast,41.85,0.18,4.77,6.87,46.32,0.0,0.0
+HCC1806,"Breast squamous cell carcinoma, acantholytic variant",Female,60Y,Breast,8.72,0.0,80.71,3.77,6.8,0.0,0.0
+HCC1897,Lung squamous cell carcinoma,Male,47Y,Unknown,15.76,1.11,77.47,4.48,1.19,0.0,0.0
+HCC1937,Breast ductal carcinoma,Female,24Y,Breast,34.11,0.0,2.19,5.95,57.75,0.0,0.0
+HCC1954,Breast ductal carcinoma,Female,61Y,Breast,12.74,0.0,0.47,5.83,2.65,0.0,78.3
+HCC202,Breast ductal carcinoma,Female,82Y,Breast,35.61,0.0,2.66,3.54,58.19,0.0,0.0
+HCC2157,Breast ductal carcinoma,Female,48Y,Breast,7.78,0.0,87.84,4.38,0.0,0.0,0.0
+HCC2218,Breast ductal carcinoma,Female,38Y,Breast,39.75,0.0,1.2,1.97,55.07,0.0,2.0
+HCC2279,Lung adenosquamous carcinoma,Female,52Y,Lung,9.04,0.0,4.25,46.33,0.0,40.38,0.0
+HCC2814,Lung squamous cell carcinoma,Male,55Y,Unknown,38.17,0.0,1.59,5.79,54.45,0.0,0.0
+HCC2935,Lung adenocarcinoma,Male,39Y,Unknown,37.21,0.03,3.09,3.93,54.96,0.0,0.78
+HCC2998,Colon adenocarcinoma,Sex unspecified,Age unspecified,Unknown,53.15,0.0,1.41,0.0,35.72,1.46,8.24
+HCC33,Lung small cell carcinoma,Male,52Y,Pleural effusion,33.69,0.0,2.5,2.1,61.5,0.0,0.21
+HCC364,Lung adenocarcinoma,Male,76Y,Unknown,64.04,0.31,2.01,6.71,21.75,0.0,5.19
+HCC366,Lung adenosquamous carcinoma,Female,80Y,Lung,32.8,0.77,1.18,2.6,62.65,0.0,0.0
+HCC38,Breast ductal carcinoma,Female,50Y,Breast,34.34,0.0,1.51,2.67,60.89,0.0,0.58
+HCC4006,Lung adenocarcinoma,Male,>50Y,Pleural effusion,38.54,0.0,1.52,5.13,54.8,0.0,0.0
+HCC44,Lung adenocarcinoma,Female,54Y,Lung,35.99,0.0,0.0,2.25,61.76,0.0,0.0
+HCC70,Breast ductal carcinoma,Female,49Y,Breast,20.07,0.0,70.85,5.47,3.61,0.0,0.0
+HCC78,Lung adenocarcinoma,Male,65Y,Pleural effusion,30.25,0.1,0.0,0.0,67.1,0.13,2.41
+HCC827,Lung adenocarcinoma,Female,39Y,Lung,67.96,0.39,1.62,3.47,19.48,0.0,7.09
+HCC95,Lung squamous cell carcinoma,Male,65Y,Pleural effusion,33.13,0.36,0.18,1.64,62.63,0.0,2.05
+HCE-4,Esophageal squamous cell carcinoma,Female,50Y,Esophagus,4.77,0.0,93.38,0.25,1.6,0.0,0.0
+HCT 116,Colon carcinoma,Male,48Y,Colon,32.93,0.08,0.0,1.16,64.85,0.0,0.97
+HCT 15,Colon adenocarcinoma,Male,67Y,Colon,42.32,0.0,2.68,5.84,49.17,0.0,0.0
+HD-MY-Z,Adult acute myeloid leukemia,Male,29Y,Pleural effusion,28.77,0.0,0.65,4.15,66.43,0.0,0.0
+HDLM-2,Hodgkin lymphoma,Male,74Y,Pleural effusion,35.08,0.0,1.09,1.64,62.14,0.0,0.05
+HDQ-P1,Breast ductal carcinoma,Female,50Y,Breast,41.35,0.0,1.07,3.35,51.89,0.0,2.35
+HEC-1,Endometrial adenocarcinoma,Female,71Y,Endometrium,0.0,0.0,0.0,89.14,0.0,10.41,0.45
+HEC-1-A,Endometrial adenocarcinoma,Female,71Y,Endometrium,0.0,1.14,0.0,91.32,0.49,6.71,0.34
+HEC-1-B,Endometrial adenocarcinoma,Female,71Y,Endometrium,0.0,0.76,0.0,92.48,0.0,6.76,0.0
+HEC-108,Endometrial adenocarcinoma,Female,Age unspecified,Endometrium,0.0,0.0,0.0,78.21,0.0,21.79,0.0
+HEC-151,Endometrial adenocarcinoma,Female,Age unspecified,Endometrium,0.0,0.66,0.0,76.07,0.0,23.27,0.0
+HEC-251,Endometrial carcinoma,Female,53Y,Endometrium,0.0,0.73,0.0,78.55,0.0,20.72,0.0
+HEC-265,Endometrial adenocarcinoma,Female,59Y,Endometrium,0.0,0.0,0.0,72.25,0.0,27.75,0.0
+HEC-50B,Endometrial adenocarcinoma,Female,Age unspecified,Ascites,1.9,0.0,0.78,83.13,0.0,14.2,0.0
+HEC-59,Endometrial adenocarcinoma,Female,Age unspecified,Endometrium,1.25,0.09,1.33,79.33,0.0,17.72,0.28
+HEC-6,"Endometrial endometrioid adenocarcinoma, variant with squamous differentiation",Female,48Y,Endometrium,0.94,0.0,0.0,75.17,0.0,23.89,0.0
+HEL,Erythroleukemia,Male,30Y,Peripheral blood,73.45,1.79,2.4,3.9,13.33,0.0,5.12
+HEL 92.1.7,Erythroleukemia,Male,30Y,Peripheral blood,72.21,2.04,0.0,1.78,17.09,0.21,6.68
+HeLa,Human papillomavirus-related cervical adenocarcinoma,Female,30Y6M,"Uterus, cervix",12.78,0.77,64.74,2.26,19.45,0.0,0.0
+Hep 3B2.1-7,Childhood hepatocellular carcinoma,Male,8Y,Liver,15.69,0.52,71.82,3.16,8.8,0.0,0.0
+Hep-G2,Hepatoblastoma,Male,15Y,Liver,48.99,20.88,2.83,4.48,22.82,0.0,0.0
+Hep-G2/C3A,Hepatoblastoma,Male,15Y,Liver,47.02,22.36,1.61,0.85,26.42,1.57,0.18
+HEY,High grade ovarian serous adenocarcinoma,Female,Age unspecified,Ovary,30.59,0.22,0.88,0.66,67.37,0.27,0.0
+HEY A8,High grade ovarian serous adenocarcinoma,Female,Age unspecified,Ovary,33.46,0.0,1.54,2.65,62.34,0.0,0.0
+HGC-27,Gastric carcinoma,Sex unspecified,Age unspecified,Lymph node,0.7,0.0,0.0,77.61,0.0,21.46,0.22
+HH [Human lymphoma],Primary cutaneous T-cell non-Hodgkin lymphoma,Male,61Y,Peripheral blood,32.82,0.0,2.42,3.69,61.06,0.0,0.0
+HK-2 [Human kidney],Unknown,Male,Adult,"Kidney, proximal tubule",29.92,0.0,3.63,3.68,62.77,0.0,0.0
+HL-60,Adult acute myeloid leukemia,Female,36Y,Peripheral blood,26.32,0.42,1.15,0.4,71.71,0.0,0.0
+HLC-1,Lung adenocarcinoma,Sex unspecified,Age unspecified,Pleural effusion,2.02,0.0,4.37,90.08,0.0,3.53,0.0
+HLE,Adult hepatocellular carcinoma,Male,68Y,Liver,3.89,0.0,1.86,85.81,0.0,8.43,0.0
+HLF,Adult hepatocellular carcinoma,Male,68Y,Liver,0.0,0.0,0.0,85.67,0.0,14.33,0.0
+HLF-a,Unknown,Female,54Y,Lung,5.07,0.0,90.86,2.07,1.99,0.0,0.0
+HMC-1-8,Breast carcinoma,Female,35Y,Pleural effusion,0.0,0.0,0.0,83.08,0.0,16.92,0.0
+HMCB,Melanoma,Female,Unknown,Unknown,33.99,0.0,0.21,1.87,63.92,0.0,0.0
+HMEL,Unknown,Female,Unknown,Breast,10.33,1.37,74.68,1.09,12.54,0.0,0.0
+HMV-II,Vaginal melanoma,Female,65Y,Vagina,0.36,0.0,0.4,76.31,0.78,21.9,0.25
+HN,Oral cavity squamous cell carcinoma,Male,60Y,Cervical lymph node,1.57,0.0,0.89,79.15,0.0,18.39,0.0
+HNT-34,Adult acute myeloid leukemia,Female,47Y,Peripheral blood,3.91,0.0,1.86,80.82,0.0,13.41,0.0
+HO-1-N-1,Buccal mucosa squamous cell carcinoma,Male,Age unspecified,Unknown,0.0,0.0,0.0,77.94,1.04,20.55,0.47
+HO-1-u-1,Floor of mouth squamous cell carcinoma,Male,72Y,"Salivary gland, sublingual gland",0.0,0.0,1.54,76.45,1.61,19.98,0.41
+HOP-62,Lung adenocarcinoma,Female,60Y,Lung,33.3,0.13,0.83,2.13,63.51,0.0,0.11
+HOP-92,Lung non-small cell carcinoma,Male,62Y,Lung,24.16,0.0,0.37,1.34,74.13,0.0,0.0
+HOS,Osteosarcoma,Female,13Y,"Bone, right femur",59.79,0.0,0.0,1.17,0.0,3.52,35.51
+HPAC,Pancreatic adenocarcinoma,Female,64Y,Pancreas,34.47,0.7,0.23,2.44,62.15,0.0,0.0
+HPAF-II,Pancreatic ductal adenocarcinoma,Male,44Y,Ascites,33.49,0.23,0.96,0.7,64.61,0.0,0.0
+HPB-ALL,Childhood T acute lymphoblastic leukemia,Male,14Y,Peripheral blood,0.0,0.0,0.0,78.04,0.0,20.81,1.14
+HRT-18,Colon adenocarcinoma,Male,67Y,Colon,32.91,0.15,0.0,0.34,63.7,1.05,1.84
+Hs 172.T,Unknown,Male,50Y,Urinary bladder,29.31,0.85,0.56,1.69,67.59,0.0,0.0
+Hs 229.T,Unknown,Male,65Y,Lung,29.18,0.3,0.0,0.0,68.77,1.25,0.49
+Hs 274.T,Unknown,Female,66Y,Breast,29.67,0.0,0.6,1.24,67.67,0.53,0.28
+Hs 281.T,Unknown,Female,37Y,Breast,58.64,0.98,1.57,2.05,31.57,0.0,5.19
+Hs 294T,Melanoma,Male,56Y,Lymph node,27.07,0.39,0.0,0.0,72.19,0.0,0.34
+Hs 343.T,Unknown,Female,47Y,Breast,56.3,0.0,1.49,0.52,33.67,1.3,6.72
+Hs 445,Unknown,Female,56Y,Lymph node,34.78,0.0,0.48,1.04,63.69,0.01,0.0
+Hs 571.T,Ovarian carcinoma,Female,Age unspecified,Ovary,39.76,0.08,0.0,0.95,57.56,0.0,1.65
+Hs 578T,Invasive breast carcinoma of no special type,Female,74Y,Breast,34.01,0.0,0.53,1.71,63.73,0.0,0.0
+Hs 600.T,Unknown,Male,Age unspecified,Skin,31.02,1.98,0.0,1.7,65.3,0.0,0.0
+Hs 604.T,Unknown,Male,21Y,Lymph node,9.79,0.15,0.0,0.0,84.03,4.01,2.02
+Hs 606.T,Unknown,Female,44Y,Unknown,59.5,1.87,1.63,0.0,28.96,0.76,7.27
+Hs 611.T,Hodgkin lymphoma,Female,48Y,Lymph node,26.44,0.0,0.0,0.5,71.76,0.05,1.24
+Hs 616.T,Unknown,Male,16Y,Unknown,27.55,0.47,0.0,0.0,68.82,0.96,2.19
+Hs 618.T,Unknown,Female,60Y,Lung,33.72,21.61,2.37,1.07,38.2,1.4,1.63
+Hs 675.T,Unknown,Male,Age unspecified,Colon,25.15,0.02,0.0,0.97,70.6,0.0,3.25
+Hs 683,Oligodendroglioma,Male,76Y,"Brain, left temporal lobe",30.54,0.33,0.0,0.16,68.26,0.0,0.7
+Hs 688(A).T,Unknown,Male,69Y,Skin,31.35,0.0,0.0,0.14,65.65,0.0,2.86
+Hs 695T,Amelanotic melanoma,Male,26Y,Lymph node,25.59,0.62,0.0,0.95,71.17,0.69,0.98
+Hs 698.T,Unknown,Male,70Y,Connective tissue,3.59,0.0,0.32,3.02,0.0,0.0,93.06
+Hs 706.T,Malignancy in giant cell tumor of bone,Female,16Y,Bone,36.71,0.03,2.7,2.51,57.98,0.0,0.07
+Hs 729.T,Embryonal rhabdomyosarcoma,Male,74Y,Muscle,37.75,0.0,1.21,2.49,57.58,0.0,0.96
+Hs 737.T,Unknown,Female,10Y,Unknown,30.8,0.61,0.0,1.03,67.56,0.0,0.0
+Hs 739.T,Unknown,Female,52Y,Breast,0.0,0.15,0.34,79.91,0.0,19.42,0.17
+Hs 742.T,Unknown,Female,71Y,Breast,25.22,1.14,0.0,0.0,72.94,0.7,0.0
+Hs 746.T,Gastric adenocarcinoma,Male,74Y,"Left leg, skeletal muscle",31.23,0.16,0.0,2.9,65.13,0.0,0.58
+Hs 751.T,Unknown,Male,19Y,Lymph node,31.12,0.12,0.33,0.59,67.84,0.0,0.0
+Hs 766T,Pancreatic adenocarcinoma,Male,64Y,Lymph node,32.62,0.92,0.11,1.96,62.85,0.0,1.54
+Hs 819.T,Unknown,Male,60Y,Bone,29.93,0.0,0.0,1.16,67.05,0.22,1.63
+Hs 821.T,Unknown,Female,31Y,Bone,21.62,46.51,1.92,5.29,22.78,0.0,1.88
+Hs 822.T,Unknown,Female,9Y,Bone,30.33,21.59,0.59,1.66,43.77,0.0,2.06
+Hs 839.T,Unknown,Female,42Y,Skin,31.06,0.18,0.72,0.79,67.25,0.0,0.0
+Hs 840.T,Unknown,Male,7Y,Pharynx,21.8,0.34,0.0,0.0,76.29,1.56,0.0
+Hs 852.T,Melanoma,Male,53Y,Skin,1.3,0.0,1.89,80.03,0.0,16.58,0.19
+Hs 863.T,Unknown,Female,5Y,Bone,26.04,0.35,0.0,4.46,67.06,1.13,0.95
+Hs 870.T,Unknown,Male,22Y,Bone,38.77,28.57,5.79,5.49,21.38,0.0,0.01
+Hs 888.T,Unknown,Male,20Y,Lung,57.38,0.69,2.45,0.26,29.88,1.64,7.7
+Hs 895.T,Unknown,Female,48Y,Skin,29.96,1.02,0.77,0.49,67.7,0.0,0.06
+Hs 934.T,Unknown,Female,58Y,Connective tissue,28.98,0.08,0.0,0.36,69.72,0.85,0.0
+Hs 936.T,Melanoma,Male,Age unspecified,Skin,34.35,0.0,1.32,3.21,60.44,0.0,0.68
+Hs 939.T,Melanoma,Female,24Y,Unknown,27.95,0.0,0.37,2.9,68.28,0.0,0.5
+Hs 940.T,Unknown,Male,57Y,Skin,26.75,0.31,0.79,1.11,71.04,0.0,0.0
+Hs 944.T,Cutaneous melanoma,Male,51Y,Unknown,31.37,0.0,0.0,2.22,66.41,0.0,0.0
+HSC-2,Oral cavity squamous cell carcinoma,Male,69Y,Cervical lymph node,0.07,0.0,0.05,83.8,0.0,14.71,1.36
+HSC-3,Tongue squamous cell carcinoma,Male,64Y,Cervical lymph node,1.7,0.0,0.32,85.88,0.0,12.09,0.0
+HSC-39,Gastric signet ring cell adenocarcinoma,Male,54Y,Ascites,0.47,0.0,0.43,78.69,1.03,18.67,0.72
+HSC-4,Tongue squamous cell carcinoma,Male,64Y,Cervical lymph node,0.12,0.0,0.0,84.74,0.0,13.79,1.33
+HT,Diffuse large B-cell lymphoma germinal center B-cell type,Male,70Y,Ascites,30.44,0.0,0.33,0.0,67.93,0.35,0.95
+HT-1080,Fibrosarcoma,Male,35Y,"Bone, pelvis, acetabulum",28.94,0.35,0.86,1.36,68.21,0.29,0.0
+HT-1197,Recurrent bladder carcinoma,Male,44Y,Urinary bladder,31.77,0.12,0.0,1.86,66.24,0.0,0.0
+HT-1376,Bladder carcinoma,Female,58Y,Urinary bladder,58.6,1.4,1.48,1.78,26.62,1.08,9.04
+HT-144,Melanoma,Male,29Y,Hypodermis,25.86,0.49,0.0,0.47,73.18,0.0,0.0
+HT-29,Colon adenocarcinoma,Female,44Y,Colon,63.24,1.05,1.57,3.24,26.11,0.0,4.8
+HT-3,Cervical carcinoma,Female,58Y,Lymph node,37.73,0.0,2.04,3.34,55.35,0.0,1.53
+HT-55,Rectal adenocarcinoma,Female,54Y,Rectum,33.83,0.0,1.79,2.4,61.97,0.0,0.0
+HT115,Colon carcinoma,Unknown,Unknown,Unknown,31.73,0.04,0.18,1.25,66.59,0.0,0.21
+HTC-C3,Thyroid gland anaplastic carcinoma,Female,44Y,Pleural effusion,1.88,0.3,0.77,74.17,0.12,22.11,0.65
+HTK-,Osteosarcoma,Female,13Y,"Bone, right femur",59.95,0.0,0.0,0.0,0.0,5.13,34.91
+HuCC-T1,Intrahepatic cholangiocarcinoma,Male,56Y,Ascites,10.57,0.0,7.42,82.0,0.0,0.0,0.0
+HuG1-N,Gastric tubular adenocarcinoma,Male,55Y,Ascites,1.43,0.2,1.71,75.56,0.0,21.1,0.0
+HuH-1,Adult hepatocellular carcinoma,Male,53Y,Liver,0.92,0.87,0.02,80.09,0.0,18.1,0.0
+HuH-28,Intrahepatic cholangiocarcinoma,Female,37Y,Liver,1.86,0.0,3.05,84.08,0.0,11.01,0.0
+HuH-6,Hepatoblastoma,Male,1Y,Liver,0.0,0.3,0.79,80.92,0.0,17.99,0.0
+HuH-6 Clone 5,Hepatoblastoma,Male,1Y,Liver,3.49,1.36,1.77,76.85,0.0,16.52,0.0
+Huh-7,Adult hepatocellular carcinoma,Male,57Y,Liver,5.69,0.0,1.56,79.68,0.0,13.08,0.0
+HuNS1,Unknown,Male,Age unspecified,Peripheral blood,35.24,1.22,0.0,0.0,56.19,1.71,5.64
+HuO-3N1,Osteosarcoma,Female,15Y,Bone,0.24,0.0,1.58,72.02,1.15,23.28,1.73
+HuO9,Osteosarcoma,Female,13Y,"Bone, right distal femur",3.83,0.0,2.89,77.77,1.78,13.74,0.0
+HuP-T3,Pancreatic adenocarcinoma,Male,66Y,Ascites,0.95,0.0,0.94,78.19,0.0,19.92,0.0
+HuP-T4,Pancreatic adenocarcinoma,Male,60Y,Ascites,0.13,0.39,0.0,74.65,0.0,24.82,0.0
+HuT 102,Mycosis fungoides,Male,28Y,Lymph node,6.25,0.23,84.86,1.93,6.73,0.0,0.0
+HuT 78,Sezary syndrome,Male,53Y,Peripheral blood,28.04,0.76,0.32,2.56,68.01,0.0,0.32
+HuTu 80,Duodenal adenocarcinoma,Male,53Y,"Small intestine, duodenum",11.22,0.0,77.36,2.96,8.45,0.0,0.0
+IA-LM,Lung large cell carcinoma,Male,68Y,Unknown,1.68,0.29,0.16,82.4,0.0,13.99,1.48
+IGR-1,Cutaneous melanoma,Male,42Y,Inguinal lymph node,35.49,0.0,0.53,2.53,60.87,0.0,0.58
+IGR-37,Melanoma,Male,26Y,Inguinal lymph node,34.77,0.29,1.28,1.79,61.87,0.0,0.0
+IGR-39,Melanoma,Male,26Y,Skin,35.28,1.18,1.8,2.76,58.99,0.0,0.0
+IGROV-1,Ovarian endometrioid adenocarcinoma,Female,47Y,Ovary,47.29,0.0,0.69,0.0,46.04,1.43,4.55
+IHH-4,Thyroid gland papillary carcinoma,Male,75Y,Left cervical lymph node,2.88,0.0,1.71,73.08,0.89,21.44,0.0
+IM-9,Unknown,Female,Age unspecified,Bone marrow,31.43,0.41,0.0,0.0,68.16,0.0,0.0
+IM95,Gastric adenocarcinoma,Male,63Y,Stomach,0.0,0.0,0.0,71.45,0.0,28.36,0.19
+IMR-32,Neuroblastoma,Male,1Y1M,Abdomen,20.72,0.56,0.0,1.01,73.7,0.0,3.99
+IMR-5,Neuroblastoma,Male,1Y1M,Abdomen,19.24,0.86,0.0,0.0,75.37,0.06,4.46
+INA-6,Plasma cell myeloma,Male,80Y,Pleural effusion,33.82,0.15,0.46,2.2,63.38,0.0,0.0
+IPC-298,Cutaneous melanoma,Female,64Y,Unknown,44.9,0.2,0.17,1.84,52.05,0.0,0.84
+Ishikawa (Heraklio) 02 ER-,Endometrial adenocarcinoma,Female,39Y,Endometrium,0.0,0.0,0.0,80.66,0.0,19.33,0.0
+IST-MEL1,Melanoma,Male,Adult,Skin,59.56,1.88,1.49,0.0,29.45,1.65,5.96
+IST-Mes1,Pleural epithelioid mesothelioma,Female,70Y,Pleural effusion,53.62,0.0,2.78,4.12,38.45,0.0,1.03
+IST-Mes2,Pleural epithelioid mesothelioma,Male,71Y,Pleural effusion,51.54,0.1,0.0,2.01,43.48,0.0,2.87
+IST-SL1,Lung small cell carcinoma,Male,60Y,Supraclavicular lymph node,63.08,0.0,0.24,0.16,34.83,1.69,0.0
+IST-SL2,Lung small cell carcinoma,Male,Age unspecified,Pleural effusion,47.35,0.72,0.3,0.0,46.2,0.93,4.5
+J82,Bladder carcinoma,Male,58Y,Urinary bladder,26.21,0.0,0.13,2.62,70.61,0.0,0.42
+JAR,Gestational choriocarcinoma,Male,Fetus,Unknown,23.14,0.66,30.11,2.4,42.28,0.0,1.4
+JEG-3,Gestational choriocarcinoma,Male,Fetus,Fetal brain,26.16,0.09,0.01,0.97,71.88,0.0,0.9
+JeKo-1,Mantle cell lymphoma,Female,78Y,Peripheral blood,2.27,0.0,2.41,63.65,0.0,31.67,0.0
+JH-EsoAd1,Barrett adenocarcinoma,Male,66Y,Esophagus,38.99,0.0,0.64,1.94,58.42,0.0,0.0
+JHH-1,Hepatitis C infection,Sex unspecified,50Y,Unknown,0.0,0.0,0.0,81.93,0.0,18.06,0.0
+JHH-2,Adult hepatocellular carcinoma,Male,56Y,Ascites,0.7,0.24,0.15,82.5,0.0,16.41,0.0
+JHH-4,Hepatitis C infection,Male,51Y,Unknown,2.54,0.0,0.12,81.09,0.0,16.25,0.0
+JHH-5,Adult hepatocellular carcinoma,Male,50Y,Liver,0.0,0.04,0.41,81.84,0.0,17.72,0.0
+JHH-6,Hepatitis C infection,Female,57Y,Unknown,0.43,0.29,0.0,84.12,0.0,15.16,0.0
+JHH-7,Adult hepatocellular carcinoma,Male,53Y,Unknown,0.0,0.0,0.0,86.04,0.0,12.59,1.36
+JHOC-5,Ovarian clear cell adenocarcinoma,Female,47Y,Ovary,0.0,0.0,0.38,85.18,0.0,14.43,0.0
+JHOM-1,Ovarian mucinous adenocarcinoma,Female,88Y,Ovary,0.0,0.0,1.03,82.29,0.0,16.67,0.0
+JHOM-2B,Ovarian mucinous adenocarcinoma,Female,56Y,Ovary,0.04,0.7,0.86,79.5,0.0,18.16,0.74
+JHOS-2,High grade ovarian serous adenocarcinoma,Female,45Y,Lymph node,0.68,0.18,0.0,83.51,0.0,14.94,0.69
+JHOS-3,Ovarian serous adenocarcinoma,Female,48Y,Lymph node,0.0,0.0,0.0,83.55,0.0,16.2,0.24
+JHOS-4,High grade ovarian serous adenocarcinoma,Female,44Y,Peritoneum,2.54,0.0,0.71,82.16,0.0,13.28,1.31
+JHU-011,Laryngeal squamous cell carcinoma,Male,45Y,Larynx,29.59,0.0,2.03,2.06,66.03,0.0,0.29
+JHU-022,Laryngeal squamous cell carcinoma,Male,53Y,Larynx,34.14,0.12,0.81,1.81,63.12,0.0,0.0
+JHU-029,Laryngeal squamous cell carcinoma,Male,70Y,Larynx,4.45,0.0,92.58,2.96,0.0,0.0,0.0
+JHUEM-1,Endometrial adenocarcinoma,Female,56Y,Endometrium,0.0,0.0,0.0,76.96,0.0,23.04,0.0
+JHUEM-2,Endometrial adenocarcinoma,Female,62Y,Endometrium,0.0,0.0,0.0,81.43,0.0,17.67,0.89
+JHUEM-3,Endometrial adenocarcinoma,Female,60Y,Endometrium,2.25,0.0,0.23,84.53,0.0,12.99,0.0
+JHUEM-7,Endometrial adenocarcinoma,Female,58Y,Endometrium,0.0,0.0,0.0,77.1,0.0,22.67,0.22
+JIMT-1,Breast ductal carcinoma,Female,62Y,Pleural effusion,16.59,0.79,3.6,7.75,71.27,0.0,0.0
+Jiyoye,EBV-related Burkitt lymphoma,Male,7Y,Ascites,5.16,0.0,92.69,2.15,0.0,0.0,0.0
+JJN-3,Plasma cell myeloma,Female,57Y,Bone marrow,32.53,0.0,0.8,2.53,64.14,0.0,0.0
+JK-1,"Chronic myelogenous leukemia, BCR-ABL1 positive",Male,58Y,Unknown,0.0,0.0,0.0,74.72,0.0,25.28,0.0
+JL-1,Pleural epithelioid mesothelioma,Male,54Y,"Lung, pleura",37.42,0.0,0.03,3.05,56.74,0.0,2.74
+JM-1,B acute lymphoblastic leukemia,Male,Age unspecified,Peripheral blood,31.71,0.0,0.0,1.68,66.6,0.0,0.0
+JMSU-1,Bladder carcinoma,Male,75Y,Ascites,1.75,0.3,1.12,80.58,0.0,16.26,0.0
+JSC-1,Primary effusion lymphoma,Male,52Y,Ascites,31.24,0.09,0.79,0.94,65.05,0.0,1.9
+Jurkat,Childhood T acute lymphoblastic leukemia,Male,14Y,Peripheral blood,26.45,0.0,0.4,0.13,70.73,1.21,1.08
+JURL-MK1,"Chronic myelogenous leukemia, BCR-ABL1 positive",Male,73Y,Peripheral blood,57.22,0.0,3.4,1.62,29.18,0.0,8.59
+JVM-2,Mantle cell lymphoma,Female,63Y,Peripheral blood,30.59,0.51,0.33,0.25,67.89,0.0,0.43
+JVM-3,B-cell prolymphocytic leukemia,Male,73Y,Peripheral blood,27.94,0.22,0.28,1.54,70.02,0.0,0.0
+K-562,"Blast phase chronic myelogenous leukemia, BCR-ABL1 positive",Female,53Y,Pleural effusion,42.97,0.0,5.19,8.4,43.44,0.0,0.0
+K029AX,Cutaneous melanoma,Unknown,Unknown,Unknown,30.86,0.0,0.32,1.49,67.33,0.0,0.0
+K2 [Human melanoma],Melanoma,Unknown,Unknown,Unknown,30.11,0.0,0.06,0.0,67.62,1.34,0.87
+K5,Thyroid gland papillary carcinoma,Male,58Y,Thyroid gland,54.17,0.0,1.75,0.0,35.45,1.37,7.25
+KALS-1,Glioblastoma,Female,74Y,Brain,1.68,0.0,1.68,78.93,0.0,16.7,1.01
+Karpas-1106P,Primary mediastinal (thymic) large B-cell lymphoma,Female,23Y,Pleural effusion,65.12,0.48,1.68,0.25,19.43,1.18,11.86
+Karpas-231,Diffuse large B-cell lymphoma,Female,71Y,Peripheral blood,30.33,0.0,0.0,1.09,68.07,0.0,0.51
+Karpas-299,"Anaplastic large cell lymphoma, ALK-positive",Male,25Y,Peripheral blood,31.36,0.18,0.22,0.0,67.06,0.0,1.17
+Karpas-422,Diffuse large B-cell lymphoma germinal center B-cell type,Female,73Y,Pleural effusion,27.64,0.49,0.0,0.0,71.53,0.0,0.34
+Karpas-45,Childhood T acute lymphoblastic leukemia,Male,2Y,Bone marrow,28.16,0.47,0.06,0.03,68.54,0.0,2.75
+Karpas-620,Plasma cell myeloma,Female,77Y,Peripheral blood,31.96,0.0,1.6,2.67,63.77,0.0,0.0
+Kasumi-1,Childhood acute myeloid leukemia with maturation,Male,7Y,Peripheral blood,1.67,0.0,1.19,74.84,0.0,22.29,0.0
+Kasumi-2,Childhood B acute lymphoblastic leukemia,Male,15Y,Bone marrow,0.78,0.35,0.0,80.22,1.01,17.64,0.0
+Kasumi-6,Adult acute myeloid leukemia,Male,64Y,Peripheral blood,0.0,0.0,0.79,75.55,0.0,23.65,0.0
+KATO III,Down syndrome,Male,57Y,Pleural effusion,0.0,0.0,0.78,78.55,0.06,19.58,1.02
+KCI-MOH1,Pancreatic adenocarcinoma,Female,64Y,Pancreas,32.5,0.11,0.0,2.33,65.07,0.0,0.0
+KCL-22,"Chronic myelogenous leukemia, BCR-ABL1 positive",Female,32Y,Pleural effusion,0.0,0.5,0.0,75.25,0.0,24.24,0.0
+KE-37,Adult T acute lymphoblastic leukemia,Male,27Y,Unknown,30.66,0.41,0.86,0.97,66.92,0.0,0.18
+KE-39,Gastric adenocarcinoma,Male,77Y,Lymph node,4.45,0.0,1.5,89.52,0.0,4.53,0.0
+KE-97,Unknown,Unknown,Unknown,Unknown,0.0,0.0,0.0,80.49,0.0,19.51,0.0
+Kelly,Neuroblastoma,Female,1Y,Brain,33.22,0.0,2.15,2.95,61.68,0.0,0.0
+KG-1,Adult acute myeloid leukemia,Male,59Y,Bone marrow,7.34,0.0,84.82,3.33,3.95,0.0,0.57
+KG-1-C,Oligodendroglioma,Male,13Y,Brain,6.98,0.0,8.0,84.74,0.0,0.27,0.0
+KGN,Ovarian granulosa cell tumor,Female,63Y,"Ovary, ovarian follicle, granulosa cell layer",0.0,0.09,0.0,73.92,0.0,24.17,1.82
+KHM-1B,Plasma cell myeloma,Male,53Y,Pleural effusion,4.66,0.0,0.34,77.81,0.0,17.18,0.0
+Ki-JK,"Anaplastic large cell lymphoma, ALK-positive",Male,15Y,Pleural effusion,0.97,0.0,0.29,78.51,0.0,20.22,0.0
+KINGS-1,Anaplastic astrocytoma,Male,67Y,Brain,0.0,0.0,0.0,73.94,0.0,26.06,0.0
+KLE,Endometrial adenocarcinoma,Female,68Y,Endometrium,35.06,0.23,0.19,3.62,60.58,0.0,0.32
+KLM-1,Pancreatic ductal adenocarcinoma,Male,Age unspecified,Liver,0.0,0.0,0.52,88.41,0.0,10.63,0.44
+KM-H2,Hodgkin lymphoma,Male,37Y,Pleural effusion,1.75,0.0,1.68,78.89,0.0,17.68,0.0
+KM12,Colon carcinoma,Male,Age unspecified,Colon,32.97,0.44,0.84,1.48,63.68,0.0,0.59
+KMBC-2,Bladder carcinoma,Sex unspecified,Age unspecified,Unknown,0.81,0.61,0.09,77.27,0.0,21.21,0.0
+KMH-2,Thyroid gland anaplastic carcinoma,Male,71Y,Thyroid gland,1.41,0.61,1.62,81.17,0.83,14.36,0.0
+KMM-1,Plasma cell myeloma,Male,62Y,Unknown,0.0,0.0,0.0,81.62,0.0,17.61,0.77
+KMOE-2,Erythroleukemia,Female,2Y,Peripheral blood,0.0,0.02,0.41,78.12,0.23,19.8,1.43
+KMRC-1,Clear cell renal cell carcinoma,Male,Adult,Kidney,0.0,0.41,0.0,74.54,0.0,25.05,0.0
+KMRC-2,Clear cell renal cell carcinoma,Male,Adult,Kidney,0.0,0.74,0.0,73.3,0.0,25.71,0.24
+KMRC-20,Clear cell renal cell carcinoma,Sex unspecified,Age unspecified,Kidney,4.3,0.0,3.3,77.74,0.0,14.66,0.0
+KMRC-3,Clear cell renal cell carcinoma,Male,Adult,Kidney,2.47,0.0,1.13,78.77,0.0,17.63,0.0
+KMS-11,Plasma cell myeloma,Female,67Y,Pleural effusion,2.81,0.01,4.44,82.62,0.0,10.11,0.0
+KMS-12-BM,Plasma cell myeloma,Female,64Y,Bone marrow,2.0,0.0,0.01,81.71,0.0,16.28,0.0
+KMS-18,Plasma cell myeloma,Male,60Y,Peripheral blood,0.0,0.0,0.0,81.47,0.0,18.53,0.0
+KMS-20,Plasma cell myeloma,Female,65Y,Bone marrow,0.81,0.24,0.0,84.32,0.0,14.3,0.32
+KMS-21-BM,Unknown,Sex unspecified,Age unspecified,Unknown,0.0,0.0,0.0,78.63,0.0,21.2,0.16
+KMS-26,Plasma cell myeloma,Male,50Y,Pleural effusion,5.08,0.0,1.51,82.18,0.0,11.23,0.0
+KMS-27,Plasma cell myeloma,Male,52Y,Peripheral blood,0.0,0.28,0.0,76.27,0.0,23.45,0.0
+KMS-28BM,Plasma cell myeloma,Female,77Y,Bone marrow,0.91,0.0,2.75,76.63,0.0,19.7,0.0
+KMS-34,Plasma cell myeloma,Female,60Y,Pleural effusion,0.0,0.47,0.0,71.46,0.05,28.03,0.0
+KNS-42,Glioblastoma,Male,16Y,"Brain, right fronto-parietal lobe",0.22,0.32,0.0,85.4,0.0,14.06,0.0
+KNS-60,Glioblastoma,Male,55Y,Brain,0.73,0.0,0.0,80.41,0.0,18.86,0.0
+KNS-62,Lung squamous cell carcinoma,Male,49Y,Brain,5.26,0.0,2.64,85.09,0.0,7.0,0.0
+KNS-81,Glioblastoma,Male,65Y,Brain,2.06,1.05,0.61,78.9,0.0,17.38,0.0
+KNS-81-FD,Glioblastoma,Male,65Y,Brain,0.0,1.58,0.0,77.83,0.0,20.58,0.0
+KO52,Adult acute myeloid leukemia,Male,46Y,Bone marrow,0.49,0.74,0.61,70.18,0.0,27.99,0.0
+KON,Floor of mouth squamous cell carcinoma,Male,76Y,Cervical lymph node,0.25,0.46,0.36,79.36,0.27,18.6,0.7
+KOPN-8,Childhood B acute lymphoblastic leukemia,Female,3M,Peripheral blood,2.49,0.0,3.7,80.77,0.0,13.03,0.0
+KOSC-2,Floor of mouth squamous cell carcinoma,Male,51Y,"Oral cavity, floor of mouth",3.2,0.0,1.44,72.8,0.0,22.55,0.0
+KP-1N,Pancreatic ductal adenocarcinoma,Male,56Y,Pancreas,32.09,0.95,0.39,0.0,65.14,1.14,0.29
+KP-2,Pancreatic carcinoma,Female,65Y,Pancreas,2.24,0.0,1.37,79.94,0.0,16.44,0.0
+KP-3,Pancreatic adenosquamous carcinoma,Male,75Y,Liver,0.25,0.8,0.33,78.29,0.07,19.41,0.83
+KP-4,Pancreatic carcinoma,Male,50Y,Ascites,0.0,0.0,0.0,78.42,1.23,20.35,0.0
+KP-N-RT-BM-1,Adrenal gland neuroblastoma,Female,1Y2M,Bone marrow,2.27,0.27,0.43,72.99,0.0,24.04,0.0
+KP-N-SI9s,Adrenal gland neuroblastoma,Male,5Y,Left axillary lymph node,0.0,0.0,0.0,75.78,0.0,24.21,0.0
+KP-N-YN,Adrenal gland neuroblastoma,Male,2Y,Right pararenal lymph node,0.76,0.15,0.0,73.42,0.0,25.67,0.0
+KP-N-YS,Adrenal gland neuroblastoma,Male,4Y,Bone marrow,0.0,1.29,0.0,74.96,0.0,23.74,0.0
+KPL-1,Invasive breast carcinoma of no special type,Female,69Y,Pleural effusion,40.02,0.0,2.04,4.61,53.32,0.0,0.0
+KS-1 [Human glioblastoma],Glioblastoma,Female,45Y,Brain,0.52,0.0,0.01,74.63,0.0,23.63,1.21
+KTCTL-13,Clear cell renal cell carcinoma,Male,57Y,Kidney,20.46,0.52,0.27,1.51,76.23,0.0,1.01
+KTCTL-140,Clear cell renal cell carcinoma,Female,65Y,Kidney,33.41,0.77,0.0,2.03,62.07,0.0,1.72
+KTCTL-195,Clear cell renal cell carcinoma,Male,46Y,Kidney,33.4,1.71,0.0,0.0,62.95,0.0,1.93
+KTCTL-1M,Clear cell renal cell carcinoma,Male,63Y,Kidney,34.35,0.0,0.0,0.0,63.61,0.82,1.22
+KTCTL-21,Clear cell renal cell carcinoma,Male,49Y,Unknown,35.62,0.07,0.0,0.03,62.87,0.0,1.41
+KTCTL-26A,Clear cell renal cell carcinoma,Male,77Y,Kidney,29.34,0.87,0.0,1.55,66.58,0.0,1.66
+KU-19-19,Bladder carcinoma,Male,76Y,Urinary bladder,0.57,0.0,0.0,77.87,0.0,21.55,0.0
+Ku812,"Chronic myelogenous leukemia, BCR-ABL1 positive",Male,38Y,Peripheral blood,0.42,0.62,0.0,85.34,0.88,12.57,0.16
+Kuramochi,High grade ovarian serous adenocarcinoma,Female,Age unspecified,Ascites,2.48,0.0,0.0,85.58,0.0,11.82,0.12
+KY821,Acute myelomonocytic leukemia,Male,28Y,"Brain, meninges",0.0,0.0,0.0,76.02,0.0,23.98,0.0
+KYAE-1,Esophageal adenocarcinoma,Male,60Y,Pleural effusion,0.0,1.72,0.0,76.1,0.0,22.17,0.0
+KYM-1,Embryonal rhabdomyosarcoma,Male,9M,Neck,0.0,0.0,0.0,74.54,0.0,24.94,0.51
+KYO-1,"Chronic myelogenous leukemia, BCR-ABL1 positive",Male,22Y,Peripheral blood,5.83,0.0,3.73,78.04,0.0,12.39,0.0
+KYSE-140,Esophageal squamous cell carcinoma,Male,54Y,Esophagus,6.23,0.0,3.5,83.8,0.0,6.46,0.0
+KYSE-150,Esophageal squamous cell carcinoma,Female,49Y,Esophagus,1.08,0.0,0.41,79.69,0.0,18.82,0.0
+KYSE-180,Esophageal squamous cell carcinoma,Male,53Y,Esophagus,0.04,0.0,0.0,75.43,0.0,22.18,2.35
+KYSE-220,Esophageal squamous cell carcinoma,Male,78Y,Esophagus,1.15,0.0,0.96,75.9,1.79,20.19,0.0
+KYSE-270,Esophageal squamous cell carcinoma,Male,79Y,Esophagus,0.78,0.0,0.0,78.68,0.0,20.54,0.0
+KYSE-30,Esophageal squamous cell carcinoma,Male,64Y,Esophagus,0.0,0.0,0.0,75.07,0.0,24.93,0.0
+KYSE-410,Esophageal squamous cell carcinoma,Male,51Y,Esophagus,0.0,0.0,0.02,79.58,0.0,19.99,0.41
+KYSE-450,Esophageal squamous cell carcinoma,Male,59Y,Esophagus,0.21,0.0,0.35,79.0,0.0,19.85,0.58
+KYSE-50,Esophageal squamous cell carcinoma,Male,58Y,Esophagus,0.0,0.0,0.31,73.2,0.0,24.47,2.01
+KYSE-510,Esophageal squamous cell carcinoma,Female,67Y,Esophagus,2.16,0.0,0.71,82.59,0.0,14.53,0.0
+KYSE-520,Esophageal squamous cell carcinoma,Female,58Y,Esophagus,2.7,1.16,1.52,82.25,0.0,12.37,0.0
+KYSE-70,Esophageal squamous cell carcinoma,Male,77Y,Esophagus,0.0,0.0,0.22,75.55,0.0,23.91,0.33
+L-1236,Hodgkin lymphoma,Male,34Y,Peripheral blood,27.1,0.0,0.0,1.96,70.78,0.0,0.15
+L-363,Plasma cell myeloma,Female,36Y,Peripheral blood,26.89,0.14,0.73,1.89,70.35,0.0,0.0
+L-428,Hodgkin lymphoma,Female,37Y,Pleural effusion,28.79,0.0,2.16,3.23,65.81,0.0,0.0
+L-540,Hodgkin lymphoma,Female,20Y,Bone marrow,27.46,0.0,0.0,1.11,70.77,0.61,0.05
+L3.3,Pancreatic adenosquamous carcinoma,Female,77Y,Celiac axis lymph node,5.87,2.01,82.98,6.2,2.94,0.0,0.0
+LA-N-6,Neuroblastoma,Male,6Y,Bone marrow,28.2,23.6,2.47,3.12,42.61,0.0,0.0
+LAMA-84,"Chronic myelogenous leukemia, BCR-ABL1 positive",Female,29Y,Peripheral blood,52.05,0.0,14.08,1.13,29.64,1.46,1.64
+LB1047-RCC,Renal cell carcinoma,Female,Age unspecified,Lymph node,58.33,0.0,0.9,0.45,20.14,0.0,20.18
+LB2241-RCC,Renal cell carcinoma,Male,Age unspecified,Kidney,27.17,1.3,0.0,0.0,69.13,0.65,1.75
+LB2518-MEL,Melanoma,Female,Age unspecified,Unknown,34.71,0.0,0.84,0.0,61.82,0.68,1.95
+LB373-MEL-D,Melanoma,Female,Age unspecified,Unknown,31.01,0.56,1.8,0.8,65.32,0.0,0.51
+LB647-SCLC,Lung small cell carcinoma,Male,Age unspecified,Unknown,32.15,0.14,0.0,0.0,66.53,0.99,0.19
+LB771-HNC,Head and neck squamous cell carcinoma,Male,Age unspecified,Unknown,37.83,0.55,0.73,0.07,59.61,0.71,0.51
+LB831-BLC,Bladder carcinoma,Male,65Y,Urinary bladder,33.23,0.49,0.0,0.0,63.52,0.01,2.75
+LB996-RCC,Renal cell carcinoma,Male,Age unspecified,Kidney,49.72,1.05,0.0,0.0,45.92,0.4,2.91
+LC-1/sq,Lung squamous cell carcinoma,Male,69Y,Lung,0.0,0.0,0.33,91.84,0.0,7.55,0.28
+LC-1/sq-SF,Lung squamous cell carcinoma,Male,69Y,Lung,0.0,0.0,1.68,96.94,0.0,1.38,0.0
+LC-1F,Lung squamous cell carcinoma,Male,69Y,Lung,5.06,0.0,6.24,88.7,0.0,0.0,0.0
+LC-2/ad,Lung adenocarcinoma,Female,51Y,Pleural effusion,4.65,0.63,3.51,76.2,0.91,13.98,0.14
+LC4-1,Childhood B acute lymphoblastic leukemia,Female,13Y,Unknown,0.0,0.0,0.0,75.57,0.0,23.72,0.71
+LCLC-103H,Lung large cell carcinoma,Male,61Y,Pleural effusion,33.55,0.0,1.78,3.13,61.54,0.0,0.0
+LCLC-97TM1,Lung large cell carcinoma,Male,44Y,Lung,39.32,0.5,4.96,5.82,49.41,0.0,0.0
+Li-7,Adult hepatocellular carcinoma,Male,45Y,Liver,0.0,0.93,0.0,80.68,0.44,17.95,0.0
+LIM1215,Colon adenocarcinoma,Male,34Y,Omentum,57.24,0.0,5.72,3.18,26.95,0.0,6.91
+LK-2,Lung squamous cell carcinoma,Male,74Y,Lung,1.08,0.0,0.42,82.35,0.0,16.15,0.0
+LMSU,Gastric carcinoma,Female,27Y,Lymph node,0.71,0.32,0.29,85.74,0.0,12.36,0.58
+LN-18,Glioblastoma,Male,61Y,"Brain, right temporal lobe",41.12,0.22,0.83,3.7,53.19,0.0,0.94
+LN-229,Glioblastoma,Female,60Y,"Brain, right frontal parieto-occipital cortex",38.27,0.0,0.0,2.23,59.47,0.0,0.02
+LN-235,Astrocytoma,Male,38Y,"Brain, right fronto-temporal lobe",65.09,0.31,3.32,4.46,23.54,0.0,3.28
+LN-308,Astrocytoma,Male,60Y,"Brain, right parieto-occipital lobe",52.76,0.47,0.02,2.42,44.33,0.0,0.0
+LN-319,Astrocytoma,Male,67Y,"Brain, right temporal lobe",29.81,0.71,1.07,1.65,65.6,0.0,1.15
+LN-340,Glioblastoma,Male,57Y,"Brain, right parietal lobe",41.49,0.0,0.66,3.84,54.01,0.0,0.0
+LN-382,Glioblastoma,Male,67Y,"Brain, right fronto-parietal lobe",38.35,0.0,0.37,1.0,59.11,0.55,0.62
+LN-405,Glioblastoma,Female,61Y,"Brain, left fronto-temporal lobe",38.13,0.0,1.81,1.39,55.54,0.0,3.12
+LN-443,Glioblastoma,Female,48Y,"Brain, left parietal lobe",60.91,0.0,3.39,4.23,27.1,0.0,4.37
+LNCaP clone FGC,Prostate carcinoma,Male,50Y,Left supraclavicular lymph node,57.41,0.31,2.89,0.0,28.39,2.4,8.61
+LNZTA3WT4,Astrocytoma,Male,60Y,"Brain, right parieto-occipital lobe",49.7,1.36,1.42,1.52,44.35,0.0,1.65
+LOU-NH91,Lung squamous cell carcinoma,Female,64Y,"Lung, right lower lobe",37.36,0.0,0.6,3.36,58.24,0.0,0.43
+Loucy,Adult T acute lymphoblastic leukemia,Female,38Y,Peripheral blood,58.12,0.51,0.63,1.01,26.95,2.78,9.99
+LoVo,Colon adenocarcinoma,Male,56Y,Left supraclavicular lymph node,27.34,0.0,0.0,0.0,71.69,0.0,0.96
+LOX-IMVI,Amelanotic melanoma,Male,58Y,Axillary lymph node,29.14,0.0,1.11,2.55,67.19,0.0,0.0
+LP-1,Plasma cell myeloma,Female,56Y,Peripheral blood,51.44,0.0,0.21,3.2,42.82,0.0,2.32
+LS1034,Cecum adenocarcinoma,Male,54Y,Cecum,34.98,1.06,0.0,0.24,62.34,1.27,0.11
+LS123,Colon adenocarcinoma,Female,65Y,Colon,28.34,0.0,0.0,1.17,70.48,0.0,0.0
+LS180,Colon adenocarcinoma,Female,58Y,Colon,55.48,0.0,1.1,0.33,35.25,0.79,7.05
+LS411N,Cecum adenocarcinoma,Male,32Y,Cecum,59.95,0.0,1.71,2.86,27.91,0.0,7.57
+LS513,Cecum adenocarcinoma,Male,63Y,"Intestine, ileocecal valve",43.0,0.0,0.3,4.01,52.68,0.0,0.0
+Lu-134-A,Lung small cell carcinoma,Male,80Y,Lung,0.0,0.0,0.6,73.6,0.3,23.8,1.7
+Lu-135,Lung small cell carcinoma,Male,69Y,Lung,3.52,0.34,1.7,77.4,0.0,17.05,0.0
+Lu-139,Lung small cell carcinoma,Male,63Y,Lung,0.0,0.0,1.34,86.97,2.93,5.88,2.89
+Lu-165,Lung small cell carcinoma,Male,50Y,Lymph node,0.0,0.53,0.0,28.73,0.0,70.74,0.0
+Lu-65,Lung giant cell carcinoma,Male,64Y,Lung,1.17,0.0,0.0,79.97,0.3,18.08,0.48
+Lu-99,Lung giant cell carcinoma,Male,63Y,Lung,1.62,0.0,0.25,84.63,0.0,13.5,0.0
+Lu-99A,Lung giant cell carcinoma,Male,63Y,Lung,7.13,0.0,5.88,75.94,2.28,8.76,0.0
+LUDLU-1,Lung squamous cell carcinoma,Male,72Y,Unknown,37.65,0.66,1.82,3.82,56.05,0.0,0.0
+LXF 289,Lung adenocarcinoma,Male,62Y,Lung,30.93,0.0,0.0,2.04,66.88,0.0,0.14
+M-07e,Childhood acute megakaryoblastic leukemia,Female,6M,Peripheral blood,41.63,0.0,8.96,0.92,45.47,0.0,3.01
+M059J,Glioblastoma,Male,33Y,Brain,28.55,0.0,1.01,2.75,67.68,0.0,0.0
+M059K,Glioblastoma,Male,33Y,Brain,28.16,0.0,0.16,2.3,69.38,0.0,0.0
+M14,Amelanotic melanoma,Male,33Y,"Right buttock, hypodermis",30.39,0.0,0.64,0.0,67.89,1.08,0.0
+Malme-3M,Melanoma,Male,43Y,Lung,31.17,0.0,0.63,1.38,66.47,0.0,0.35
+MC-1010,Adult acute myeloid leukemia,Male,Unknown,Unknown,35.76,0.93,0.31,2.01,60.99,0.0,0.0
+MC/CAR,Unknown,Male,81Y,Peripheral blood,32.76,0.0,0.32,0.0,66.92,0.0,0.0
+MC116,B-cell non-Hodgkin lymphoma,Male,Age unspecified,Pleural effusion,30.78,0.0,0.0,1.22,64.91,0.0,3.09
+MCAS,Ovarian mucinous cystadenocarcinoma,Female,60Y,Ovary,0.0,0.0,0.0,78.1,0.0,21.89,0.0
+MCC13,Merkel cell carcinoma,Female,80Y,Cervical lymph node,31.08,0.0,0.0,0.0,64.74,1.16,3.02
+MCC26,Merkel cell carcinoma,Female,82Y,Unknown,30.75,0.82,0.0,1.72,66.7,0.0,0.0
+MCF-7,Invasive breast carcinoma of no special type,Female,69Y,Pleural effusion,38.15,0.0,0.74,4.2,56.91,0.0,0.0
+MDA-MB-134-VI,Invasive breast lobular carcinoma,Female,47Y,Pleural effusion,29.06,0.0,2.96,3.67,64.3,0.0,0.0
+MDA-MB-157,Breast carcinoma,Female,44Y,Pleural effusion,16.09,0.0,77.9,4.71,1.3,0.0,0.0
+MDA-MB-175-VII,Invasive breast carcinoma of no special type,Female,56Y,Pleural effusion,10.73,0.0,83.61,5.65,0.0,0.0,0.0
+MDA-MB-231,Breast adenocarcinoma,Female,51Y,Pleural effusion,60.03,0.0,1.95,2.44,28.16,0.0,7.42
+MDA-MB-330,Invasive breast lobular carcinoma,Female,43Y,Pleural effusion,29.63,0.0,0.4,2.68,67.3,0.0,0.0
+MDA-MB-361,Breast adenocarcinoma,Female,40Y,Brain,36.11,0.71,0.0,0.0,62.27,0.0,0.9
+MDA-MB-415,Breast adenocarcinoma,Female,38Y,Pleural effusion,42.03,12.27,1.43,1.2,40.99,1.74,0.34
+MDA-MB-435S,Amelanotic melanoma,Male,33Y,"Right buttock, hypodermis",32.63,0.0,0.01,2.13,65.23,0.0,0.0
+MDA-MB-436,Invasive breast carcinoma of no special type,Female,43Y,Pleural effusion,32.49,0.0,1.41,2.21,63.9,0.0,0.0
+MDA-MB-453,Breast adenocarcinoma,Female,48Y,Pericardial effusion,34.13,0.0,0.0,2.43,63.01,0.0,0.43
+MDA-MB-468,Breast adenocarcinoma,Female,51Y,Pleural effusion,13.51,0.0,80.3,6.19,0.0,0.0,0.0
+MDA-PCa-2b,Prostate carcinoma,Male,63Y,Bone,7.34,0.0,90.02,2.64,0.0,0.0,0.0
+MDST8,Colon carcinoma,Unknown,Unknown,Colon,31.91,0.98,0.18,1.64,63.72,0.0,1.57
+ME-1 [Human leukemia],Adult acute myeloid leukemia,Male,40Y,Peripheral blood,0.0,0.61,0.67,75.25,0.0,23.47,0.0
+ME-180,Human papillomavirus-related cervical squamous cell carcinoma,Female,66Y,Omentum,32.53,0.16,1.51,1.49,64.3,0.0,0.0
+MEC-1,Chronic lymphocytic leukemia,Male,61Y,Peripheral blood,64.15,0.0,1.9,2.04,26.14,0.0,5.76
+MEC-2,Chronic lymphocytic leukemia,Male,61Y,Peripheral blood,65.6,0.0,1.35,2.58,25.37,0.0,5.1
+MEG-01,"Blast phase chronic myelogenous leukemia, BCR-ABL1 positive",Male,55Y,Bone marrow,2.33,0.0,1.14,79.13,0.0,17.4,0.0
+Mel Ho,Melanoma,Female,Unknown,Skin,34.59,0.0,0.0,1.05,64.35,0.0,0.0
+Mel JuSo,Cutaneous melanoma,Female,58Y,Skin,35.59,0.0,0.0,0.0,63.28,1.12,0.0
+MES-SA,Uterine corpus sarcoma,Female,56Y,Uterus,43.94,0.0,1.13,1.61,50.63,0.25,2.44
+MeWo,Cutaneous melanoma,Male,78Y,Lymph node,61.86,1.31,2.39,0.6,25.84,0.77,7.24
+MFE-280,Endometrial adenocarcinoma,Female,77Y,Endometrium,37.62,0.41,1.51,4.71,55.75,0.0,0.0
+MFE-296,Endometrial adenocarcinoma,Female,68Y,Endometrium,27.84,0.0,0.0,0.0,71.44,0.0,0.72
+MFE-319,Endometrial adenosquamous carcinoma,Female,81Y,Endometrium,31.06,0.0,0.0,0.0,66.31,0.0,2.63
+MFH-ino,Undifferentiated pleomorphic sarcoma,Female,45Y,Unknown,0.0,0.0,0.0,75.44,0.0,24.26,0.29
+MFM-223,Breast carcinoma,Female,>45Y,Pleural effusion,38.73,0.0,0.51,3.43,55.91,0.0,1.41
+MG-63,Osteosarcoma,Male,14Y,"Bone, left femur",65.26,0.69,3.1,2.05,23.83,0.0,5.07
+MHH-CALL-2,Childhood B acute lymphoblastic leukemia,Female,15Y,Peripheral blood,22.68,0.0,1.65,2.18,73.49,0.0,0.0
+MHH-CALL-3,Childhood B acute lymphoblastic leukemia,Female,11Y,Bone marrow,31.45,1.07,0.15,0.95,66.38,0.0,0.0
+MHH-CALL-4,Childhood B acute lymphoblastic leukemia,Male,10Y,Peripheral blood,30.81,0.0,0.24,0.15,65.48,1.34,1.97
+MHH-ES-1,Ewing sarcoma,Male,12Y,Ascites,41.22,0.83,1.53,4.32,41.94,3.68,6.47
+MHH-NB-11,Neuroblastoma,Male,4Y,Adrenal gland,26.69,0.0,0.35,1.33,69.36,0.0,2.27
+MHH-PREB-1,B-cell non-Hodgkin lymphoma,Male,7Y,Lymph node,59.05,0.19,1.87,2.12,34.51,0.44,1.83
+MIA PaCa-2,Pancreatic ductal adenocarcinoma,Male,65Y,Pancreas,63.79,0.0,1.15,3.82,22.54,0.0,8.7
+Mino,Mantle cell lymphoma,Male,68Y,Peripheral blood,51.98,0.0,0.85,1.5,39.56,0.0,6.1
+MJ,Primary cutaneous T-cell non-Hodgkin lymphoma,Male,50Y,Peripheral blood,28.85,0.0,0.0,0.0,70.84,0.31,0.0
+MKN1,Gastric adenosquamous carcinoma,Male,72Y,Lymph node,2.44,0.0,0.31,81.4,0.44,15.4,0.0
+MKN28,Gastric tubular adenocarcinoma,Male,37Y,Liver,0.0,0.0,0.0,83.28,0.0,16.71,0.0
+MKN45,Gastric adenocarcinoma,Female,62Y,Liver,3.67,0.0,1.54,85.37,0.0,9.42,0.0
+MKN7,Gastric tubular adenocarcinoma,Male,39Y,Lymph node,0.49,0.09,0.0,81.05,0.0,18.37,0.0
+MKN74,Gastric tubular adenocarcinoma,Male,37Y,Liver,1.29,0.0,0.0,88.48,0.0,9.79,0.44
+ML-1 [Human thyroid carcinoma],Thyroid gland follicular carcinoma,Female,50Y,Thyroid gland,38.3,0.68,0.17,3.84,57.01,0.0,0.0
+ML-2,Adult acute myeloid leukemia,Male,26Y,Peripheral blood,29.2,0.0,0.0,0.0,70.54,0.0,0.26
+MLMA,Hairy cell leukemia,Female,32Y,Peritoneal effusion,0.0,0.54,0.0,77.94,0.0,21.52,0.0
+MM1.S,Plasma cell myeloma,Female,45Y,Peripheral blood,6.87,0.0,88.68,4.01,0.0,0.0,0.43
+MMAc-SF,Melanoma,Female,39Y,Ascites,0.25,0.05,0.62,77.21,0.0,20.11,1.76
+MN-60,Burkitt lymphoma,Male,20Y,Peripheral blood,16.53,0.16,0.18,2.87,78.96,0.48,0.82
+Mo,Hairy cell leukemia,Male,33Y,Spleen,29.24,0.37,0.0,0.0,68.22,1.84,0.34
+MOG-G-CCM,Anaplastic astrocytoma,Sex unspecified,Age unspecified,Brain,29.68,0.0,0.19,0.2,69.93,0.0,0.0
+MOG-G-UVW,Anaplastic astrocytoma,Male,Age unspecified,Brain,37.14,0.0,1.89,2.75,58.22,0.0,0.0
+MOLM-13,Adult acute myeloid leukemia,Male,20Y,Peripheral blood,0.0,1.24,0.0,76.64,0.0,22.12,0.0
+MOLM-16,Adult acute myeloid leukemia,Female,77Y,Peripheral blood,3.54,0.0,2.33,81.24,0.0,12.89,0.0
+MOLM-6,"Chronic myelogenous leukemia, BCR-ABL1 positive",Male,44Y,Peripheral blood,0.0,0.75,0.0,75.67,0.0,23.58,0.0
+MOLP-2,Plasma cell myeloma,Male,55Y,Peripheral blood,5.11,1.1,3.42,76.4,0.0,13.96,0.0
+MOLP-8,Plasma cell myeloma,Male,52Y,Peripheral blood,0.0,0.26,0.0,74.81,0.46,24.35,0.12
+MOLT-13,Childhood T acute lymphoblastic leukemia,Female,2Y,Bone marrow,40.12,0.55,0.68,0.0,54.27,0.0,4.38
+MOLT-16,Childhood T acute lymphoblastic leukemia,Female,5Y,Peripheral blood,8.47,0.82,79.1,2.03,7.73,0.0,1.85
+MOLT-3,Adult T acute lymphoblastic leukemia,Male,19Y,Peripheral blood,30.32,0.0,0.91,2.31,66.02,0.0,0.44
+MOLT-4,Adult T acute lymphoblastic leukemia,Male,19Y,Peripheral blood,28.87,0.0,0.38,1.74,68.08,0.0,0.94
+Mono-Mac-1,Adult acute monocytic leukemia,Male,64Y,Peripheral blood,40.63,0.46,1.61,2.85,54.45,0.0,0.0
+Mono-Mac-6,Adult acute monocytic leukemia,Male,64Y,Peripheral blood,39.32,1.11,2.82,2.05,54.71,0.0,0.0
+MOR/CPR,Lung adenocarcinoma,Sex unspecified,Age unspecified,Lung,32.53,0.0,1.26,4.44,61.77,0.0,0.0
+MOTN-1,T-cell large granular lymphocyte leukemia,Female,65Y,Peripheral blood,0.64,0.4,0.84,73.72,0.0,24.39,0.0
+MPP 89,Pleural epithelioid mesothelioma,Male,67Y,Pleural effusion,54.38,0.0,5.06,6.98,33.57,0.0,0.0
+MRK-nu-1,Breast carcinoma,Female,46Y,Pleural effusion,0.74,1.19,0.98,73.82,0.07,23.21,0.0
+MS-1 [Human lung carcinoma],Lung small cell carcinoma,Male,54Y,Pleural effusion,7.23,0.17,9.93,64.82,5.2,12.65,0.0
+MS751,Human papillomavirus-related cervical squamous cell carcinoma,Female,47Y,Lymph node,31.66,0.44,0.0,0.0,67.07,0.42,0.41
+MSTO-211H,Pleural biphasic mesothelioma,Male,62Y,Pleural effusion,33.49,0.17,0.0,1.28,62.92,0.0,2.13
+MUTZ-5,B acute lymphoblastic leukemia,Male,26Y,Peripheral blood,55.18,0.51,16.18,0.0,13.74,2.27,12.13
+MV4-11,Childhood acute monocytic leukemia,Male,10Y,Peripheral blood,28.91,0.0,0.59,0.34,67.58,0.0,2.57
+MY-M12,Acute biphenotypic leukemia,Female,52Y,Bone marrow,0.0,0.38,0.94,81.47,0.0,16.04,1.17
+MZ-MEL-2,Melanoma,Sex unspecified,Age unspecified,Abdomen,33.8,0.15,0.0,0.41,64.57,0.66,0.41
+MZ-MEL-7,Melanoma,Female,25-26Y,Spleen,30.35,0.24,0.42,1.19,67.07,0.69,0.03
+MZ-PC-1,Pancreatic ductal adenocarcinoma,Male,46Y,Pleural effusion,32.2,0.0,0.66,2.92,62.36,0.0,1.85
+NALM-1,"Childhood chronic myelogenous leukemia, BCR-ABL1 positive",Female,3Y,Peripheral blood,9.12,6.08,77.03,2.94,4.83,0.0,0.0
+NALM-19,B acute lymphoblastic leukemia,Male,26Y,Peripheral blood,3.83,0.1,1.76,79.97,0.0,14.34,0.01
+NALM-6,Adult B acute lymphoblastic leukemia,Male,19Y,Peripheral blood,22.21,0.55,0.12,0.0,75.01,2.1,0.0
+Namalwa,EBV-related Burkitt lymphoma,Female,Children,Unknown,3.91,0.0,94.65,1.43,0.0,0.0,0.0
+NB(TU)1,Neuroblastoma,Female,1Y8M,Unknown,0.0,0.24,0.86,77.99,0.0,19.62,1.28
+NB1,Neuroblastoma,Male,2Y3M,Cervical lymph node,3.8,0.21,2.29,80.53,0.0,13.17,0.0
+NB4,Acute promyelocytic leukemia with PML-RARA,Female,23Y,Bone marrow,41.98,0.0,3.99,4.75,49.28,0.0,0.0
+NB69,Neuroblastoma,Male,1Y4M,Unknown,34.0,0.26,0.0,0.67,64.54,0.0,0.54
+NBsusSR,Neuroblastoma,Male,18Y,Unknown,0.68,0.0,1.34,75.7,0.87,20.79,0.62
+NCC-IT,Testicular embryonal carcinoma,Male,24Y,Unknown,0.0,0.0,0.0,81.79,0.0,18.2,0.0
+NCC-StC-K140,Gastric carcinoma,Female,36Y,Stomach,4.29,0.0,1.19,80.7,0.0,13.81,0.0
+NCC010,Renal cell carcinoma,Male,Age unspecified,Unknown,0.0,0.0,0.0,22.3,0.0,77.7,0.0
+NCC021,Renal cell carcinoma,Sex unspecified,Age unspecified,Unknown,0.12,0.02,0.31,27.12,0.0,71.39,1.05
+NCI-H1048,Lung small cell carcinoma,Female,53Y,Pleural effusion,21.04,0.0,69.86,6.8,2.3,0.0,0.0
+NCI-H1092,Lung small cell carcinoma,Male,67Y,Bone marrow,39.59,0.0,1.87,4.65,53.89,0.0,0.0
+NCI-H1105,Lung small cell carcinoma,Male,73Y,Lymph node,34.95,0.0,1.28,1.06,62.71,0.0,0.0
+NCI-H1155,Lung large cell carcinoma,Male,36Y,Lymph node,34.42,1.0,1.09,2.22,60.47,0.0,0.79
+NCI-H1184,Lung small cell carcinoma,Male,42Y,Lymph node,31.77,0.52,0.45,0.92,65.61,0.0,0.72
+NCI-H128,Lung small cell carcinoma,Male,60Y,Pleural effusion,10.46,0.0,69.81,2.05,17.44,0.0,0.25
+NCI-H1299,Lung large cell carcinoma,Male,43Y,Lymph node,34.68,0.0,0.33,2.13,62.86,0.0,0.0
+NCI-H1304,Lung small cell carcinoma,Female,Unknown,Unknown,24.05,0.31,1.09,1.44,72.97,0.13,0.0
+NCI-H1339,Lung small cell carcinoma,Female,49Y,Pleural effusion,12.01,1.01,70.93,4.29,11.76,0.0,0.0
+NCI-H1341,Cervical small cell neuroendocrine carcinoma,Female,26Y,"Uterus, cervix",25.77,0.96,0.0,2.27,70.16,0.0,0.84
+NCI-H1355,Lung adenocarcinoma,Male,53Y,Pleural effusion,49.01,0.0,1.64,2.95,41.22,0.42,4.77
+NCI-H1373,Lung adenocarcinoma,Male,56Y,Lung,11.46,1.21,71.79,4.32,11.21,0.0,0.0
+NCI-H1385,Lung squamous cell carcinoma,Female,49Y,Lymph node,16.46,0.0,69.29,3.93,10.32,0.0,0.0
+NCI-H1395,Lung adenocarcinoma,Female,55Y,Lung,37.38,0.0,3.03,6.76,52.83,0.0,0.0
+NCI-H1417,Lung small cell carcinoma,Female,61Y,Lung,26.71,0.0,0.09,1.05,67.94,0.15,4.06
+NCI-H1435,Lung adenocarcinoma,Female,35Y,Lung,31.67,15.63,2.26,9.39,41.04,0.0,0.0
+NCI-H1436,Lung small cell carcinoma,Male,39Y,Lymph node,27.63,0.28,0.29,3.22,67.17,0.0,1.4
+NCI-H1437,Lung adenocarcinoma,Male,60Y,Pleural effusion,28.43,1.16,0.0,1.67,68.74,0.0,0.0
+NCI-H146,Lung small cell carcinoma,Male,59Y,Bone marrow,30.99,0.0,0.37,2.05,66.14,0.0,0.45
+NCI-H1563,Lung adenocarcinoma,Male,Age unspecified,Lung,61.99,0.0,0.33,0.56,24.17,2.48,10.47
+NCI-H1568,Lung adenocarcinoma,Female,48Y,Lymph node,38.41,0.0,0.1,2.23,56.39,0.0,2.88
+NCI-H1573,Lung adenocarcinoma,Female,35Y,Lung,38.22,0.0,1.85,5.57,54.36,0.0,0.0
+NCI-H1581,Lung large cell carcinoma,Male,44Y,Lung,37.76,0.0,0.94,1.51,59.07,0.0,0.71
+NCI-H1618,Lung small cell carcinoma,Female,55Y,Bone marrow,34.4,0.54,0.23,0.24,61.08,0.0,3.51
+NCI-H1623,Lung adenocarcinoma,Male,58Y,Lymph node,35.4,0.03,1.52,2.83,60.22,0.0,0.0
+NCI-H1648,Lung adenocarcinoma,Male,39Y,Lymph node,11.82,0.0,69.05,4.46,14.67,0.0,0.0
+NCI-H1650,Minimally invasive lung adenocarcinoma,Male,27Y,Pleural effusion,34.34,0.0,0.57,3.27,61.83,0.0,0.0
+NCI-H1651,Lung adenocarcinoma,Male,71Y,Lung,29.37,0.0,1.5,2.72,66.41,0.0,0.0
+NCI-H1666,Minimally invasive lung adenocarcinoma,Female,50Y,Pleural effusion,32.47,0.0,1.25,1.76,63.0,0.0,1.52
+NCI-H1688,Lung small cell carcinoma,Male,50Y,Liver,35.0,0.0,0.98,2.19,61.82,0.0,0.0
+NCI-H1693,Lung adenocarcinoma,Female,55Y,Lymph node,31.2,0.67,0.99,3.46,63.68,0.0,0.0
+NCI-H1694,Lung small cell carcinoma,Male,61Y,Ascites,62.14,1.28,4.95,5.88,23.45,0.17,2.13
+NCI-H1703,Lung squamous cell carcinoma,Male,54Y,Lung,43.93,0.0,3.29,5.58,47.2,0.0,0.0
+NCI-H1734,Lung adenocarcinoma,Female,56Y,Lung,30.13,0.78,0.0,1.29,67.8,0.0,0.0
+NCI-H1755,Lung adenocarcinoma,Female,65Y,Liver,34.66,0.15,0.64,2.9,61.65,0.0,0.0
+NCI-H1770,Lung non-small cell carcinoma,Male,57Y,Lymph node,33.09,0.35,2.3,4.49,59.77,0.0,0.0
+NCI-H1781,Minimally invasive lung adenocarcinoma,Female,66Y,Pleural effusion,32.22,0.0,0.0,1.69,65.63,0.0,0.46
+NCI-H1792,Lung adenocarcinoma,Male,50Y,Pleural effusion,34.89,0.75,2.29,2.43,59.22,0.0,0.41
+NCI-H1793,Lung adenocarcinoma,Female,52Y,Lung,53.57,0.91,0.24,1.4,36.54,0.39,6.96
+NCI-H1836,Lung small cell carcinoma,Male,52Y,Lung,27.28,0.84,0.0,0.99,70.01,0.0,0.88
+NCI-H1838,Lung adenocarcinoma,Female,Age unspecified,Lung,36.13,0.0,2.12,3.65,58.09,0.0,0.0
+NCI-H1869,Lung squamous cell carcinoma,Male,58Y,Lung,33.45,0.0,0.87,2.87,62.8,0.0,0.0
+NCI-H187,Lung small cell carcinoma,Male,47Y,Pleural effusion,33.62,0.51,0.56,0.71,64.51,0.08,0.0
+NCI-H1876,Lung small cell carcinoma,Male,59Y,Lymph node,26.6,0.51,0.78,1.19,70.91,0.0,0.0
+NCI-H1915,Lung non-small cell carcinoma,Female,61Y,Lung,62.34,0.18,3.05,4.07,23.9,0.0,6.45
+NCI-H1930,Lung small cell carcinoma,Male,41Y,Lymph node,37.69,0.0,2.23,3.79,56.29,0.0,0.0
+NCI-H1944,Lung adenocarcinoma,Female,62Y,Lung,33.73,0.24,0.85,2.96,61.33,0.0,0.89
+NCI-H196,Lung sarcomatoid carcinoma,Male,68Y,Pleural effusion,43.59,0.1,0.0,0.0,50.92,1.64,3.75
+NCI-H1963,Lung small cell carcinoma,Male,56Y,Lung,17.68,0.5,56.07,4.15,21.6,0.0,0.0
+NCI-H1975,Lung adenocarcinoma,Female,Age unspecified,Lung,60.85,0.0,0.35,1.32,30.01,0.0,7.46
+NCI-H1993,Lung adenocarcinoma,Female,47Y,Lymph node,29.05,0.66,1.07,0.47,67.35,1.32,0.09
+NCI-H2009,Lung adenocarcinoma,Female,68Y,Lymph node,38.19,0.0,5.66,7.51,48.63,0.0,0.0
+NCI-H2023,Lung adenocarcinoma,Male,26Y,Lung,32.18,0.48,0.0,0.88,66.45,0.0,0.0
+NCI-H2029,Lung small cell carcinoma,Female,69Y,Lymph node,38.55,0.0,4.84,5.65,50.95,0.0,0.0
+NCI-H2030,Lung adenocarcinoma,Male,Age unspecified,Lymph node,32.52,0.0,0.43,0.0,64.18,0.0,2.87
+NCI-H2052,Pleural sarcomatoid mesothelioma,Male,65Y,Pleural effusion,32.79,0.0,0.17,2.33,64.49,0.0,0.22
+NCI-H2066,Lung squamous cell carcinoma,Female,70Y,Lung,34.61,0.0,3.0,2.95,59.43,0.0,0.0
+NCI-H2073,Lung adenocarcinoma,Female,47Y,Lung,32.48,0.0,1.14,2.07,64.31,0.0,0.0
+NCI-H2081,Lung small cell carcinoma,Female,59Y,Pleural effusion,43.27,0.0,2.93,6.2,47.59,0.0,0.0
+NCI-H2085,Lung adenocarcinoma,Male,45Y,Lung,34.93,0.0,0.71,2.54,61.81,0.0,0.0
+NCI-H2087,Lung adenocarcinoma,Male,69Y,Lymph node,29.44,0.0,0.0,3.19,67.37,0.0,0.0
+NCI-H209,Lung small cell carcinoma,Male,55Y,Bone marrow,31.02,0.0,1.88,1.08,65.94,0.0,0.08
+NCI-H2106,Lung large cell carcinoma,Male,58Y,Lymph node,32.31,1.71,0.0,1.71,64.26,0.0,0.0
+NCI-H211,Lung small cell carcinoma,Female,50Y,Bone marrow,39.33,0.0,3.08,5.72,51.87,0.0,0.0
+NCI-H2110,Lung non-small cell carcinoma,Sex unspecified,Age unspecified,Pleural effusion,12.13,0.0,82.92,4.2,0.75,0.0,0.0
+NCI-H2122,Lung adenocarcinoma,Female,46Y,Pleural effusion,31.01,0.26,0.0,1.42,65.92,0.0,1.39
+NCI-H2126,Lung large cell carcinoma,Male,65Y,Pleural effusion,35.45,0.65,1.91,3.65,58.35,0.0,0.0
+NCI-H2135,Lung non-small cell carcinoma,Sex unspecified,Age unspecified,Unknown,58.84,0.0,5.4,0.0,21.96,1.13,12.67
+NCI-H2141,Lung small cell carcinoma,Male,58Y,Lymph node,30.38,0.27,1.17,1.08,65.94,0.0,1.16
+NCI-H2170,Lung squamous cell carcinoma,Male,Age unspecified,Unknown,28.61,0.0,0.09,0.85,69.01,0.49,0.94
+NCI-H2171,Lung small cell carcinoma,Male,50Y,Pleural effusion,35.63,0.0,3.06,4.89,56.36,0.05,0.0
+NCI-H2172,Lung non-small cell carcinoma,Female,Age unspecified,Lung,9.75,0.46,81.79,2.23,5.77,0.0,0.0
+NCI-H2196,Lung small cell carcinoma,Male,67Y,Bone marrow,28.81,0.0,2.17,2.28,66.73,0.0,0.0
+NCI-H2227,Lung small cell carcinoma,Male,54Y,Lung,31.37,0.0,0.0,1.89,65.68,0.0,1.06
+NCI-H2228,Lung adenocarcinoma,Female,Age unspecified,Lung,33.09,0.08,0.1,0.5,65.31,0.06,0.85
+NCI-H226,Pleural epithelioid mesothelioma,Male,Age unspecified,Pleural effusion,31.86,0.0,0.0,0.16,65.62,0.88,1.48
+NCI-H2286,Lung adenocarcinoma,Female,57Y,Lung,32.33,0.0,2.79,4.22,60.65,0.0,0.0
+NCI-H2291,Lung adenocarcinoma,Male,Age unspecified,Lymph node,39.15,0.0,1.1,3.67,54.53,0.0,1.55
+NCI-H23,Lung adenocarcinoma,Male,51Y,Lung,16.3,2.12,67.86,2.83,10.88,0.0,0.0
+NCI-H2342,Lung adenocarcinoma,Male,55Y,Lung,36.81,0.0,0.24,4.52,58.43,0.0,0.0
+NCI-H2347,Lung adenocarcinoma,Female,54Y,Lung,35.9,0.0,0.0,0.74,62.76,0.0,0.59
+NCI-H2369,Pleural malignant mesothelioma,Male,Age unspecified,Unknown,30.22,0.0,0.75,0.77,67.35,0.91,0.0
+NCI-H2373,Pleural sarcomatoid mesothelioma,Male,Adult,"Lung, pleura",29.5,0.0,0.63,0.0,66.33,0.91,2.63
+NCI-H2405,Lung adenocarcinoma,Male,47Y,Lung,34.69,0.0,3.18,2.88,58.28,0.0,0.97
+NCI-H2444,Lung non-small cell carcinoma,Male,Age unspecified,Lung,35.85,1.22,0.0,3.0,58.66,0.0,1.26
+NCI-H2452,Pleural biphasic mesothelioma,Male,Adult,"Lung, pleura",34.76,0.0,0.27,1.66,63.32,0.0,0.0
+NCI-H2461,Pleural epithelioid mesothelioma,Male,Adult,"Lung, pleura",33.37,0.07,0.92,1.1,63.28,1.25,0.0
+NCI-H250,Lung small cell carcinoma,Male,34Y,Brain,7.7,0.09,91.03,1.17,0.0,0.0,0.0
+NCI-H2591,Pleural epithelioid mesothelioma,Male,Adult,"Lung, pleura",29.11,0.0,0.0,0.0,68.64,0.61,1.63
+NCI-H2595,Pleural epithelioid mesothelioma,Male,Adult,"Lung, pleura",31.93,0.21,0.03,0.0,64.92,0.22,2.69
+NCI-H2722,Pleural malignant mesothelioma,Male,Unknown,Unknown,37.33,1.83,0.26,0.0,57.77,0.0,2.81
+NCI-H2731,Pleural sarcomatoid mesothelioma,Male,Unknown,Unknown,30.53,0.84,0.0,1.33,65.41,0.0,1.88
+NCI-H2795,Pleural epithelioid mesothelioma,Male,Unknown,Unknown,29.89,1.03,1.04,1.57,65.63,0.0,0.85
+NCI-H28,Pleural malignant mesothelioma,Male,48Y,Pleural effusion,15.05,0.21,65.11,3.2,16.44,0.0,0.0
+NCI-H2803,Pleural malignant mesothelioma,Unknown,Unknown,Unknown,15.28,0.46,59.04,1.75,22.93,0.0,0.55
+NCI-H2804,Pleural malignant mesothelioma,Male,Age unspecified,Unknown,28.74,0.0,1.05,2.06,68.14,0.0,0.0
+NCI-H2810,Pleural epithelioid mesothelioma,Male,Age unspecified,Unknown,60.38,0.47,2.41,2.44,28.37,0.76,5.17
+NCI-H2818,Pleural epithelioid mesothelioma,Male,Age unspecified,Unknown,19.07,1.13,0.0,0.0,76.08,0.17,3.55
+NCI-H2869,Pleural biphasic mesothelioma,Male,Age unspecified,Unknown,34.91,0.0,0.0,0.0,63.53,0.6,0.96
+NCI-H290,Pleural malignant mesothelioma,Male,Age unspecified,Pleural effusion,29.45,0.64,0.1,0.0,66.44,0.75,2.62
+NCI-H292,Lung mucoepidermoid carcinoma,Female,32Y,Lymph node,10.06,0.17,81.43,2.03,6.04,0.0,0.28
+NCI-H3118,Parotid gland mucoepidermoid carcinoma,Female,Unknown,Unknown,34.08,0.01,0.85,2.51,59.54,0.0,3.02
+NCI-H3122,Lung adenocarcinoma,Male,54Y,Pleural effusion,31.26,0.0,0.0,1.36,65.9,0.0,1.48
+NCI-H322,Minimally invasive lung adenocarcinoma,Male,52Y,Lung,27.95,0.0,1.01,2.38,68.65,0.0,0.0
+NCI-H322M,Minimally invasive lung adenocarcinoma,Male,52Y,Lung,25.2,0.0,0.44,0.73,72.75,0.88,0.0
+NCI-H3255,Lung adenocarcinoma,Female,47Y,Pleural effusion,34.46,0.0,3.63,2.06,59.85,0.0,0.0
+NCI-H345,Lung small cell carcinoma,Male,64Y,Bone marrow,61.17,0.71,1.67,2.16,25.58,1.53,7.19
+NCI-H358,Minimally invasive lung adenocarcinoma,Male,Age unspecified,Lung,35.82,0.0,3.45,4.63,56.1,0.0,0.0
+NCI-H378,Lung small cell carcinoma,Female,66Y,Pleural effusion,58.4,1.24,2.92,1.45,26.04,1.89,8.06
+NCI-H441,Lung papillary adenocarcinoma,Male,33Y,Pericardial effusion,33.69,0.0,0.09,3.45,61.67,0.0,1.1
+NCI-H446,Lung small cell carcinoma,Male,61Y,Pleural effusion,27.05,0.0,2.76,6.47,63.72,0.0,0.0
+NCI-H460,Lung large cell carcinoma,Male,Age unspecified,Pleural effusion,32.24,0.0,0.0,1.96,65.65,0.0,0.15
+NCI-H508,Cecum adenocarcinoma,Male,55Y,Abdominal wall,38.18,0.0,0.01,3.05,58.76,0.0,0.0
+NCI-H510A,Lung small cell carcinoma,Male,53Y,Adrenal gland,33.11,0.3,0.05,2.01,64.53,0.0,0.0
+NCI-H513,Lung adenosquamous carcinoma,Male,61Y,Hypodermis,5.9,0.0,83.85,2.18,5.9,0.0,2.16
+NCI-H520,Lung squamous cell carcinoma,Male,Age unspecified,Lung,35.5,0.0,0.0,0.92,63.58,0.0,0.0
+NCI-H522,Lung adenocarcinoma,Male,58Y,Lung,23.13,0.0,1.94,1.91,69.74,0.0,3.27
+NCI-H524,Lung small cell carcinoma,Male,63Y,Lymph node,32.01,0.0,0.55,1.32,66.11,0.0,0.0
+NCI-H526,Lung small cell carcinoma,Male,55Y,Bone marrow,33.49,0.0,0.0,1.13,63.44,0.0,1.94
+NCI-H596,Lung adenosquamous carcinoma,Male,73Y,Lung,35.26,0.0,0.07,2.55,62.11,0.0,0.0
+NCI-H630,Unknown,Sex unspecified,Age unspecified,Unknown,29.61,0.04,0.0,0.0,67.59,1.38,1.38
+NCI-H64,Lung small cell carcinoma,Female,48Y,Lymph node,11.33,0.62,67.82,1.03,19.2,0.0,0.0
+NCI-H647,Lung adenosquamous carcinoma,Male,56Y,Pleural effusion,27.13,0.88,0.0,0.0,70.95,0.0,1.04
+NCI-H650,Lung adenocarcinoma,Male,Age unspecified,Lung,33.15,0.0,0.0,1.27,65.1,0.48,0.0
+NCI-H660,Prostate small cell carcinoma,Male,63Y,Cervical lymph node,37.0,0.0,2.18,2.77,58.05,0.0,0.0
+NCI-H661,Lung large cell carcinoma,Male,43Y,Lymph node,34.14,0.51,0.22,0.62,63.58,0.0,0.92
+NCI-H69,Lung small cell carcinoma,Male,55Y,Pleural effusion,35.34,0.0,0.79,1.48,61.96,0.0,0.42
+NCI-H716,Cecum adenocarcinoma,Male,33Y,Ascites,44.03,14.7,3.04,4.64,30.38,0.0,3.2
+NCI-H720,Lung carcinoid tumor,Male,Age unspecified,Lung,60.36,1.07,2.64,3.8,25.94,0.0,6.19
+NCI-H727,Lung carcinoid tumor,Female,65Y,Unknown,32.88,0.23,0.37,3.94,62.32,0.0,0.26
+NCI-H740,Lung small cell carcinoma,Male,63Y,Lymph node,31.56,0.0,1.71,1.31,64.24,0.0,1.18
+NCI-H747,Cecum adenocarcinoma,Male,69Y,Lymph node,60.13,0.23,2.58,4.27,24.28,0.0,8.5
+NCI-H748,Lung small cell carcinoma,Male,62Y,Lymph node,6.8,0.85,86.3,1.88,3.72,0.4,0.04
+NCI-H810,Lung large cell carcinoma,Male,51Y,Lung,7.26,0.47,81.52,4.23,6.51,0.0,0.0
+NCI-H82,Lung small cell carcinoma,Male,41Y,Pleural effusion,19.9,0.0,0.24,1.21,78.65,0.0,0.0
+NCI-H820,Lung papillary adenocarcinoma,Male,53Y,Lymph node,32.19,0.0,0.6,0.97,65.84,0.0,0.4
+NCI-H835,Lung carcinoid tumor,Female,48Y,Lung,7.28,0.0,80.01,2.97,9.74,0.0,0.0
+NCI-H838,Lung adenocarcinoma,Male,59Y,Lymph node,43.22,0.84,0.05,0.79,50.18,1.88,3.04
+NCI-H841,Thoracic SMARCA4-deficient undifferentiated tumor,Male,51Y,Lung,40.35,0.0,1.52,2.66,55.47,0.0,0.0
+NCI-H847,Lung small cell carcinoma,Male,63Y,Pleural effusion,35.3,0.08,5.07,4.4,55.14,0.0,0.0
+NCI-H854,Colon adenocarcinoma,Male,75Y,Colon,31.78,0.03,1.09,1.91,64.74,0.0,0.45
+NCI-H889,Lung small cell carcinoma,Female,69Y,Lymph node,26.44,0.0,0.19,1.86,71.51,0.0,0.01
+NCI-H929,Plasma cell myeloma,Female,62Y,Pleural effusion,28.21,0.61,0.0,2.52,68.5,0.0,0.16
+NCI-N87,Gastric tubular adenocarcinoma,Male,Age unspecified,Liver,16.04,0.0,61.23,2.17,20.57,0.0,0.0
+NCO2,"Chronic myelogenous leukemia, BCR-ABL1 positive",Female,35Y,Peripheral blood,1.73,0.0,0.0,82.46,0.0,15.81,0.0
+NEC8,Testicular embryonal carcinoma,Male,24Y,Testis,4.15,0.61,2.09,79.76,0.0,13.39,0.0
+NH-12,Adrenal gland neuroblastoma,Male,1Y3M,Adrenal gland,0.0,0.0,0.0,74.87,0.0,25.12,0.0
+NH-6,Adrenal gland neuroblastoma,Female,9M,Adrenal gland,2.86,0.0,2.3,79.85,0.0,14.99,0.0
+NK-92MI,Natural killer cell lymphoblastic leukemia/lymphoma,Male,50Y,Peripheral blood,32.85,0.5,1.91,2.04,62.71,0.0,0.0
+NKM-1,Adult acute myeloid leukemia,Male,33Y,Peripheral blood,0.01,0.0,0.0,76.96,0.9,21.17,0.96
+NMC-G1,Astrocytoma,Female,Unknown,Brain,0.0,0.0,0.0,81.52,0.0,18.48,0.0
+NOMO-1,Adult acute monocytic leukemia,Female,31Y,Bone marrow,0.27,0.99,0.4,76.88,0.98,20.48,0.0
+NOS-1 [Human osteosarcoma],Osteosarcoma,Male,16Y,"Bone, left proximal tibia",0.0,0.97,0.0,79.98,0.0,18.61,0.44
+NT2-D1,Embryonal carcinoma,Male,22Y,Lung,39.23,0.0,1.78,0.45,53.03,1.42,4.09
+NU-DHL-1,Diffuse large B-cell lymphoma,Male,73Y,Left inguinal lymph node,37.82,0.04,2.04,3.55,56.54,0.0,0.0
+NU-DUL-1,Diffuse large B-cell lymphoma activated B-cell type,Male,43Y,Cerebrospinal fluid,32.78,0.0,0.0,1.39,63.99,0.48,1.36
+NUGC-2,Gastric adenocarcinoma,Female,56Y,Paragastric lymph node,0.61,0.0,0.0,74.56,0.0,24.67,0.16
+NUGC-3,Gastric adenocarcinoma,Male,72Y,Brachialis muscle,0.71,0.09,0.0,82.25,0.0,16.95,0.0
+NUGC-4,Gastric signet ring cell adenocarcinoma,Female,35Y,Paragastric lymph node,1.27,0.72,0.0,65.95,0.0,32.05,0.0
+NY,Osteosarcoma,Male,15Y,"Bone, right femur",0.55,0.2,0.02,78.63,0.59,19.14,0.88
+OACM5.1 C,Esophageal adenocarcinoma,Female,47Y,Lymph node,26.29,0.02,0.0,0.0,72.08,0.0,1.6
+OACP4 C,Esophageal adenocarcinoma,Male,55Y,Unknown,31.76,0.55,0.19,0.0,66.1,1.33,0.08
+OAW28,High grade ovarian serous adenocarcinoma,Female,75Y,Ascites,31.91,0.0,0.74,2.29,63.18,0.0,1.87
+OAW42,Ovarian serous cystadenocarcinoma,Female,46Y,Ascites,32.29,0.0,2.28,3.68,61.75,0.0,0.0
+OC 314,Ovarian serous adenocarcinoma,Female,39Y,Ascites,21.79,1.66,0.0,1.17,75.37,0.0,0.0
+OC 316,Ovarian serous adenocarcinoma,Female,39Y,Ascites,21.63,1.57,0.0,1.31,75.5,0.0,0.0
+OCI-AML-2,Adult acute myeloid leukemia,Male,65Y,Peripheral blood,32.89,0.0,1.2,1.51,62.12,0.0,2.28
+OCI-AML-3,Adult acute myeloid leukemia,Male,57Y,Peripheral blood,38.78,1.44,0.0,2.86,55.94,0.0,0.99
+OCI-AML-5,Adult acute myeloid leukemia,Male,77Y,Peripheral blood,31.16,0.08,1.01,2.79,64.96,0.0,0.0
+OCI-Ly10,Diffuse large B-cell lymphoma activated B-cell type,Female,66Y,Lymph node,28.0,0.93,0.25,0.48,70.29,0.0,0.05
+OCI-Ly19,Diffuse large B-cell lymphoma germinal center B-cell type,Female,27Y,Bone marrow,39.33,0.0,2.55,4.58,53.54,0.0,0.0
+OCI-Ly3,Diffuse large B-cell lymphoma activated B-cell type,Male,52Y,Bone marrow,30.48,0.0,0.02,4.08,65.42,0.0,0.0
+OCI-Ly7,Diffuse large B-cell lymphoma germinal center B-cell type,Male,48Y,Peripheral blood,28.35,0.13,0.44,0.0,69.58,0.31,1.19
+OCI-M1,Adult acute myeloid leukemia,Sex unspecified,62Y,Unknown,60.94,0.0,3.87,4.72,27.28,0.0,3.18
+OCI-My5,Plasma cell myeloma,Sex unspecified,Age unspecified,Peripheral blood,36.05,0.0,3.85,4.08,54.74,0.0,1.28
+OCI-My7,Plasma cell myeloma,Sex unspecified,Age unspecified,Unknown,64.1,0.0,2.65,2.7,21.26,1.34,7.94
+OCUB-M,Breast carcinoma,Female,53Y,Pleural effusion,4.31,1.63,2.46,78.49,0.0,13.1,0.0
+OCUM-1,Gastric signet ring cell adenocarcinoma,Female,38Y,Pleural effusion,0.0,0.6,0.0,77.58,0.0,21.82,0.0
+OE19,Esophageal adenocarcinoma,Male,72Y,Esophagus,62.99,0.16,15.01,1.83,8.22,0.0,11.79
+OE21,Esophageal squamous cell carcinoma,Male,74Y,Esophagus,33.81,0.0,0.0,1.35,64.63,0.2,0.0
+OE33,Barrett adenocarcinoma,Female,73Y,Esophagus,31.03,0.0,0.01,1.2,67.21,0.55,0.0
+OELE,Unknown,Female,Age unspecified,Ovary,48.72,0.23,3.73,0.0,40.72,1.63,4.96
+OMC-1 [Human cervical carcinoma],"Cervical squamous cell carcinoma, not otherwise specified",Female,52Y,Left supraclavicular lymph node,0.16,0.0,0.0,76.41,0.62,22.8,0.0
+ONCO-DG-1,High grade ovarian serous adenocarcinoma,Female,60Y,Ascites,34.52,0.0,0.0,4.26,61.21,0.0,0.0
+Onda 10,Glioblastoma,Male,62Y,"Brain, left parietal lobe",0.0,0.27,0.63,79.08,0.4,19.61,0.0
+Onda 11,Glioblastoma,Female,64Y,"Brain, right parietal lobe",2.21,1.06,1.72,76.42,1.56,17.02,0.0
+ONS-76,"Medulloblastoma, SHH-activated, TP53-wildtype",Female,2Y,Brain,4.58,0.0,3.13,83.83,0.0,8.46,0.0
+OPM-1,Plasma cell myeloma,Female,56Y,Peripheral blood,2.68,0.0,0.52,74.49,0.0,22.3,0.0
+OPM-2,Plasma cell myeloma,Female,56Y,Peripheral blood,1.51,0.0,0.58,74.2,0.08,23.62,0.0
+OS-RC-2,Clear cell renal cell carcinoma,Male,52Y,Kidney,1.66,0.0,0.1,77.03,0.95,20.25,0.0
+OSC-19,Tongue squamous cell carcinoma,Male,61Y,Cervical lymph node,0.01,0.32,0.1,72.98,1.7,24.24,0.65
+OSC-20,Tongue squamous cell carcinoma,Female,59Y,Cervical lymph node,4.24,0.23,3.14,75.72,0.0,16.66,0.0
+OUMS-23,Colon carcinoma,Male,37Y,Pericardial effusion,1.41,0.0,0.0,82.03,0.0,16.25,0.32
+OUMS-27,Primary central chondrosarcoma,Male,65Y,"Bone, left proximal humerus",2.39,0.0,0.16,79.69,0.0,17.75,0.0
+OV-90,Ovarian adenocarcinoma,Female,64Y,Ascites,53.08,0.0,2.24,2.36,37.26,0.0,5.06
+OV17R,Ovarian adenocarcinoma,Female,50Y,Ascites,35.44,0.0,2.39,1.99,60.17,0.0,0.0
+OV56,Ovarian serous adenocarcinoma,Female,46Y,Ascites,27.28,0.0,0.0,0.0,69.8,0.52,2.39
+OV7,Ovarian carcinoma,Female,78Y,Ovary,31.62,0.0,1.94,1.71,63.24,0.0,1.49
+OVCA420,Ovarian serous adenocarcinoma,Female,Age unspecified,Ovary,8.81,0.0,82.47,2.6,3.32,0.0,2.8
+OVCA433,Ovarian serous adenocarcinoma,Female,Age unspecified,Ovary,38.24,1.3,0.31,0.31,59.83,0.0,0.0
+OVCAR-3,High grade ovarian serous adenocarcinoma,Female,60Y,Ascites,35.08,0.0,0.0,3.99,60.92,0.0,0.0
+OVCAR-4,High grade ovarian serous adenocarcinoma,Female,42Y,Ascites,42.96,0.0,0.0,3.58,53.46,0.0,0.0
+OVCAR-5,High grade ovarian serous adenocarcinoma,Female,67Y,Ascites,31.46,0.13,0.0,0.98,67.06,0.0,0.37
+OVCAR-8,High grade ovarian serous adenocarcinoma,Female,64Y,Unknown,34.66,0.0,0.22,3.41,60.74,0.0,0.98
+OVISE,Ovarian clear cell adenocarcinoma,Female,40Y,"Pelvis, innominate bone",2.13,0.0,0.05,80.54,0.0,17.28,0.0
+OVK18,Ovarian endometrioid adenocarcinoma,Female,49Y,Ascites,0.0,0.0,0.0,78.65,0.0,21.35,0.0
+OVKATE,High grade ovarian serous adenocarcinoma,Female,40Y,Ovary,0.72,0.0,2.37,79.04,0.0,17.87,0.0
+OVMANA,Ovarian clear cell adenocarcinoma,Female,51Y,Ovary,0.0,0.0,0.0,79.88,0.36,19.76,0.0
+OVMIU,High grade ovarian serous adenocarcinoma,Female,64Y,Ovary,0.0,0.2,0.26,75.07,0.0,23.44,1.02
+OVSAHO,High grade ovarian serous adenocarcinoma,Female,56Y,Abdomen,2.15,0.0,0.0,83.52,0.0,14.27,0.06
+OVTOKO,Ovarian clear cell adenocarcinoma,Female,78Y,Spleen,0.89,0.0,0.0,82.47,0.0,16.63,0.0
+P12-Ichikawa,Childhood T acute lymphoblastic leukemia,Male,7Y,Peripheral blood,0.35,0.31,0.9,84.31,0.65,13.48,0.0
+P30/OHK,Childhood B acute lymphoblastic leukemia,Female,11Y,Bone marrow,0.0,0.0,0.0,75.09,0.0,24.91,0.0
+P31/FUJ,Childhood acute myeloid leukemia,Male,7Y,Peripheral blood,0.0,0.0,0.0,79.39,0.0,20.61,0.0
+P32/ISH,EBV-related Burkitt lymphoma,Male,8Y,Unknown,0.0,0.0,0.0,72.36,0.0,27.64,0.0
+P3HR-1,EBV-related Burkitt lymphoma,Male,7Y,Ascites,1.51,0.0,97.8,0.68,0.0,0.0,0.0
+PA-1,Ovarian mixed germ cell tumor,Female,12Y,Ascites,32.58,17.69,21.08,1.54,26.01,0.7,0.4
+Panc 02.03,Pancreatic adenocarcinoma,Female,70Y,Pancreas,35.18,0.75,1.78,2.77,59.53,0.0,0.0
+Panc 02.13,Pancreatic adenocarcinoma,Female,64Y,Pancreas,32.69,0.98,2.03,0.28,63.98,0.0,0.04
+Panc 03.27,Pancreatic adenocarcinoma,Female,65Y,Pancreas,39.18,0.0,1.16,2.19,56.57,0.0,0.9
+Panc 04.03,Pancreatic ductal adenocarcinoma,Male,70Y,Pancreas,19.17,0.03,0.36,3.59,75.12,0.0,1.72
+Panc 05.04,Pancreatic ductal adenocarcinoma,Female,77Y,Pancreas,30.05,0.0,0.0,0.48,67.06,0.0,2.41
+Panc 08.13,Pancreatic ductal adenocarcinoma,Male,85Y,Pancreas,32.37,0.57,2.26,2.49,62.31,0.0,0.0
+Panc 10.05,Pancreatic ductal adenocarcinoma,Male,81Y,Pancreas,31.0,1.14,0.61,0.96,66.18,0.0,0.11
+PANC-1,Pancreatic ductal adenocarcinoma,Male,56Y,Pancreas,35.65,0.0,2.26,2.09,60.0,0.0,0.0
+PaTu 8902,Pancreatic adenocarcinoma,Female,44Y,Pancreas,35.45,0.21,0.0,1.73,62.61,0.0,0.0
+PaTu 8988s,Pancreatic adenocarcinoma,Female,64Y,Liver,38.45,0.0,1.16,1.35,59.03,0.0,0.0
+PaTu 8988t,Pancreatic adenocarcinoma,Female,64Y,Liver,36.86,0.0,0.4,0.58,61.7,0.47,0.0
+PC-14,Lung adenocarcinoma,Male,45Y,Lymph node,1.72,0.0,0.88,83.17,0.0,13.42,0.81
+PC-3,Prostate carcinoma,Male,62Y,Bone,32.14,0.0,0.41,0.52,65.73,0.0,1.19
+PC-3 [Human lung carcinoma],Lung adenocarcinoma,Female,48Y,Lymph node,1.63,0.0,0.27,77.82,0.0,20.28,0.0
+PCI-04B,Laryngeal squamous cell carcinoma,Male,51Y,Lymph node,37.12,0.0,0.38,1.29,61.21,0.0,0.0
+PCI-06A,Tonsillar squamous cell carcinoma,Male,81Y,"Oral cavity, tonsil",28.85,0.0,0.89,1.02,68.64,0.0,0.59
+PCI-15A,Pyriform fossa squamous cell carcinoma,Male,69Y,"Pharynx, hypopharynx, pyriform sinus",34.95,0.21,0.36,2.01,62.27,0.0,0.21
+PCI-30,Tongue squamous cell carcinoma,Male,54Y,Unknown,50.82,0.0,0.38,0.85,42.64,0.5,4.81
+PCI-38,Tongue squamous cell carcinoma,Male,56Y,Unknown,55.42,0.0,3.33,3.92,30.5,0.0,6.82
+PCM6,Plasma cell myeloma,Female,63Y,Peripheral blood,0.08,0.38,1.03,74.85,0.0,22.81,0.86
+PE/CA-PJ15,Tongue squamous cell carcinoma,Male,45Y,"Oral cavity, tongue",35.0,0.0,1.75,3.5,59.74,0.0,0.0
+PE/CA-PJ34 (clone C12),Head and neck basaloid carcinoma,Male,60Y,Oral cavity,39.01,0.0,3.76,3.52,53.71,0.0,0.0
+PE/CA-PJ41 (clone D2),Oral cavity squamous cell carcinoma,Female,67Y,Unknown,31.58,0.0,2.91,3.3,62.2,0.0,0.0
+PE/CA-PJ49,Tongue squamous cell carcinoma,Male,57Y,"Oral cavity, tongue",33.63,0.0,2.94,4.31,59.12,0.0,0.0
+Peer,Childhood T acute lymphoblastic leukemia,Female,4Y,Peripheral blood,72.11,0.87,3.73,2.76,10.64,0.35,9.54
+PEO1,BRCA2-associated hereditary breast and ovarian cancer syndrome,Female,Age unspecified,Ascites,28.85,0.14,0.0,0.57,70.43,0.0,0.0
+PF-382,Childhood T acute lymphoblastic leukemia,Female,6Y,Pleural effusion,53.26,0.0,0.02,0.88,36.79,0.06,8.99
+Pfeiffer,Diffuse large B-cell lymphoma germinal center B-cell type,Male,Adult,Pleural effusion,63.47,0.65,1.72,0.0,22.11,2.24,9.82
+PFSK-1,Primitive neuroectodermal tumor,Male,1Y10M,"Brain, right frontal lobe",30.55,0.0,0.31,2.03,66.34,0.0,0.77
+PK-1,Pancreatic ductal adenocarcinoma,Male,Age unspecified,Liver,1.25,0.0,0.26,88.21,0.7,8.65,0.93
+PK-45H,Pancreatic carcinoma,Sex unspecified,Age unspecified,Unknown,0.8,0.12,1.31,85.33,0.0,10.26,2.18
+PK-59,Pancreatic carcinoma,Female,66Y,Liver,1.44,0.12,0.0,83.8,0.0,14.64,0.0
+PL-21,Adult acute myeloid leukemia,Male,24Y,Peripheral blood,1.05,1.5,0.0,78.62,0.0,18.83,0.0
+PL4,Pancreatic ductal adenocarcinoma,Unknown,Unknown,Unknown,31.75,0.0,0.4,1.3,64.99,1.55,0.0
+PL45,Pancreatic ductal adenocarcinoma,Male,81Y,Unknown,34.98,0.0,1.25,1.71,62.06,0.0,0.0
+PLB-985,Adult acute myeloid leukemia,Female,36Y,Peripheral blood,28.11,0.0,0.99,1.35,69.55,0.0,0.0
+PLC/PRF/5,Adult hepatocellular carcinoma,Male,24Y,Liver,2.59,0.0,95.79,1.61,0.0,0.0,0.0
+PrEC LH,Unknown,Male,Unknown,"Prostate, epithelium",31.28,0.0,0.32,0.26,67.13,0.0,1.0
+PSN1,Pancreatic adenocarcinoma,Male,Age unspecified,Pancreas,0.0,0.0,0.0,83.56,0.0,16.44,0.0
+PWR-1E,Unknown,Male,67Y,"Prostate, epithelium",30.58,0.0,2.52,2.82,64.08,0.0,0.0
+QGP-1,Pancreatic somatostatinoma,Male,61Y,"Pancreas, islets of Langerhans",0.0,0.0,0.0,82.5,0.0,17.02,0.48
+QIMR-WIL,Adult acute myeloid leukemia,Female,69Y,Peripheral blood,28.92,0.0,0.0,0.0,70.81,0.0,0.26
+Raji,EBV-related Burkitt lymphoma,Male,11Y,"Bone, jaw, maxilla",0.0,0.0,99.39,0.6,0.0,0.0,0.0
+Ramos.2G6.4C10,Burkitt lymphoma,Male,3Y,Ascites,25.29,43.61,4.71,3.64,22.74,0.0,0.0
+RC-K8,Diffuse large B-cell lymphoma germinal center B-cell type,Male,55Y,Peritoneal effusion,0.0,1.19,0.0,73.44,0.06,24.52,0.79
+RCC10RGB,Renal cell carcinoma,Male,Unknown,Kidney,0.08,0.0,0.11,84.52,0.0,15.29,0.0
+RCC4,Clear cell renal cell carcinoma,Sex unspecified,Age unspecified,Kidney,39.47,0.0,1.89,3.32,55.04,0.0,0.27
+RCH-ACV,Childhood B acute lymphoblastic leukemia,Female,8Y,Bone marrow,30.22,0.59,0.05,1.16,65.94,0.0,2.04
+RCM-1 [Human rectal adenocarcinoma],Rectal adenocarcinoma,Female,73Y,Rectum,0.77,0.0,0.97,75.44,0.0,22.81,0.01
+RD,Embryonal rhabdomyosarcoma,Female,7Y,"Pelvis, muscle",37.61,0.0,3.96,4.77,53.65,0.0,0.0
+RD-ES,Ewing sarcoma,Male,19Y,"Bone, humerus",33.89,0.02,1.21,3.1,61.77,0.0,0.0
+REC-1,Mantle cell lymphoma,Male,61Y,Peripheral blood,46.91,0.0,1.88,2.34,48.87,0.0,0.0
+Reh,Childhood B acute lymphoblastic leukemia,Female,15Y,Peripheral blood,58.04,0.09,21.18,1.57,15.6,2.0,1.52
+RERF-GC-1B,Gastric adenocarcinoma,Male,41Y,Pyloric lymph node,1.57,0.65,0.94,82.0,0.0,14.34,0.5
+RERF-LC-A1,Lung squamous cell carcinoma,Male,Age unspecified,Pleural effusion,0.0,0.0,0.35,91.19,1.14,6.87,0.45
+RERF-LC-Ad1,Lung adenocarcinoma,Male,70Y,Lung,0.57,0.0,0.0,76.75,0.0,22.67,0.0
+RERF-LC-Ad2,Lung adenocarcinoma,Male,Age unspecified,Lung,2.52,0.0,0.21,77.51,0.0,19.75,0.0
+RERF-LC-FM,Lung small cell carcinoma,Male,Age unspecified,Pleural effusion,0.57,0.0,0.25,77.86,0.0,20.45,0.87
+RERF-LC-KJ,Lung adenocarcinoma,Male,78Y,Unknown,5.26,0.0,3.56,81.6,0.0,9.57,0.0
+RERF-LC-MS,Lung adenocarcinoma,Male,Age unspecified,Lung,4.39,0.17,1.74,85.02,0.0,8.67,0.0
+RERF-LC-Sq1,Lung squamous cell carcinoma,Female,74Y,Lung,1.32,0.0,0.0,81.28,0.0,17.4,0.0
+RF-48,Lymphoma,Male,62Y,Unknown,29.24,31.68,5.29,3.25,27.68,0.0,2.87
+Rh18,Alveolar rhabdomyosarcoma,Female,2Y,"Perineus, muscle",16.06,0.16,74.53,4.19,5.05,0.0,0.0
+Rh30,Alveolar rhabdomyosarcoma,Male,17Y,Bone marrow,41.87,0.36,2.64,1.57,49.28,0.14,4.15
+Rh41,Alveolar rhabdomyosarcoma,Female,7Y,Lung,32.3,0.0,0.0,1.24,66.46,0.0,0.0
+Ri-1,Diffuse large B-cell lymphoma activated B-cell type,Female,57Y,Peripheral blood,47.45,0.0,3.88,3.34,45.33,0.0,0.0
+RKN,Ovarian leiomyosarcoma,Female,45Y,Ovary,0.14,0.0,0.0,77.67,0.0,22.19,0.0
+RKO,Colon carcinoma,Sex unspecified,Age unspecified,Colon,6.93,2.85,81.43,1.14,7.64,0.0,0.0
+RL,Diffuse large B-cell lymphoma,Male,52Y,Ascites,28.35,1.05,0.0,0.17,68.96,0.0,1.47
+RL95-2,Endometrial adenosquamous carcinoma,Female,65Y,Endometrium,28.28,0.33,0.0,1.49,68.38,0.0,1.52
+RMG-I,Ovarian clear cell adenocarcinoma,Female,34Y,Ascites,0.0,0.61,0.0,81.67,0.42,17.3,0.0
+RMUG-S,Ovarian mucinous cystadenocarcinoma,Female,62Y,Ovary,3.86,0.79,0.94,40.77,0.0,53.64,0.0
+ROS-50,Adult B acute lymphoblastic leukemia,Male,69Y,Peripheral blood,31.58,0.07,0.0,0.46,66.51,0.0,1.38
+RPMI-2650,Head and neck squamous cell carcinoma,Male,52Y,Pleural effusion,28.23,0.9,0.38,1.71,68.78,0.0,0.0
+RPMI-6666,Unknown,Male,29Y,Unknown,27.33,0.17,0.0,0.15,71.83,0.0,0.52
+RPMI-7951,Melanoma,Female,18Y,Lymph node,33.24,1.85,0.0,0.16,64.75,0.0,0.0
+RPMI-8226,Plasma cell myeloma,Male,61Y,Peripheral blood,13.24,0.0,73.94,1.06,11.76,0.0,0.0
+RPMI-8402,Childhood T acute lymphoblastic leukemia,Female,16Y,Peripheral blood,35.77,0.0,0.88,2.78,60.56,0.0,0.0
+RPMI-8866,"Chronic myelogenous leukemia, BCR-ABL1 positive",Female,51Y,Peripheral blood,29.33,0.14,0.0,0.0,67.29,0.0,3.24
+RS4;11,Adult B acute lymphoblastic leukemia,Female,32Y,Bone marrow,31.4,0.02,0.0,0.0,65.49,1.26,1.83
+RT-112,Bladder carcinoma,Female,Age unspecified,Urinary bladder,32.8,0.0,0.0,1.6,65.6,0.0,0.0
+RT-4,Bladder carcinoma,Male,63Y,Urinary bladder,31.61,0.0,0.0,2.72,64.69,0.0,0.98
+RT112/84,Bladder carcinoma,Female,Age unspecified,Urinary bladder,36.11,0.0,2.22,2.64,59.02,0.0,0.0
+RVH-421,Melanoma,Male,28Y,Brain,28.29,0.0,0.31,2.07,67.75,0.0,1.58
+RXF 393L,Renal cell carcinoma,Male,54Y,Unknown,37.15,0.1,0.51,0.0,57.95,0.68,3.61
+S-117,Thyroid gland sarcoma,Female,47Y,Thyroid gland,41.93,0.0,3.26,3.68,51.13,0.0,0.0
+SaOS-2,Osteosarcoma,Female,11Y,Bone,38.6,0.17,1.32,0.46,52.25,0.55,6.66
+Sarc9371,Osteosarcoma,Unknown,Unknown,Unknown,57.68,0.0,0.55,3.77,14.57,0.0,23.42
+SAS,Tongue squamous cell carcinoma,Female,69Y,"Oral cavity, tongue",1.46,0.0,1.4,79.62,0.0,16.48,1.04
+SAT [Human HNSCC],Head and neck squamous cell carcinoma,Unknown,Unknown,Unknown,0.0,1.29,0.32,77.72,1.81,18.87,0.0
+SBC-1,Lung small cell carcinoma,Male,46Y,Lung,0.0,0.47,0.0,73.66,0.0,25.87,0.0
+SBC-3,Lung small cell carcinoma,Male,24Y,Bone marrow,0.0,0.39,0.0,77.93,0.0,21.68,0.0
+SBC-5,Thoracic SMARCA4-deficient undifferentiated tumor,Male,65Y,Pleural effusion,0.54,0.0,0.28,78.17,0.14,20.72,0.15
+Sc-1,Follicular lymphoma,Male,67Y,Ascites,29.81,0.0,1.02,1.9,67.26,0.0,0.0
+SCaBER,Bladder squamous cell carcinoma,Male,58Y,Urinary bladder,3.66,1.69,86.54,2.11,6.0,0.0,0.0
+SCC-15,Tongue squamous cell carcinoma,Male,55Y,"Oral cavity, tongue",30.64,0.0,0.0,2.32,67.04,0.0,0.0
+SCC-25,Tongue squamous cell carcinoma,Male,70Y,"Oral cavity, tongue",35.91,0.24,2.72,4.71,56.41,0.0,0.0
+SCC-3,B-cell non-Hodgkin lymphoma,Female,20Y,Pleural effusion,6.83,0.0,4.47,76.44,0.0,12.26,0.0
+SCC-4,Tongue squamous cell carcinoma,Male,55Y,"Oral cavity, tongue",28.55,0.04,0.0,0.0,69.79,1.1,0.53
+SCC-9,Tongue squamous cell carcinoma,Male,25Y,"Oral cavity, tongue, anterior part",61.6,0.1,0.25,1.78,30.07,0.03,6.17
+SCH,Gastric choriocarcinoma,Male,46Y,Omentum,0.0,0.0,0.0,77.74,0.0,22.24,0.01
+SCLC-21H,Lung small cell carcinoma,Male,46Y,Pleural effusion,34.82,1.19,0.58,1.82,61.58,0.0,0.0
+SEM,Childhood B acute lymphoblastic leukemia,Female,5Y,Peripheral blood,32.35,0.05,0.88,2.53,64.12,0.0,0.07
+SET-2,Adult acute megakaryoblastic leukemia,Female,71Y,Peripheral blood,4.67,0.0,7.24,78.39,0.0,9.7,0.0
+SF126,Glioblastoma,Female,50Y,"Brain, left frontal lobe",44.04,0.0,0.24,1.63,51.32,0.0,2.77
+SF172,Glioblastoma,Female,36Y,Brain,12.87,0.48,75.55,4.1,7.0,0.0,0.0
+SF268,Astrocytoma,Female,24Y,"Brain, right parietal lobe",32.77,0.34,0.25,0.35,65.25,0.0,1.04
+SF295,Glioblastoma,Female,67Y,"Brain, left temporal lobe",25.86,0.0,0.0,1.31,72.83,0.0,0.0
+SF539,Gliosarcoma,Female,34Y,"Brain, right temporo-parietal junction",60.44,1.68,1.47,1.5,25.95,2.04,6.93
+SF767,Human papillomavirus-related cervical squamous cell carcinoma,Female,66Y,Omentum,33.99,0.35,1.45,2.49,61.71,0.0,0.0
+SH-10-TC,Gastric mucinous adenocarcinoma,Unknown,Unknown,Stomach,1.4,0.0,0.0,64.56,0.0,34.04,0.0
+SH-4,Melanoma,Female,60Y,Pleural effusion,28.47,0.74,2.19,4.52,64.08,0.0,0.0
+SH-SY5Y,Neuroblastoma,Female,4Y,Bone marrow,29.2,1.17,0.0,0.35,69.09,0.1,0.08
+SHP-77,Lung small cell carcinoma,Male,54Y,"Lung, left upper lobe",43.74,0.63,3.14,3.39,49.1,0.0,0.0
+SIG-M5,Adult acute myeloid leukemia,Male,63Y,Bone marrow,43.72,0.0,2.46,4.98,48.84,0.0,0.0
+SiHa,Human papillomavirus-related cervical squamous cell carcinoma,Female,55Y,"Uterus, cervix",0.24,0.0,0.0,84.36,0.0,15.4,0.0
+SiMa,Adrenal gland neuroblastoma,Male,1Y8M,Adrenal gland,32.14,0.0,0.65,2.52,63.44,0.0,1.24
+SiSo,Human papillomavirus-related cervical adenocarcinoma,Female,67Y,"Uterus, cervix",7.19,0.11,3.91,79.2,0.0,9.59,0.0
+SJNB-10,Neuroblastoma,Male,2Y,Unknown,31.2,0.0,0.93,0.0,66.44,0.0,1.43
+SJNB-12,Neuroblastoma,Female,10M,Bone marrow,30.06,0.0,0.78,1.75,67.42,0.0,0.0
+SJNB-13,Neuroblastoma,Male,1Y,Unknown,11.4,0.52,68.95,1.69,16.7,0.0,0.75
+SJNB-14,Neuroblastoma,Female,1Y1M,Unknown,42.92,0.13,0.42,0.0,50.65,0.23,5.64
+SJNB-17,Neuroblastoma,Female,1Y,Unknown,30.22,0.8,1.11,1.46,66.06,0.35,0.0
+SJNB-5,Neuroblastoma,Female,2Y,Bone marrow,4.93,0.0,87.26,2.17,5.14,0.0,0.49
+SJNB-6,Neuroblastoma,Male,Age unspecified,Unknown,41.73,0.0,0.42,0.32,52.61,0.64,4.28
+SJNB-7,Neuroblastoma,Male,7M,Unknown,31.49,0.0,0.35,0.0,68.16,0.0,0.0
+SJSA-1,Osteosarcoma,Male,19Y,"Bone, femur",6.03,0.0,90.72,1.2,2.05,0.0,0.0
+SK-BR-3,Breast adenocarcinoma,Female,43Y,Pleural effusion,33.02,0.0,0.7,2.13,63.89,0.0,0.26
+SK-CO-1,Colon adenocarcinoma,Male,65Y,Ascites,28.45,0.56,0.04,2.24,68.7,0.0,0.0
+SK-ES-1,Ewing sarcoma,Male,18Y,Unknown,34.15,0.0,0.13,0.63,63.44,0.0,1.64
+SK-GT-2,Gastric fundus carcinoma,Male,72Y,"Stomach, fundus",31.83,14.81,20.34,2.09,30.94,0.0,0.0
+SK-GT-4,Esophageal adenocarcinoma,Male,89Y,"Esophagus, distal",59.48,1.08,2.11,1.62,27.72,0.0,7.99
+SK-HEP-1,Liver and intrahepatic bile duct epithelial neoplasm,Male,52Y,Ascites,64.2,1.18,0.65,0.0,23.66,2.22,8.09
+SK-LMS-1,Vulvar leiomyosarcoma,Female,43Y,Vulva,31.02,0.0,0.0,1.76,66.04,0.0,1.17
+SK-LU-1,Lung adenocarcinoma,Female,60Y,Lung,31.5,0.0,0.44,1.91,66.14,0.0,0.0
+SK-MEL-1,Melanoma,Male,29Y,Thoracic lymph duct,62.08,0.0,1.29,4.27,23.14,0.0,9.23
+SK-MEL-2,Melanoma,Male,60Y,"Thigh, skin",58.89,0.0,1.43,2.36,28.23,1.87,7.21
+SK-MEL-24,Melanoma,Male,67Y,Lymph node,35.21,0.82,1.73,1.82,60.41,0.0,0.0
+SK-MEL-28,Cutaneous melanoma,Male,51Y,Skin,64.91,0.56,1.75,3.0,20.11,1.38,8.29
+SK-MEL-3,Cutaneous melanoma,Female,42Y,Lymph node,62.57,0.0,1.51,2.94,24.17,0.0,8.82
+SK-MEL-30,Cutaneous melanoma,Male,67Y,Unknown,35.99,0.0,0.0,1.6,62.41,0.0,0.0
+SK-MEL-31,Cutaneous melanoma,Female,33Y,Unknown,60.44,0.03,3.89,4.7,26.77,0.0,4.17
+SK-MEL-5,Cutaneous melanoma,Female,24Y,Axillary lymph node,35.06,0.0,1.41,3.5,60.03,0.0,0.0
+SK-MES-1,Lung squamous cell carcinoma,Male,65Y,Pleural effusion,32.97,0.0,0.88,1.52,64.63,0.0,0.0
+SK-MG-1,Astrocytoma,Female,59Y,Unknown,58.92,0.87,2.66,0.78,25.75,2.54,8.48
+SK-MM-2,Plasma cell myeloma,Male,54Y,Peripheral blood,52.35,0.0,3.65,2.84,38.09,0.0,3.06
+SK-N-AS,Neuroblastoma,Female,6Y,Bone marrow,40.39,0.0,1.49,2.41,53.12,0.0,2.58
+SK-N-BE(2),Neuroblastoma,Male,2Y2M,Bone marrow,63.46,0.88,1.71,1.41,24.66,0.0,7.87
+SK-N-BE(2)-M17,Neuroblastoma,Male,2Y2M,Bone marrow,64.0,1.22,3.92,3.24,21.38,0.0,6.24
+SK-N-DZ,Neuroblastoma,Female,2Y,Bone marrow,27.16,20.53,1.63,2.39,47.7,0.0,0.6
+SK-N-FI,Neuroblastoma,Male,11Y,Bone marrow,27.95,8.08,24.58,2.3,35.17,0.57,1.35
+SK-N-MC,Askin tumor,Female,12Y,Orbital region,29.43,0.0,1.84,0.61,67.85,0.0,0.27
+SK-N-MC-IXC,Askin tumor,Female,12Y,Orbital region,25.63,0.0,0.0,0.0,74.37,0.0,0.0
+SK-N-SH,Neuroblastoma,Female,4Y,Bone marrow,31.16,0.07,0.37,1.63,66.77,0.0,0.0
+SK-NEP-1,Ewing sarcoma,Female,25Y,Pleural effusion,31.37,0.0,0.0,0.75,66.07,0.0,1.81
+SK-OV-3,Ovarian serous cystadenocarcinoma,Female,64Y,Ascites,36.53,0.0,1.52,1.76,59.05,0.0,1.14
+SK-PN-DW,Primitive neuroectodermal tumor,Male,17Y,Retroperitoneal space,35.42,0.0,0.0,1.81,62.77,0.0,0.0
+SK-RC-31,Renal cell carcinoma,Male,Age unspecified,Lung,66.52,0.01,3.19,7.38,19.72,0.0,3.18
+SK-UT-1,Uterine corpus leiomyosarcoma,Female,75Y,Uterus,54.91,1.42,1.59,0.0,32.8,1.64,7.64
+SKG-IIIa,Human papillomavirus-related cervical squamous cell carcinoma,Female,38Y,"Uterus, cervix",0.0,0.0,0.18,84.88,0.0,14.94,0.0
+SKM-1,Adult acute myeloid leukemia,Male,76Y,Peripheral blood,0.5,0.67,0.0,75.52,0.33,22.98,0.0
+SKN,Uterine corpus leiomyosarcoma,Female,52Y,Unknown,3.89,0.0,0.3,0.0,0.0,87.84,7.96
+SKN-3,Oral cavity squamous cell carcinoma,Sex unspecified,Age unspecified,Unknown,0.0,0.03,0.0,76.9,0.55,21.66,0.86
+SKNO-1,Adult acute myeloid leukemia with maturation,Male,22Y,Bone marrow,2.59,0.0,1.83,90.65,0.2,3.5,1.23
+SLR20,Bladder carcinoma,Female,82Y,Urinary bladder,24.34,0.52,0.0,2.35,72.79,0.0,0.0
+SLR21,Clear cell renal cell carcinoma,Sex unspecified,Age unspecified,Not specified,31.24,0.64,0.09,0.0,66.35,0.43,1.26
+SLR23,Clear cell renal cell carcinoma,Sex unspecified,Age unspecified,Not specified,31.41,0.14,0.0,0.79,67.65,0.0,0.0
+SLR24,Clear cell renal cell carcinoma,Sex unspecified,Age unspecified,Kidney,41.0,0.0,0.24,2.8,55.96,0.0,0.0
+SLR25,Clear cell renal cell carcinoma,Sex unspecified,Age unspecified,Not specified,38.41,0.0,0.9,3.02,57.41,0.0,0.26
+SLR26,Clear cell renal cell carcinoma,Male,Age unspecified,Unknown,30.63,0.0,1.17,1.33,65.36,1.5,0.0
+SN12C,Renal cell carcinoma,Male,Unknown,Kidney,31.1,1.06,0.58,0.47,64.97,0.0,1.82
+SNB-19,Astrocytoma,Male,75Y,"Brain, parietal lobe",18.39,0.0,0.48,2.88,78.25,0.0,0.0
+SNB-75,Glioblastoma,Female,75Y,Brain,38.96,0.06,0.77,2.51,57.46,0.0,0.24
+SNG-M,Endometrial adenocarcinoma,Female,52-54Y,Obturator lymph node,0.0,0.03,0.0,75.48,0.0,24.49,0.0
+SNU-1,Gastric adenocarcinoma,Male,44Y,Stomach,0.0,0.88,0.0,57.18,0.0,41.93,0.0
+SNU-1033,Rectal adenocarcinoma,Female,45Y,Rectum,24.53,0.0,18.67,56.8,0.0,0.0,0.0
+SNU-1040,Colon adenocarcinoma,Male,34Y,Colon,0.0,1.04,0.0,58.5,0.0,40.46,0.0
+SNU-1076,Laryngeal squamous cell carcinoma,Male,60Y,Larynx,1.99,0.0,2.88,66.81,0.0,28.32,0.0
+SNU-1077,Uterine carcinosarcoma,Female,60Y,Endometrium,1.53,0.0,0.64,64.52,0.0,33.3,0.0
+SNU-1079,Intrahepatic cholangiocarcinoma,Male,Age unspecified,"Liver, intrahepatic bile duct",0.66,0.0,0.24,64.18,0.0,34.91,0.0
+SNU-1105,Glioblastoma,Male,61Y,Brain,0.0,1.43,0.33,63.75,0.0,34.48,0.0
+SNU-119,High grade ovarian serous adenocarcinoma,Female,50Y,Ascites,3.15,0.0,2.1,63.25,0.0,31.5,0.0
+SNU-1196,Hilar cholangiocarcinoma,Sex unspecified,Age unspecified,Common hepatic duct,0.51,0.0,0.3,61.64,0.0,37.54,0.0
+SNU-1197,Colon adenocarcinoma,Male,70Y,Colon,1.55,0.35,1.84,62.22,0.0,34.04,0.0
+SNU-1214,Laryngeal squamous cell carcinoma,Male,55Y,Larynx,0.0,0.0,1.38,61.21,0.0,37.41,0.0
+SNU-1272,Clear cell renal cell carcinoma,Female,63Y,Kidney,0.37,0.63,1.64,63.53,0.0,33.83,0.0
+SNU-16,Gastric adenocarcinoma,Female,33Y,Ascites,2.71,0.82,3.14,65.94,0.0,27.38,0.0
+SNU-175,Colon adenocarcinoma,Female,56Y,Peritoneum,0.0,0.33,0.24,60.01,0.0,39.42,0.0
+SNU-182,Adult hepatocellular carcinoma,Male,24Y,Liver,2.24,0.0,1.29,65.62,0.0,30.85,0.0
+SNU-201,Glioblastoma,Male,58Y,Brain,0.0,2.29,2.24,64.8,0.0,30.66,0.0
+SNU-213,Pancreatic adenocarcinoma,Male,65Y,Pancreas,0.41,0.0,1.77,68.61,0.0,29.21,0.0
+SNU-216,Gastric tubular adenocarcinoma,Female,46Y,Lymph node,1.27,0.0,2.54,69.93,0.0,26.25,0.0
+SNU-245,Cholangiocarcinoma,Sex unspecified,Age unspecified,Bile duct,0.05,0.55,0.84,65.45,0.0,33.11,0.0
+SNU-283,Rectal adenocarcinoma,Female,62Y,Omentum,1.16,0.52,1.3,60.74,0.0,36.27,0.0
+SNU-308,Gallbladder carcinoma,Sex unspecified,Age unspecified,Gallbladder,1.83,0.0,0.26,62.71,0.0,35.2,0.0
+SNU-324,Pancreatic adenocarcinoma,Male,50Y,Pancreas,0.0,0.0,0.0,60.53,0.0,39.47,0.0
+SNU-349,Clear cell renal cell carcinoma,Male,68Y,Kidney,0.0,0.68,0.29,61.84,0.16,37.03,0.0
+SNU-387,Adult hepatocellular carcinoma,Female,41Y,Liver,0.87,0.32,0.32,64.77,0.0,33.73,0.0
+SNU-398,Adult hepatocellular carcinoma,Male,42Y,Liver,2.61,0.85,1.33,66.35,0.0,28.86,0.0
+SNU-407,Colon adenocarcinoma,Male,37Y,Buttock,2.05,0.4,1.29,66.65,0.0,29.61,0.0
+SNU-410,Pancreatic adenocarcinoma,Male,53Y,Liver,0.89,0.0,0.52,66.58,0.0,32.02,0.0
+SNU-423,Adult hepatocellular carcinoma,Male,40Y,Liver,0.26,0.82,0.0,62.68,0.0,36.24,0.0
+SNU-449,Adult hepatocellular carcinoma,Male,52Y,Liver,1.66,0.29,0.37,60.93,0.0,36.75,0.0
+SNU-46,Laryngeal squamous cell carcinoma,Male,65Y,Larynx,4.64,0.0,1.74,68.94,0.0,24.69,0.0
+SNU-466,Glioblastoma,Male,61Y,Brain,0.36,0.0,0.92,61.85,0.0,36.86,0.0
+SNU-475,Adult hepatocellular carcinoma,Male,43Y,Liver,1.15,0.0,0.39,63.9,0.0,34.56,0.0
+SNU-478,Ampulla of Vater adenocarcinoma,Sex unspecified,Age unspecified,"Pancreas, ampulla of Vater",1.02,0.85,0.0,60.73,0.0,37.41,0.0
+SNU-489,Glioblastoma,Male,54Y,Brain,0.0,0.3,0.11,61.65,0.0,37.93,0.0
+SNU-5,Gastric adenocarcinoma,Female,33Y,Ascites,0.76,0.0,0.0,65.54,0.0,33.69,0.0
+SNU-503,Rectal adenocarcinoma,Male,52Y,Abdominal wall,0.39,0.0,0.0,62.02,0.0,37.59,0.0
+SNU-520,Gastric adenocarcinoma,Female,60Y,Stomach,0.0,0.0,0.0,57.76,0.0,42.23,0.0
+SNU-601,Gastric signet ring cell adenocarcinoma,Male,34Y,Ascites,0.68,0.43,1.93,63.23,0.0,33.73,0.0
+SNU-61,Rectal adenocarcinoma,Male,48Y,Liver,1.34,0.17,1.54,63.73,0.0,33.22,0.0
+SNU-620,Gastric adenocarcinoma,Female,59Y,Ascites,0.67,1.1,0.37,58.94,0.05,38.87,0.0
+SNU-626,Glioblastoma,Male,65Y,Brain,0.0,0.0,0.03,63.88,0.0,35.09,0.99
+SNU-668,Gastric signet ring cell adenocarcinoma,Male,63Y,Ascites,1.82,0.0,1.18,71.14,0.0,25.86,0.0
+SNU-685,Uterine carcinosarcoma,Female,70Y,Endometrium,0.02,0.59,1.15,63.21,0.0,35.03,0.0
+SNU-719,Gastric tubular adenocarcinoma,Male,53Y,Stomach,0.0,1.31,0.0,60.01,0.0,38.67,0.0
+SNU-738,Oligodendroglioma,Male,40Y,Brain,1.57,0.0,1.32,64.14,0.0,32.96,0.0
+SNU-761,Adult hepatocellular carcinoma,Male,49Y,Liver,1.38,0.0,0.61,59.84,0.0,38.16,0.0
+SNU-8,Ovarian serous cystadenocarcinoma,Female,55Y,Ascites,0.45,0.79,0.06,58.48,0.01,40.21,0.0
+SNU-81,Colon adenocarcinoma,Male,53Y,Colon,0.0,1.37,0.0,56.62,0.0,42.0,0.0
+SNU-840,Malignant ovarian Brenner tumor,Female,45Y,Ovary,3.57,0.0,3.49,68.16,0.0,24.79,0.0
+SNU-869,Ampulla of Vater adenocarcinoma,Sex unspecified,Age unspecified,"Pancreas, ampulla of Vater",19.53,0.0,15.94,64.53,0.0,0.0,0.0
+SNU-878,Adult hepatocellular carcinoma,Female,54Y,Liver,5.72,0.0,5.81,66.98,0.0,21.49,0.0
+SNU-886,Adult hepatocellular carcinoma,Male,57Y,Liver,0.0,0.92,1.56,64.25,0.0,33.26,0.0
+SNU-899,Laryngeal squamous cell carcinoma,Male,56Y,Larynx,0.63,0.85,0.0,62.64,0.0,35.88,0.0
+SNU-C1,Colon adenocarcinoma,Male,71Y,Peritoneum,4.43,0.0,3.6,70.54,0.0,21.43,0.0
+SNU-C2A,Cecum adenocarcinoma,Female,43Y,Cecum,0.14,0.0,0.61,62.55,0.97,35.74,0.0
+SNU-C2B,Cecum adenocarcinoma,Female,43Y,Cecum,0.0,0.36,0.0,60.61,0.0,39.03,0.0
+SNU-C4,Colon adenocarcinoma,Male,35Y,Unknown,0.0,0.62,0.0,57.31,0.0,42.07,0.0
+SNU-C5,Cecum adenocarcinoma,Female,77Y,Cecum,0.0,0.84,0.0,58.4,0.0,40.75,0.0
+Sq-1,Lung squamous cell carcinoma,Male,Unknown,Unknown,0.0,0.0,0.4,81.37,0.0,17.66,0.56
+SR,"Anaplastic large cell lymphoma, ALK-positive",Male,11Y,Pleural effusion,34.1,0.0,0.0,3.12,62.78,0.0,0.0
+ST486,Burkitt lymphoma,Female,Age unspecified,Ascites,39.3,2.43,0.3,1.27,54.96,0.0,1.74
+STS-0421,Gastric adenocarcinoma,Unknown,Unknown,Unknown,29.19,0.12,0.99,0.8,67.02,0.0,1.87
+SU-DHL-1,"Anaplastic large cell lymphoma, ALK-positive",Male,10Y,Pleural effusion,24.81,22.55,3.76,5.57,43.3,0.0,0.0
+SU-DHL-10,Diffuse large B-cell lymphoma germinal center B-cell type,Male,25Y,Pleural effusion,31.62,0.0,2.75,4.02,61.61,0.0,0.0
+SU-DHL-16,B-cell non-Hodgkin lymphoma,Male,Age unspecified,Pleural effusion,29.29,0.75,0.78,0.0,66.22,0.0,2.95
+SU-DHL-4,Diffuse large B-cell lymphoma germinal center B-cell type,Male,38Y,Peritoneal effusion,37.92,1.07,0.0,0.0,60.53,0.49,0.0
+SU-DHL-5,Diffuse large B-cell lymphoma germinal center B-cell type,Female,17Y,Lymph node,32.3,0.0,1.37,1.36,63.92,0.0,1.05
+SU-DHL-6,Diffuse large B-cell lymphoma germinal center B-cell type,Male,43Y,Peritoneal effusion,36.02,0.0,2.74,1.8,59.44,0.0,0.0
+SU-DHL-8,Diffuse large B-cell lymphoma germinal center B-cell type,Male,59Y,Pleural effusion,32.58,0.0,0.67,0.1,64.1,0.0,2.54
+SU.86.86,Pancreatic adenocarcinoma,Female,57Y,Liver,43.16,1.63,0.25,1.94,53.02,0.0,0.0
+SUIT-2,Pancreatic ductal adenocarcinoma,Male,73Y,Liver,0.0,1.31,0.0,81.51,0.0,17.16,0.02
+SUP-B15,Childhood B acute lymphoblastic leukemia with t(9;22)(q34.1;q11.2) BCR-ABL1,Male,9Y,Bone marrow,27.71,0.5,0.0,0.25,70.33,0.2,1.01
+SUP-B8,Childhood B acute lymphoblastic leukemia,Female,15Y,Bone marrow,28.0,0.0,0.05,0.63,69.66,0.05,1.61
+SUP-HD1,Hodgkin lymphoma,Male,37Y,Pleural effusion,40.59,0.0,5.43,4.61,49.35,0.0,0.02
+SUP-M2,"Anaplastic large cell lymphoma, ALK-positive",Female,5Y,Cerebrospinal fluid,38.68,1.22,2.59,2.73,54.77,0.0,0.0
+SUP-T1,Childhood T lymphoblastic lymphoma,Male,8Y,Pleural effusion,41.99,1.61,0.14,0.0,46.77,0.0,9.49
+SUP-T11,Adult T acute lymphoblastic leukemia,Male,74Y,Bone marrow,31.87,0.0,2.38,3.57,62.17,0.0,0.0
+SW1088,Astrocytoma,Male,72Y,Unknown,29.71,0.6,0.0,1.08,68.27,0.34,0.0
+SW1116,Colon adenocarcinoma,Male,73Y,Colon,32.62,0.0,1.32,3.41,62.64,0.0,0.0
+SW1271,Lung small cell carcinoma,Male,69Y,Lung,32.2,1.29,0.42,2.56,63.53,0.0,0.0
+SW13,Adrenal cortex carcinoma,Female,55Y,Adrenal gland,24.66,0.0,2.01,0.0,72.28,0.61,0.44
+SW1353,Primary central chondrosarcoma,Female,72Y,"Bone, right humerus",31.35,0.0,0.24,2.24,66.16,0.0,0.0
+SW1417,Colon adenocarcinoma,Female,53Y,Colon,34.82,0.0,0.0,2.13,62.18,0.0,0.86
+SW1463,Rectal adenocarcinoma,Female,66Y,Rectum,44.61,0.0,5.61,8.03,41.75,0.0,0.0
+SW1573,Minimally invasive lung adenocarcinoma,Female,44Y,Lung,32.09,0.18,0.36,0.45,66.92,0.0,0.0
+SW1710,Bladder carcinoma,Female,84Y,Unknown,31.96,0.0,0.06,1.26,65.29,0.0,1.43
+SW1783,Anaplastic astrocytoma,Male,68Y,Unknown,30.84,0.24,0.0,1.93,65.97,1.02,0.0
+SW1990,Pancreatic adenocarcinoma,Male,56Y,Pancreas,35.04,0.78,0.49,2.9,60.78,0.0,0.0
+SW403,Colon adenocarcinoma,Female,51Y,Colon,32.9,0.4,0.6,0.5,62.34,0.0,3.26
+SW48,Colon adenocarcinoma,Female,83Y,Colon,29.21,0.0,0.09,0.0,69.25,1.44,0.0
+SW480,Colon adenocarcinoma,Male,51Y,Colon,39.69,0.55,0.0,1.14,58.36,0.1,0.15
+SW579,Thyroid gland squamous cell carcinoma,Male,59Y,Thyroid gland,32.66,1.95,0.11,0.43,63.94,0.0,0.91
+SW620,Colon adenocarcinoma,Male,51Y,Lymph node,43.67,0.0,2.02,4.3,50.01,0.0,0.0
+SW626,Colon adenocarcinoma,Female,46Y,Ovary,31.17,0.08,0.06,0.77,65.38,0.0,2.55
+SW684,Fibrosarcoma,Male,68Y,Unknown,28.98,0.15,0.49,1.06,67.56,1.15,0.61
+SW756,Human papillomavirus-related cervical squamous cell carcinoma,Female,46Y,"Uterus, cervix",34.34,0.0,3.44,3.59,58.26,0.0,0.36
+SW780,Bladder carcinoma,Female,80Y,Urinary bladder,26.09,0.16,0.52,0.43,68.95,0.73,3.11
+SW837,Rectal adenocarcinoma,Male,53Y,Rectum,30.8,0.0,2.4,1.12,65.15,0.53,0.0
+SW872,Liposarcoma,Male,36Y,Unknown,24.84,0.0,1.25,2.4,69.64,0.14,1.73
+SW900,Lung squamous cell carcinoma,Male,53Y,Lung,30.63,0.0,0.45,1.4,65.68,0.0,1.83
+SW948,Colon adenocarcinoma,Female,81Y,Colon,33.37,1.47,0.0,0.0,63.91,0.0,1.25
+SW954,Vulvar squamous cell carcinoma,Female,86Y,Vulva,27.38,0.0,0.24,0.14,70.36,0.57,1.33
+SW962,Vulvar carcinoma,Female,64Y,Lymph node,31.99,0.7,4.03,4.56,58.72,0.0,0.0
+SW982,Biphasic synovial sarcoma,Female,25Y,Synovium,29.52,0.11,0.0,0.0,67.54,0.0,2.82
+T-47D,Invasive breast carcinoma of no special type,Female,54Y,Pleural effusion,62.69,1.2,0.86,3.03,22.59,1.59,8.04
+T.T,Esophageal squamous cell carcinoma,Male,67Y,"Bone, jaw, mandible",2.44,0.0,0.13,82.54,0.0,14.89,0.0
+T1-73,Unknown,Sex unspecified,Age unspecified,Bone,41.34,0.25,0.88,0.51,53.75,0.0,3.27
+T24,Bladder carcinoma,Female,82Y,Urinary bladder,27.92,0.28,1.35,4.67,65.79,0.0,0.0
+T3M-10,Lung large cell carcinoma,Male,40Y,Lymph node,2.71,0.0,1.75,84.13,0.0,11.41,0.0
+T3M-4,Pancreatic ductal adenocarcinoma,Male,64Y,Lymph node,0.16,0.38,0.38,79.41,0.0,19.66,0.0
+T84,Colon adenocarcinoma,Male,72Y,Lung,37.09,0.0,2.33,3.37,57.21,0.0,0.0
+T98G,Glioblastoma,Male,61Y,Brain,60.81,0.16,1.56,4.73,26.22,0.0,6.52
+TALL-1 [Human adult T-ALL],Adult T acute lymphoblastic leukemia,Male,28Y,Bone marrow,1.62,0.7,0.0,75.83,0.0,19.85,1.99
+TASK1,Askin tumor,Female,21Y,Chest wall,2.87,0.97,1.94,86.4,0.0,7.58,0.24
+TC-32,Primitive neuroectodermal tumor,Female,17Y,"Bone, left ilium",30.65,0.3,0.13,1.12,67.6,0.0,0.2
+TC-71,Ewing sarcoma,Male,22Y,"Bone, humerus",31.66,0.12,0.1,1.75,65.4,0.0,0.97
+TC-YIK,Cervical small cell neuroendocrine carcinoma,Female,31Y,Unknown,0.0,0.0,0.0,74.47,0.0,25.52,0.0
+TCC-Pan2,Pancreatic ductal adenocarcinoma,Female,47Y,Ascites,3.52,0.0,1.68,89.24,0.0,5.56,0.0
+TCCSUP,Bladder carcinoma,Female,67Y,Urinary bladder,28.53,0.0,0.0,1.27,68.68,0.03,1.48
+TE 125.T,Unknown,Female,1Y,Unknown,25.92,41.29,5.57,1.9,25.13,0.18,0.0
+TE 159.T,Unknown,Male,6Y,Unknown,27.14,21.64,1.8,2.4,45.27,0.0,1.76
+TE 441.T,Rhabdomyosarcoma,Female,14Y,Connective tissue,5.2,0.35,87.48,1.73,4.76,0.0,0.48
+TE 617.T,Rhabdomyosarcoma,Female,1Y8M,Connective tissue,29.92,1.43,0.0,0.0,65.86,0.0,2.79
+TE-1,Esophageal squamous cell carcinoma,Male,58Y,Esophagus,2.41,0.0,0.32,85.61,0.0,11.65,0.0
+TE-10,Esophageal squamous cell carcinoma,Male,58Y,Esophagus,4.65,0.0,5.82,81.86,0.0,7.66,0.0
+TE-11,Esophageal squamous cell carcinoma,Male,58Y,Esophagus,0.0,0.0,0.0,89.62,0.0,10.38,0.0
+TE-12,Esophageal squamous cell carcinoma,Male,Unknown,Unknown,0.0,0.13,0.0,76.19,0.56,22.61,0.51
+TE-14,Esophageal squamous cell carcinoma,Male,57Y,Esophagus,3.92,0.0,3.44,83.33,0.0,9.3,0.0
+TE-15,Esophageal squamous cell carcinoma,Female,58Y,Esophagus,0.0,0.0,0.0,83.86,0.0,15.31,0.83
+TE-4,Esophageal squamous cell carcinoma,Female,48Y,Esophagus,2.93,0.0,2.46,82.3,0.0,12.31,0.0
+TE-5,Esophageal squamous cell carcinoma,Female,73Y,Esophagus,0.36,0.66,0.34,86.45,0.0,11.83,0.36
+TE-6,Esophageal squamous cell carcinoma,Male,71Y,Esophagus,1.62,0.0,0.98,84.09,0.0,13.31,0.0
+TE-8,Esophageal squamous cell carcinoma,Male,63Y,Esophagus,3.7,0.0,1.28,88.72,0.0,6.31,0.0
+TE-9,Esophageal squamous cell carcinoma,Male,48Y,Pleural effusion,0.0,0.49,0.0,84.82,0.0,14.68,0.0
+TEN,Endometrial carcinoma,Female,74Y,Endometrium,0.3,0.0,0.21,76.96,0.0,22.41,0.11
+TF-1,Erythroleukemia,Male,35Y,Bone marrow,1.13,0.04,0.64,79.7,0.0,18.49,0.0
+TGBC11TKB,Gastric carcinoma,Female,72Y,Lymph node,0.0,0.0,0.0,81.43,0.0,18.57,0.0
+TGBC1TKB,Gallbladder undifferentiated carcinoma,Female,Unknown,Lymph node,0.0,0.16,0.0,75.35,0.0,24.48,0.0
+TGBC24TKB,Gallbladder carcinoma,Female,Unknown,Ascites,0.0,0.0,0.0,75.8,0.26,23.94,0.0
+TGW,Adrenal gland neuroblastoma,Male,1Y11M,Adrenal gland,0.0,0.0,0.0,71.87,0.42,26.74,0.97
+THP-1,Childhood acute monocytic leukemia,Male,1Y,Peripheral blood,0.0,0.3,0.0,77.63,0.0,20.4,1.67
+TIG-3 TD,Unknown,Male,12FW,Fetal lung,0.0,0.91,0.0,74.91,0.0,24.18,0.0
+TK [Human B-cell lymphoma],B-cell non-Hodgkin lymphoma,Female,80Y,Ascites,0.0,0.0,0.67,79.08,0.39,19.03,0.83
+TK-10,Clear cell renal cell carcinoma,Male,43Y,Kidney,73.4,2.2,1.52,0.11,9.0,1.52,12.26
+TM-31,Astrocytoma,Female,42Y,Brain,3.26,0.0,1.8,80.56,0.0,14.37,0.0
+TMK-1,Gastric adenocarcinoma,Male,21Y,Lymph node,0.0,0.49,0.05,70.76,0.73,27.97,0.0
+TO 175.T,Unknown,Male,29Y,"Trunk, skin",28.11,0.27,0.0,0.13,71.49,0.0,0.0
+Toledo,Diffuse large B-cell lymphoma germinal center B-cell type,Female,Adult,Peripheral blood,64.81,0.0,7.85,5.12,17.53,0.0,4.69
+TOV-112D,Ovarian endometrioid adenocarcinoma,Female,42Y,Ovary,43.09,0.33,0.0,2.98,53.45,0.0,0.16
+TOV-21G,Ovarian clear cell adenocarcinoma,Female,62Y,Ovary,37.42,1.11,0.0,0.06,59.77,0.0,1.64
+TT,Hereditary thyroid gland medullary carcinoma,Female,77Y,Thyroid gland,57.09,0.0,2.11,2.03,32.67,0.0,6.11
+TT2609-C02,Thyroid gland follicular carcinoma,Male,57Y,Thyroid gland,33.37,0.39,0.11,2.11,62.71,0.0,1.31
+TUHR10TKB,Clear cell renal cell carcinoma,Male,69Y,Kidney,0.0,0.0,0.0,79.7,0.0,19.89,0.4
+TUHR14TKB,Renal cell carcinoma,Male,Age unspecified,Unknown,4.0,0.46,0.62,87.1,0.0,7.82,0.0
+TUHR4TKB,Renal cell carcinoma,Male,60Y,Kidney,5.48,0.0,3.62,85.09,0.0,5.8,0.0
+TUR,Adult acute monocytic leukemia,Male,37Y,Pleural effusion,22.94,0.04,0.0,0.5,75.18,0.0,1.33
+TYK-nu,High grade ovarian serous adenocarcinoma,Female,38Y,Unknown,0.0,0.15,0.42,83.85,0.0,15.58,0.0
+U-118MG,Astrocytoma,Male,47Y,Brain,0.0,0.0,1.71,1.75,96.54,0.0,0.0
+U-138MG,Astrocytoma,Male,47Y,Brain,0.67,0.0,1.64,1.56,96.13,0.0,0.0
+U-178MG,Astrocytoma,Male,56Y,Unknown,23.49,0.0,2.94,4.06,69.5,0.0,0.0
+U-251MG,Astrocytoma,Male,75Y,"Brain, parietal lobe",17.65,0.0,0.69,2.21,79.45,0.0,0.0
+U-343MGa,Glioblastoma,Male,54Y,"Brain, temporal lobe",22.03,0.0,1.11,4.21,72.65,0.0,0.0
+U-698-M,Lymphoblastic lymphoma,Male,7Y,Unknown,22.56,0.0,3.7,4.43,69.32,0.0,0.0
+U-87MG ATCC,Glioblastoma,Male,Age unspecified,Unknown,23.21,0.0,0.69,3.92,72.18,0.0,0.0
+U-937,Adult acute monocytic leukemia,Male,37Y,Pleural effusion,26.06,0.0,0.0,2.39,71.54,0.0,0.0
+U-CH2,Sacral chordoma,Female,72Y,Unknown,29.44,0.92,0.0,0.0,67.93,0.34,1.36
+U266B1,Plasma cell myeloma,Male,53Y,Peripheral blood,15.72,0.0,0.0,2.78,80.76,0.29,0.45
+U2OS,Osteosarcoma,Female,15Y,"Bone, tibia",31.08,0.0,2.75,5.19,60.98,0.0,0.0
+UACC-257,Melanoma,Sex unspecified,Age unspecified,Unknown,32.65,0.57,0.0,0.83,65.94,0.0,0.0
+UACC-62,Melanoma,Sex unspecified,Age unspecified,Skin,29.88,0.0,0.45,0.45,67.39,0.0,1.83
+UACC-812,Invasive breast carcinoma of no special type,Female,43Y,Breast,21.07,50.48,6.53,6.42,13.71,0.0,1.78
+UACC-893,Invasive breast carcinoma of no special type,Female,57Y,Breast,35.5,0.0,1.96,4.64,57.9,0.0,0.0
+UD-SCC-2,Hypopharyngeal squamous cell carcinoma,Male,58Y,Unknown,35.31,0.0,3.2,4.0,57.49,0.0,0.0
+UM-RC-2,Clear cell renal cell carcinoma,Sex unspecified,Age unspecified,Kidney,34.02,0.53,5.05,4.92,55.48,0.0,0.0
+UM-RC-6,Renal cell carcinoma,Male,Age unspecified,Kidney,11.91,0.05,81.78,2.02,4.24,0.0,0.0
+UM-UC-1,Bladder carcinoma,Male,26Y,Lymph node,9.04,0.0,85.83,2.25,2.87,0.0,0.0
+UM-UC-3,Bladder carcinoma,Male,Age unspecified,Urinary bladder,36.94,0.0,3.66,3.71,55.69,0.0,0.0
+UMC-11,Lung carcinoid tumor,Male,Age unspecified,Unknown,26.54,0.0,0.55,1.07,69.48,0.34,2.02
+UO-31,Renal cell carcinoma,Female,Age unspecified,Kidney,28.82,0.0,1.96,3.55,65.67,0.0,0.0
+UOK101,Clear cell renal cell carcinoma,Unknown,Unknown,Kidney,34.1,0.0,1.6,2.72,60.33,0.0,1.25
+UPCI-SCC-090,Tongue squamous cell carcinoma,Male,46Y,"Oral cavity, tongue",29.79,0.0,0.0,3.18,67.02,0.0,0.0
+UT-7,Adult acute megakaryoblastic leukemia,Male,64Y,Bone marrow,3.36,0.0,2.07,82.57,0.0,12.0,0.0
+UWB1.289,BRCA1-associated hereditary breast and ovarian cancer syndrome,Female,56Y,Unknown,26.96,0.0,0.18,0.95,70.57,0.0,1.35
+VA-ES-BJ,Epithelioid sarcoma,Male,41Y,Bone marrow,28.41,0.0,0.49,0.0,67.75,0.0,3.35
+VAL,Diffuse large B-cell lymphoma,Female,50Y,Bone marrow,32.11,0.0,0.0,0.0,64.59,0.47,2.83
+VCaP,Prostate carcinoma,Male,59Y,"Bone, vertebra",27.77,0.05,0.0,1.4,69.8,0.0,0.98
+VL51,Splenic marginal zone lymphoma,Female,70Y,Peripheral blood,0.1,0.13,0.61,76.13,0.0,22.43,0.59
+VM-CUB-1,Bladder carcinoma,Male,Age unspecified,Urinary bladder,35.26,0.0,1.21,3.22,60.31,0.0,0.0
+VMRC-LCD,Lung adenocarcinoma,Male,Age unspecified,Lung,39.12,0.0,0.98,3.69,56.21,0.0,0.0
+VMRC-LCP,Lung squamous cell carcinoma,Sex unspecified,Age unspecified,Lung,34.15,0.0,0.95,1.52,62.75,0.0,0.62
+VMRC-MELG,Melanoma,Male,Age unspecified,Unknown,28.76,0.0,4.63,0.15,63.56,2.24,0.66
+VMRC-RCW,Renal cell carcinoma,Male,Age unspecified,Unknown,24.69,0.43,2.21,1.64,69.86,0.0,1.16
+VMRC-RCZ,Renal cell carcinoma,Sex unspecified,Age unspecified,Unknown,34.32,0.0,0.43,2.06,61.8,0.0,1.38
+WIL2 NS,Hereditary spherocytosis,Male,5Y,Spleen,28.06,0.61,0.0,0.0,69.86,0.0,1.47
+WM115,Melanoma,Female,55Y,"Right anterior leg, skin",31.51,0.17,0.0,0.0,67.47,0.0,0.85
+WM1552C,Cutaneous melanoma,Male,72Y,Hypodermis,23.98,0.24,0.0,0.0,72.29,1.1,2.39
+WM1799,Melanoma,Male,Age unspecified,Not specified,45.7,0.0,0.37,4.29,47.56,0.0,2.08
+WM266-4,Melanoma,Female,55Y,"Right thigh, skin",32.46,0.0,0.04,0.0,66.56,0.62,0.32
+WM278,Cutaneous melanoma,Female,62Y,Skin,30.87,0.0,0.85,0.99,64.04,2.12,1.13
+WM35,Cutaneous melanoma,Female,24Y,Skin,26.42,0.0,0.0,0.26,72.7,0.38,0.25
+WM793,Cutaneous melanoma,Male,37Y,Skin,61.38,0.27,2.43,4.02,24.77,1.29,5.85
+WM88,Melanoma,Male,Age unspecified,Not specified,37.01,0.0,3.54,3.99,55.46,0.0,0.0
+WM983B,Melanoma,Male,54Y,Inguinal lymph node,64.28,0.0,2.75,5.11,22.68,0.0,5.18
+WRO,Thyroid gland follicular carcinoma,Female,Age unspecified,Not specified,61.74,0.0,2.33,1.32,24.0,3.34,7.27
+WSU-DLCL2,Diffuse large B-cell lymphoma germinal center B-cell type,Male,41Y,Pleural effusion,31.27,0.0,0.21,2.12,66.4,0.0,0.0
+WSU-NHL,Diffuse large B-cell lymphoma germinal center B-cell type,Female,48Y,Pleural effusion,24.73,0.04,0.0,0.0,71.53,0.46,3.25
+YAPC,Pancreatic carcinoma,Male,43Y,Ascites,0.0,0.82,0.0,85.11,0.0,13.9,0.15
+YD-10B,Tongue squamous cell carcinoma,Male,67Y,"Oral cavity, tongue",0.96,0.0,0.0,62.45,0.0,36.59,0.0
+YD-15,Tongue squamous cell carcinoma,Male,39Y,"Oral cavity, tongue",1.62,1.03,0.84,65.12,0.0,31.39,0.0
+YD-38,Gingival squamous cell carcinoma,Male,67Y,"Oral cavity, gingiva",0.26,0.56,0.0,61.56,0.0,37.62,0.0
+YD-8,Tongue squamous cell carcinoma,Female,46Y,"Oral cavity, tongue",1.01,0.59,0.0,62.69,0.0,35.7,0.0
+YH-13,Glioblastoma,Male,49Y,"Brain, left fronto-parietal lobe",0.0,0.0,0.04,83.27,0.0,16.69,0.0
+YKG-1,Glioblastoma,Female,53Y,"Brain, right temporo-occipital lobe",0.34,0.77,0.57,82.14,0.28,15.9,0.0
+YMB-1,Invasive breast carcinoma of no special type,Female,63Y,Ascites,37.62,0.0,1.26,3.7,57.42,0.0,0.0
+YMB-1-E,Invasive breast carcinoma of no special type,Female,63Y,Ascites,32.06,0.0,0.06,0.0,66.59,0.0,1.29
+YT,Natural killer cell lymphoblastic leukemia/lymphoma,Male,15Y,Pericardial effusion,0.0,0.69,0.12,74.01,0.0,25.17,0.0
+ZR-75-1,Invasive breast carcinoma of no special type,Female,63Y,Ascites,32.67,0.0,0.0,1.23,65.96,0.0,0.14
+ZR-75-30,Invasive breast carcinoma of no special type,Female,47Y,Ascites,14.38,0.74,71.64,3.41,9.83,0.0,0.0
