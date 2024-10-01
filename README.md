@@ -6,9 +6,8 @@ This project contains a Python script to stream and process the XML file from th
 
 
 ## Generated Files
+output/filtered_cell_lines_stream.csv
 
-- filtered_cell_lines_stream.csv
-- Filtered Cell Lines Excel
 
 ## Features
 - **Streaming**: Efficiently process large XML files without loading them entirely into memory.
