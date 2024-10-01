@@ -4,6 +4,12 @@
 
 This project contains a Python script to stream and process the XML file from the [Cellosaurus database](https://ftp.expasy.org/databases/cellosaurus/). The script filters cell lines with for ancestry data and outputs relevant data, including disease site, ancestry percentages, and other key information.
 
+
+## Generated Files
+
+- Filtered Cell Lines CSV
+- Filtered Cell Lines Excel
+
 ## Features
 - **Streaming**: Efficiently process large XML files without loading them entirely into memory.
 - **Filtering**: Filter cell lines based on presence of ancestry data. 
