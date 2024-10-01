@@ -14,7 +14,7 @@ This project contains a Python script to stream and process the XML file from th
 ## Features
 - **Streaming**: Efficiently process large XML files without loading them entirely into memory.
 - **Filtering**: Filter cell lines based on presence of ancestry data. 
-- **Output**: Generates CSV and Excel files with sorted data by African ancestry.
+- **Output**: Generates a CSV file with results  and Excel file with results sorted by descending African ancestry % from Cellosaurus.
 
 ## Installation
 
