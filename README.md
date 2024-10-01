@@ -1,7 +1,7 @@
 # Cellosaurus_Ancestry
-"A Python script to stream, filter, and process the  Cellosaurus XML for cell line ancestry values"
-# Cellosaurus XML Processor
+A Python script to stream, filter, and process the  Cellosaurus XML for cell line ancestry values
 
+# Cellosaurus XML Processor
 This project contains a Python script to stream and process the XML file from the [Cellosaurus database](https://ftp.expasy.org/databases/cellosaurus/). The script filters cell lines with for ancestry data and outputs relevant data, including disease site, ancestry percentages, and other key information.
 
 
